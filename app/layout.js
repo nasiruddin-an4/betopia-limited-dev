@@ -6,7 +6,7 @@ import AskAiSummary from "./components/AskAiSummary";
 
 export const metadata = {
   title:
-    "Betopia Limited — Enterprise AI, Cloud & Digital Transformation Partner",
+    "Betopia Limited | Enterprise AI, Cloud & Digital Transformation Partner",
   description:
     "Betopia Limited is a global enterprise technology company delivering AI, cloud, ERP and cybersecurity solutions to 300+ organizations across healthcare, BFSI, manufacturing and technology sectors.",
   alternates: {

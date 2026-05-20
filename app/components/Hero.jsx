@@ -123,7 +123,7 @@ export default function Hero() {
 
 
       {/* Content */}
-      <div className="absolute top-[30rem] left-0 right-0 z-30 flex flex-col items-center justify-end px-4 md:px-8">
+      <div className="absolute bottom-12 md:bottom-20 left-0 right-0 z-30 flex flex-col items-center justify-end px-4 md:px-8">
         <motion.div
           variants={containerVariants}
           initial="hidden"
@@ -132,9 +132,9 @@ export default function Hero() {
         >
           <motion.h1
             variants={itemVariants}
-            className="text-4xl md:text-5xl lg:text-7xl font-medium text-white mb-2 drop-shadow-lg leading-[1.3] tracking-tight"
+            className="text-3xl md:text-5xl font-medium text-white mb-2 drop-shadow-lg leading-[1.3] tracking-tight"
           >
-            AI-Powered Execution for <br></br>Every Enterprise
+            From Bangladesh to the World Delivering Enterprise AI, Cloud, and Digital Transformation.
           </motion.h1>
 
           {/* <motion.p
@@ -147,7 +147,7 @@ export default function Hero() {
       </div>
 
       {/* Bottom Gradient Overlay for Text Legibility */}
-      {/* <div className="absolute bottom-0 left-0 right-0 h-1/2 bg-gradient-to-t from-[#04060e]/90 via-[#04060e]/60 to-transparent z-20 pointer-events-none" /> */}
+      <div className="absolute bottom-0 left-0 right-0 h-[60%] bg-gradient-to-t from-[#04060e] via-[#04060e]/80 to-transparent z-20 pointer-events-none" />
     </div>
   );
 }
