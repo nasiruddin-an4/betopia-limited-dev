@@ -134,7 +134,8 @@ export default function Hero() {
             variants={itemVariants}
             className="text-3xl md:text-5xl font-medium text-white mb-2 drop-shadow-lg leading-[1.3] tracking-tight"
           >
-            From Bangladesh to the World <br></br>Delivering Enterprise AI, Cloud, and Digital Transformation.
+            From Bangladesh to the World <br />
+            Delivering AI, Cloud and Digital Transformation
           </motion.h1>
 
           {/* <motion.p

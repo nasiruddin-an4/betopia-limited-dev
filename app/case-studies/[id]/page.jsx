@@ -94,42 +94,25 @@ export default function CaseStudyDetail() {
 
   // Render video card helper to prevent duplication
   const renderVideoCard = () => (
-    <div 
+    <div
       onClick={() => setIsVideoOpen(true)}
-      className="w-full max-w-sm bg-black border border-white/10 rounded-2xl overflow-hidden shadow-2xl hover:border-orange-500/50 hover:shadow-orange-500/15 transition-all duration-500 cursor-pointer group text-left"
+      className="w-full bg-black border border-white/10 rounded-2xl overflow-hidden shadow-2xl hover:border-orange-500/50 hover:shadow-orange-500/15 transition-all duration-500 cursor-pointer group text-left relative aspect-[16/10]"
     >
       {/* Thumbnail and Play Button */}
-      <div className="relative aspect-[16/10] overflow-hidden">
-        <Image 
-          src={`https://img.youtube.com/vi/${study.video.youtubeId}/maxresdefault.jpg`}
-          alt={study.video.title}
-          fill
-          sizes="(max-width: 1024px) 100vw, 35vw"
-          className="object-cover transition-transform duration-700 group-hover:scale-105"
-        />
-        {/* Dark overlay */}
-        <div className="absolute inset-0 bg-black/30 group-hover:bg-black/10 transition-colors duration-500" />
-        
-        {/* Play Button Overlay */}
-        <div className="absolute inset-0 flex items-center justify-center">
-          <div className="w-16 h-16 rounded-full bg-white/15 backdrop-blur-md border border-white/20 text-white flex items-center justify-center transition-all duration-500 group-hover:scale-110 group-hover:bg-orange-500 group-hover:border-orange-400">
-            <Play size={24} fill="currentColor" className="ml-1" />
-          </div>
-        </div>
-      </div>
+      <Image
+        src={`https://img.youtube.com/vi/${study.video.youtubeId}/maxresdefault.jpg`}
+        alt={study.video.title}
+        fill
+        sizes="(max-width: 1024px) 100vw, 50vw"
+        className="object-cover transition-transform duration-700 group-hover:scale-105"
+      />
+      {/* Dark overlay */}
+      <div className="absolute inset-0 bg-black/30 group-hover:bg-black/10 transition-colors duration-500" />
 
-      {/* Info text below thumbnail */}
-      <div className="p-6">
-        <p className="text-[10px] md:text-xs font-bold text-orange-400 uppercase tracking-[0.2em] mb-2">
-          {study.video.title}
-        </p>
-        <h4 className="text-white font-semibold text-sm md:text-base mb-4 leading-relaxed group-hover:text-orange-400 transition-colors duration-300">
-          {study.video.description}
-        </h4>
-        <div className="flex items-center gap-2 pt-3 border-t border-white/5">
-          <span className="text-[10px] md:text-xs text-gray-400 font-bold tracking-wider uppercase">
-            {study.video.duration || "3 MINS WATCH"}
-          </span>
+      {/* Play Button Overlay */}
+      <div className="absolute inset-0 flex items-center justify-center">
+        <div className="w-16 h-16 rounded-full bg-white/15 backdrop-blur-md border border-white/20 text-white flex items-center justify-center transition-all duration-500 group-hover:scale-110 group-hover:bg-orange-500 group-hover:border-orange-400">
+          <Play size={24} fill="currentColor" className="ml-1" />
         </div>
       </div>
     </div>
@@ -151,43 +134,44 @@ export default function CaseStudyDetail() {
           </div>
         )}
 
-        <div className="container mx-auto px-6 lg:px-12 relative z-20">
-          <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-8 items-center">
-            {/* Left side text */}
-            <div className={`${study.video ? "lg:col-span-7" : "lg:col-span-12"} max-w-3xl`}>
+        <div className="container mx-auto px-6 lg:px-4 relative z-20">
+          {study.video ? (
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
+              {/* Grid 1 — Text */}
+              <div>
+                <ScrollReveal delay={0.1}>
+                  <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6 tracking-tight leading-[1.08]">
+                    {study.title}
+                  </h1>
+                </ScrollReveal>
+                <ScrollReveal delay={0.15}>
+                  <p className="text-lg md:text-xl text-slate-200 leading-relaxed font-light">
+                    {study.description}
+                  </p>
+                </ScrollReveal>
+              </div>
+
+              {/* Grid 2 — Video */}
+              <div>
+                <ScrollReveal delay={0.25}>
+                  {renderVideoCard()}
+                </ScrollReveal>
+              </div>
+            </div>
+          ) : (
+            <div className="max-w-3xl">
               <ScrollReveal delay={0.1}>
                 <h1 className="text-4xl md:text-5xl lg:text-7xl font-bold text-white mb-6 tracking-tight leading-[1.1]">
                   {study.title}
                 </h1>
               </ScrollReveal>
-
               <ScrollReveal delay={0.15}>
                 <p className="text-lg md:text-xl text-slate-200 leading-relaxed font-light">
                   {study.description}
                 </p>
               </ScrollReveal>
             </div>
-
-            {/* Right side Video Card (Desktop) */}
-            {study.video && (
-              <div className="hidden lg:block lg:col-span-5 w-full flex justify-end">
-                <ScrollReveal delay={0.25}>
-                  <div className="w-full max-w-sm ml-auto">
-                    {renderVideoCard()}
-                  </div>
-                </ScrollReveal>
-              </div>
-            )}
-
-            {/* Mobile/Tablet Inline Video Card */}
-            {study.video && (
-              <div className="lg:hidden mt-8 w-full flex justify-center">
-                <ScrollReveal delay={0.25}>
-                  {renderVideoCard()}
-                </ScrollReveal>
-              </div>
-            )}
-          </div>
+          )}
         </div>
       </section>
 
@@ -477,7 +461,7 @@ export default function CaseStudyDetail() {
                               {r.tagline}
                             </p>
                           </div>
-                          
+
                           <div className="pt-4 border-t border-gray-50 flex items-center justify-between">
                             <span className="inline-flex items-center gap-1.5 text-xs font-bold text-gray-400 group-hover:text-brand-bright-orange transition-colors duration-300">
                               View Case Study
@@ -620,21 +604,21 @@ export default function CaseStudyDetail() {
 
       {/* ═══════ VIDEO MODAL ═══════ */}
       {study.video && isVideoOpen && (
-        <div 
+        <div
           className="fixed inset-0 bg-black/90 z-50 flex items-center justify-center p-4 md:p-10 cursor-pointer"
           onClick={() => setIsVideoOpen(false)}
         >
           {/* Close button */}
-          <button 
+          <button
             onClick={() => setIsVideoOpen(false)}
             className="absolute top-6 right-6 text-white/70 hover:text-white transition-colors cursor-pointer bg-white/10 p-3 rounded-full hover:bg-white/20 border-0"
             aria-label="Close Video"
           >
             <X className="w-6 h-6" />
           </button>
-          
+
           {/* Video Container */}
-          <div 
+          <div
             className="relative w-full max-w-5xl aspect-video bg-black rounded-2xl overflow-hidden shadow-2xl cursor-default"
             onClick={(e) => e.stopPropagation()}
           >

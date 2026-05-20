@@ -24,7 +24,19 @@ const DynamicIcon = ({ name, ...props }) => {
   return <Icon {...props} />;
 };
 
+const STEP_ICONS = [
+  RiIcons.RiDiscussLine,       // Step 1: Consult / Discuss
+  RiIcons.RiPaletteLine,       // Step 2: Design / Palette
+  RiIcons.RiSettings3Line,     // Step 3: Implement / Settings
+  RiIcons.RiRocketLine,        // Step 4: Optimize / Rocket
+  RiIcons.RiDiscussLine,
+  RiIcons.RiPulseLine
+];
+
 export default function IndustryPageLayout({ data }) {
+  const [activeIndex, setActiveIndex] = React.useState(0);
+  const [isAutoplay, setIsAutoplay] = React.useState(true);
+
   // Map old data format to new format if needed
   const isNewFormat = !!data.hero;
 
@@ -104,6 +116,14 @@ export default function IndustryPageLayout({ data }) {
 
   const trustedBy = data.trustedBy;
   const successStories = data.successStories;
+
+  React.useEffect(() => {
+    if (!isAutoplay || !cta || !cta.benefits || cta.benefits.length === 0) return;
+    const interval = setInterval(() => {
+      setActiveIndex((prev) => (prev + 1) % cta.benefits.length);
+    }, 3800);
+    return () => clearInterval(interval);
+  }, [isAutoplay, cta?.benefits?.length]);
 
   return (
     <div className="text-gray-900 min-h-screen overflow-x-hidden">
@@ -571,66 +591,175 @@ export default function IndustryPageLayout({ data }) {
         </section>
       )}
 
-      {/* 7. CTA SECTION */}
-      {cta && (
-        <section
-          className={`bg-gray-50 py-20 md:py-28 relative overflow-hidden`}
-        >
-          <div className="container mx-auto px-4 md:px-6 relative z-10">
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
-              <div>
-                <ScrollReveal>
-                  <span className="text-[11px] font-bold uppercase tracking-[3px] text-brand-bright-orange mb-4 block">
-                    {cta.subtitle}
-                  </span>
-                  <h2
-                    className={`text-4xl lg:text-5xl font-semibold text-gray-900 mb-6 leading-[1.15]`}
-                  >
-                    {cta.title1}{" "}
-                    <span className="text-brand-bright-orange">
-                      {cta.titleHighlight}
-                    </span>{" "}
-                    {cta.title2}
-                  </h2>
-                </ScrollReveal>
-                <ScrollReveal delay={0.1}>
-                  <p
-                    className={`text-gray-600 text-lg mb-10 max-w-lg leading-relaxed`}
-                  >
-                    {cta.description}
-                  </p>
-                </ScrollReveal>
-                <ScrollReveal delay={0.2}>
-                  <RollingButton
-                    text="Start Your Transformation"
-                    href="/contact"
-                  />
-                </ScrollReveal>
-              </div>
+      {/* 7. BENEFITS SECTION */}
+      {cta && cta.benefits && (
+        <section className="bg-white py-16 md:py-24 relative overflow-hidden">
+          {/* Subtle background glows */}
+          <div className="absolute top-1/2 left-1/4 -translate-y-1/2 w-[600px] h-[600px] bg-brand-bright-orange/5 rounded-full blur-[140px] pointer-events-none" />
 
-              <ScrollReveal delay={0.3}>
-                <div
-                  className={`bg-white border border-gray-100 shadow-2xl shadow-gray-200/50 rounded-3xl p-8 md:p-12 relative overflow-hidden`}
-                >
-                  <div className="absolute -right-20 -bottom-20 w-64 h-64 bg-brand-bright-orange/10 rounded-full blur-[80px]" />
-                  <h3 className="text-gray-900 text-2xl font-bold mb-8 relative z-10">
-                    {cta.benefitsTitle}
-                  </h3>
-                  <ul className="space-y-5 relative z-10">
-                    {cta.benefits &&
-                      Array.isArray(cta.benefits) &&
-                      cta.benefits.map((ben, idx) => (
-                        <li key={idx} className="flex items-start gap-4">
-                          <LucideIcons.CheckCircle2 className="text-brand-bright-orange w-6 h-6 shrink-0" />
-                          <span className="text-gray-600 text-[16px] font-medium pt-0.5">
-                            {ben}
-                          </span>
-                        </li>
-                      ))}
-                  </ul>
-                </div>
+          <div className="container mx-auto px-4 md:px-6 relative z-10">
+            <div className="text-center mb-16">
+              <ScrollReveal>
+                <h3 className="text-gray-900 text-3xl md:text-4xl font-extrabold tracking-tight">
+                  {cta.benefitsTitle}
+                </h3>
               </ScrollReveal>
             </div>
+
+            {/* Timeline Progress Bar (Visible on tablet/desktop) */}
+            <div className="hidden md:block relative w-full max-w-3xl mx-auto mb-16 h-10">
+              {/* Track wrapper that aligns exactly with button centers */}
+              <div className="absolute left-5 right-5 top-1/2 -translate-y-1/2 h-[2px]">
+                {/* Background gray line */}
+                <div className="absolute inset-0 bg-gray-200" />
+
+                {/* Active filled line */}
+                <div
+                  className="absolute left-0 top-0 bottom-0 bg-brand-bright-orange transition-all duration-700 ease-out"
+                  style={{
+                    width: `${(activeIndex / (cta.benefits.length - 1)) * 100}%`
+                  }}
+                />
+              </div>
+
+              {/* Step indicator bubbles */}
+              <div className="absolute inset-0 flex justify-between items-center z-10">
+                {cta.benefits.map((_, idx) => {
+                  const isActive = idx <= activeIndex;
+                  const isCurrent = idx === activeIndex;
+                  return (
+                    <button
+                      key={idx}
+                      onClick={() => {
+                        setActiveIndex(idx);
+                        setIsAutoplay(false);
+                      }}
+                      className={`w-10 h-10 rounded-full border-2 flex items-center justify-center transition-all duration-500 bg-white ${isCurrent
+                        ? "border-brand-bright-orange bg-brand-bright-orange text-white scale-110 shadow-lg shadow-orange-500/20"
+                        : isActive
+                          ? "border-brand-bright-orange text-brand-bright-orange bg-orange-50/50"
+                          : "border-gray-200 text-gray-400 hover:border-gray-300"
+                        }`}
+                    >
+                      {isActive ? (
+                        <LucideIcons.Check size={16} strokeWidth={3} />
+                      ) : (
+                        <span className="text-xs font-bold">0{idx + 1}</span>
+                      )}
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+
+            {/* Cards Grid */}
+            <div className="flex flex-wrap justify-center gap-6 z-10 relative">
+              {cta.benefits.map((ben, idx) => {
+                const isCurrent = idx === activeIndex;
+                const hasColon = ben.includes(":");
+                let title = "";
+                let desc = ben;
+                if (hasColon) {
+                  const parts = ben.split(":");
+                  title = parts[0].trim();
+                  desc = parts.slice(1).join(":").trim();
+                }
+
+                // Choose a dynamic icon from standard STEP_ICONS constant
+                const IconComponent = STEP_ICONS[idx % STEP_ICONS.length] || LucideIcons.CheckCircle2;
+
+                return (
+                  <ScrollReveal
+                    key={idx}
+                    delay={0.08 * idx}
+                    width="auto"
+                    className="w-full sm:w-[calc(50%-12px)] lg:flex-1 lg:min-w-[220px] lg:max-w-[260px] flex flex-col"
+                  >
+                    <div
+                      onClick={() => {
+                        setActiveIndex(idx);
+                        setIsAutoplay(false);
+                      }}
+                      className={`group bg-white rounded-[24px] p-8 border cursor-pointer transition-all duration-500 ease-out flex flex-col text-left h-[280px] w-full relative overflow-hidden ${isCurrent
+                        ? "border-brand-bright-orange shadow-2xl shadow-orange-500/10 -translate-y-2 scale-105 z-10"
+                        : "border-gray-100/80 shadow-sm opacity-60 hover:opacity-100 hover:-translate-y-1"
+                        }`}
+                    >
+                      {/* Top internal glow effect for active card */}
+                      {isCurrent && (
+                        <div className="absolute -right-16 -top-16 w-32 h-32 bg-brand-bright-orange/10 rounded-full blur-2xl pointer-events-none" />
+                      )}
+
+                      {/* Step Tag */}
+                      <span className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-4 block">
+                        Step 0{idx + 1}
+                      </span>
+
+                      {/* Icon */}
+                      <div className={`w-12 h-12 rounded-xl flex items-center justify-center mb-6 transition-all duration-500 ${isCurrent
+                        ? "bg-brand-bright-orange text-white scale-110 shadow-md shadow-orange-500/20"
+                        : "bg-gray-50 text-gray-400 group-hover:bg-gray-100 group-hover:text-gray-600"
+                        }`}>
+                        <IconComponent size={20} />
+                      </div>
+
+                      {/* Content */}
+                      <div className="mt-auto">
+                        <h4 className="text-[20px] font-bold text-gray-900 mb-2 leading-snug">
+                          {title || ben}
+                        </h4>
+                        {title && (
+                          <p className="text-sm text-gray-500 font-medium leading-relaxed line-clamp-3">
+                            {desc}
+                          </p>
+                        )}
+                      </div>
+
+                      {/* Animated bottom bar progress line indicator */}
+                      <div className={`absolute bottom-0 left-0 right-0 h-1.5 bg-brand-bright-orange transition-transform duration-700 origin-left ${isCurrent ? "scale-x-100" : "scale-x-0"
+                        }`} />
+                    </div>
+                  </ScrollReveal>
+                );
+              })}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* 8. CTA SECTION */}
+      {cta && (
+        <section
+          className="bg-gray-50 py-20 md:py-28 relative overflow-hidden text-center"
+        >
+          <div className="container mx-auto px-4 md:px-6 relative z-10 max-w-5xl">
+            <ScrollReveal>
+              <span className="text-[11px] font-bold uppercase tracking-[3px] text-brand-bright-orange mb-4 block">
+                {cta.subtitle}
+              </span>
+              <h2
+                className="text-4xl lg:text-5xl font-semibold text-gray-900 mb-6 leading-[1.15]"
+              >
+                {cta.title1}{" "}
+                <span className="text-brand-bright-orange">
+                  {cta.titleHighlight}
+                </span>{" "}
+                {cta.title2}
+              </h2>
+            </ScrollReveal>
+            <ScrollReveal delay={0.1}>
+              <p
+                className="text-gray-600 text-lg mb-10 mx-auto max-w-2xl leading-relaxed"
+              >
+                {cta.description}
+              </p>
+            </ScrollReveal>
+            <ScrollReveal delay={0.2}>
+              <RollingButton
+                text="Start Your Transformation"
+                href="/contact"
+              />
+            </ScrollReveal>
           </div>
         </section>
       )}
