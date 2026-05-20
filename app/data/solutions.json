@@ -1,0 +1,2762 @@
+{
+  "ai": {
+    "heroBg": "/serviceImg/AI-Solutions-for-Enterprises.jpg",
+    "heroAlt": "AI Solutions for Enterprises",
+    "breadcrumb": "Solutions",
+    "breadcrumbHighlight": "AI",
+    "heroTitle": "AI Solutions",
+    "titleHighlights": "for Enterprises",
+    "heroDesc": "End-to-end AI solutions that enable intelligent decision-making, automation and innovation—helping enterprises unlock value from data, processes and digital experiences responsibly and at scale.",
+    "sectionTitle": "AI Solutions for Enterprises",
+    "sectionDesc": "We design, build and deploy enterprise-ready AI solutions that integrate seamlessly with business systems—enabling predictive insights, automation, enhanced experiences and smarter operations while ensuring security, scalability and responsible AI adoption.",
+    "solutionsList": [
+      {
+        "icon": "Server",
+        "title": "Machine Learning & Predictive Analytics",
+        "desc": "We help organizations anticipate outcomes and optimize decisions using data-driven models.",
+        "bullets": [
+          "Predictive models for business forecasting",
+          "Pattern recognition and trend analysis",
+          "Data-driven decision-making"
+        ]
+      },
+      {
+        "icon": "Database",
+        "title": "Natural Language Processing (NLP) & Conversational AI",
+        "desc": "We enable intelligent, human-like interactions across channels.",
+        "bullets": [
+          "AI chatbots and virtual assistants",
+          "Text and speech processing capabilities",
+          "Enhanced customer and employee interactions"
+        ]
+      },
+      {
+        "icon": "Cloud",
+        "title": "Computer Vision & Image Video Analytics",
+        "desc": "We extract actionable insights from visual data.",
+        "bullets": [
+          "Image and video recognition solutions",
+          "Object detection and visual pattern analysis",
+          "Automation of inspection and monitoring tasks"
+        ]
+      },
+      {
+        "icon": "Network",
+        "title": "Generative AI",
+        "desc": "We accelerate creativity and productivity using generative intelligence.",
+        "bullets": [
+          "AI-driven content, design and code generation",
+          "Automation of creative and knowledge-based tasks",
+          "Improved workforce productivity and innovation"
+        ]
+      },
+      {
+        "icon": "Shield",
+        "title": "AI-Powered Analytics & Business Intelligence",
+        "desc": "We enhance analytics platforms with AI-driven intelligence.",
+        "bullets": [
+          "Advanced AI-powered insights and recommendations",
+          "Automated analytics and reporting",
+          "Improved strategic planning and forecasting"
+        ]
+      },
+      {
+        "icon": "Activity",
+        "title": "AI for Security & Compliance",
+        "desc": "We strengthen security and governance using AI-driven detection and automation.",
+        "bullets": [
+          "Threat detection using machine learning models",
+          "Risk analysis and compliance monitoring",
+          "Automated response to security incidents"
+        ]
+      },
+      {
+        "icon": "Code",
+        "title": "AI for IoT & Edge",
+        "desc": "We enable real-time intelligence at the edge.",
+        "bullets": [
+          "AI processing at the edge and near devices",
+          "Real-time insights from IoT data streams",
+          "Reduced latency and optimized bandwidth usage"
+        ]
+      },
+      {
+        "icon": "Layers",
+        "title": "AI for Employee Experience & HR",
+        "desc": "We improve workforce engagement and operational efficiency using AI.",
+        "bullets": [
+          "AI-driven talent and workforce analytics",
+          "Employee engagement and experience optimization",
+          "Automation of HR processes"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "icon": "Award",
+        "title": "Enterprise AI Strategy, Development & Deployment",
+        "desc": "Proven expertise in enterprise data platforms and analytics"
+      },
+      {
+        "icon": "Zap",
+        "title": "End-to-End AI Coverage: Data, Models & Applications",
+        "desc": "End-to-end coverage from databases to AI-driven insights"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Responsible, Secure & Scalable AI Adoption",
+        "desc": "Secure, compliant data architectures aligned with enterprise standards"
+      },
+      {
+        "icon": "Shield",
+        "title": "AI Solutions Across Business, Security, IoT & HR",
+        "desc": "Experience supporting real-time, large-scale and AI-enabled analytics"
+      }
+    ],
+    "stats": [
+      {
+        "value": "3x",
+        "label": "Performance Boost"
+      },
+      {
+        "value": "50%",
+        "label": "Cost Reduction"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime SLA"
+      }
+    ]
+  },
+  "ai-security": {
+    "heroBg": "/solutionImgs/AI-Security-Solutions-for-Enterprises.jpg",
+    "heroAlt": "AI Security Solutions for Enterprises",
+    "breadcrumb": "Solutions",
+    "breadcrumbHighlight": "AI Security",
+    "heroTitle": "AI Security Solutions",
+    "titleHighlights": "for Enterprises",
+    "heroDesc": "End-to-end AI security solutions that protect models, data, infrastructure and AI operationsensuring trustworthy, compliant and resilient AI adoption across the enterprise.",
+    "sectionTitle": "AI Security Solutions for Enterprises",
+    "sectionDesc": "We design and implement comprehensive AI security frameworks that protect artificial intelligence systems throughout their lifecycle—from data and model training to deployment, inference and governance—while enabling safe and responsible AI innovation.",
+    "solutionsList": [
+      {
+        "icon": "Server",
+        "title": "AI Model Security",
+        "desc": "We protect AI models from manipulation, misuse and adversarial attacks.",
+        "bullets": [
+          "AI model integrity protection",
+          "Defense against data poisoning and evasion attacks",
+          "Secure training and validation pipelines"
+        ]
+      },
+      {
+        "icon": "Database",
+        "title": "Data Security for AI",
+        "desc": "We safeguard sensitive data used to train and operate AI systems.",
+        "bullets": [
+          "Protection of training and inference data",
+          "Prevention of data leakage and unauthorized access",
+          "Strong access control for AI datasets"
+        ]
+      },
+      {
+        "icon": "Cloud",
+        "title": "AI Infrastructure Security",
+        "desc": "We secure the compute and platforms that power AI workloads.",
+        "bullets": [
+          "Secure AI compute environments (GPU, TPU and accelerators)",
+          "Protection across cloud and on-prem AI infrastructure",
+          "Isolation and continuous monitoring of AI workloads"
+        ]
+      },
+      {
+        "icon": "Network",
+        "title": "AI Access & Identity Security",
+        "desc": "We control who can access AI models, services and data",
+        "bullets": [
+          "Role-based access to AI systems",
+          "Authentication of AI models and services",
+          "Full auditability of AI access and usage"
+        ]
+      },
+      {
+        "icon": "Shield",
+        "title": "Threat Detection & Monitoring for AI Systems",
+        "desc": "We detect threats targeting AI workloads and behaviors.",
+        "bullets": [
+          "Anomaly detection across AI workloads",
+          "Continuous monitoring of model behavior and drift",
+          "Detection of AI-specific attacks and abuse"
+        ]
+      },
+      {
+        "icon": "Activity",
+        "title": "AI Supply Chain Security",
+        "desc": "We secure the AI development and deployment supply chain.",
+        "bullets": [
+          "Third-party AI model and component risk management",
+          "Dependency integrity and provenance checks",
+          "Secure sourcing of models and datasets"
+        ]
+      },
+      {
+        "icon": "Code",
+        "title": "AI Governance & Compliance",
+        "desc": "We help organizations adopt AI responsibly and compliantly.",
+        "bullets": [
+          "AI policy, ethics and governance enforcement",
+          "Alignment with regulatory and industry frameworks",
+          "Transparency, explainability and auditability"
+        ]
+      },
+      {
+        "icon": "Layers",
+        "title": "AI Cloud Security Solutions",
+        "desc": "We secure AI workloads deployed on cloud platforms.",
+        "bullets": [
+          "Cloud-native protection for AI and ML services",
+          "Secure machine learning platforms and pipelines",
+          "Visibility and centralized control"
+        ]
+      },
+      {
+        "icon": "Server",
+        "title": "AI Endpoint & Edge Security",
+        "desc": "We protect AI workloads running at the edge.",
+        "bullets": [
+          "Security for edge-deployed AI models",
+          "Secure inference environments",
+          "Device integrity and tamper protection"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "icon": "Award",
+        "title": "AI, Cloud & Security Convergence Expertise",
+        "desc": "Deep expertise in AI, cloud and security convergence"
+      },
+      {
+        "icon": "Zap",
+        "title": "End-to-End AI Coverage Across Models & Infrastructure",
+        "desc": "Coverage across AI models, data, infrastructure and governance"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Secure-by-Design AI Architecture & Compliance",
+        "desc": "Secure-by-design AI architectures aligned with enterprise and regulatory requirements"
+      },
+      {
+        "icon": "Shield",
+        "title": "Enterprise & Cloud-Scale AI Adoption Experience",
+        "desc": "Proven experience supporting enterprise, industrial and cloud-scale AI adoption"
+      }
+    ],
+    "stats": [
+      {
+        "value": "3x",
+        "label": "Performance Boost"
+      },
+      {
+        "value": "50%",
+        "label": "Cost Reduction"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime SLA"
+      }
+    ]
+  },
+  "application-security": {
+    "heroBg": "/solutionImgs/Application-Security-Solutions-for-Enterprises.jpg",
+    "heroAlt": "Application Security Solutions for Enterprises",
+    "breadcrumb": "Solutions",
+    "breadcrumbHighlight": "Application Security",
+    "heroTitle": "Application Security Solutions",
+    "titleHighlights": "for Enterprises",
+    "heroDesc": "End-to-end application security solutions that protect software across the entire lifecycle—from development and testing to deployment and runtime—ensuring secure, resilient and compliant applications.",
+    "sectionTitle": "Application Security Solutions for Enterprises",
+    "sectionDesc": "We design and implement comprehensive application security architectures that embed security into every stage of the application lifecycle, helping organizations prevent vulnerabilities, secure APIs and protect applications in production environments.",
+    "solutionsList": [
+      {
+        "icon": "Server",
+        "title": "Static Application Security Testing (SAST)",
+        "desc": "We identify vulnerabilities early in the development lifecycle by analyzing application source code.",
+        "bullets": [
+          "Source code vulnerability detection",
+          "Early risk identification during the SDLC",
+          "Developer-friendly remediation guidance"
+        ]
+      },
+      {
+        "icon": "Database",
+        "title": "Dynamic Application Security Testing (DAST)",
+        "desc": "We test applications in runtime to uncover real-world security weaknesses.",
+        "bullets": [
+          "Runtime vulnerability testing of live applications",
+          "Black-box security assessments",
+          "Web application risk discovery"
+        ]
+      },
+      {
+        "icon": "Cloud",
+        "title": "Software Composition Analysis (SCA)",
+        "desc": "We secure open-source components and application dependencies.",
+        "bullets": [
+          "Open-source dependency discovery and scanning",
+          "License and vulnerability management",
+          "Supply-chain risk reduction"
+        ]
+      },
+      {
+        "icon": "Network",
+        "title": "Runtime Application Self-Protection (RASP)",
+        "desc": "We provide real-time protection from within the application itself.",
+        "bullets": [
+          "In-application attack detection",
+          "Real-time threat blocking",
+          "Low false positives with contextual awareness"
+        ]
+      },
+      {
+        "icon": "Shield",
+        "title": "API Security Solutions",
+        "desc": "We secure open-source components and application dependencies.",
+        "bullets": [
+          "Open-source dependency discovery and scanning",
+          "License and vulnerability management",
+          "Supply-chain risk reduction"
+        ]
+      },
+      {
+        "icon": "Activity",
+        "title": "Cloud-Native Application Protection Platforms (CNAPP)",
+        "desc": "We deliver unified security for cloud-native applications and workloads.",
+        "bullets": [
+          "End-to-end cloud workload protection",
+          "Coverage across CSPM, CWPP and CIEM",
+          "Risk prioritization and contextual visibility"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "icon": "Award",
+        "title": "Enterprise & Cloud-Native Application Security",
+        "desc": "Deep expertise in enterprise and cloud-native application security"
+      },
+      {
+        "icon": "Zap",
+        "title": "Security-by-Design Across Application Lifecycle",
+        "desc": "Security-by-design approach across the application lifecycle"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Protection for Web, API and Cloud-Native Apps",
+        "desc": "Experience securing web, API-driven and cloud-native applications"
+      },
+      {
+        "icon": "Shield",
+        "title": "DevSecOps & Modern Development Alignment",
+        "desc": "Alignment with DevSecOps and modern development practices"
+      }
+    ],
+    "stats": [
+      {
+        "value": "3x",
+        "label": "Performance Boost"
+      },
+      {
+        "value": "50%",
+        "label": "Cost Reduction"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime SLA"
+      }
+    ]
+  },
+  "business-application": {
+    "heroBg": "/serviceImg/Business-Applications-Solutions-for-Enterprises.jpg",
+    "heroAlt": "Business Application Solutions",
+    "breadcrumb": "Solutions",
+    "breadcrumbHighlight": "Business Application Solutions",
+    "heroTitle": "Business Application Solutions",
+    "titleHighlights": "for Enterprises",
+    "heroDesc": "We help organizations modernize core operations, automate processes, gain actionable insights and deliver superior customer and employee experiences.",
+    "sectionTitle": "Modernize Core Operations",
+    "sectionDesc": "We deliver end-to-end consulting, implementation and integration services across leading ERP, CRM and HCM platforms. Our vendor-neutral approach ensures your organization selects and deploys the right technology to drive growth and operational excellence.",
+    "solutionsList": [
+      {
+        "icon": "Server",
+        "title": "Enterprise Resource Planning (ERP)",
+        "desc": "Integrate finance, procurement, inventory, manufacturing and operations into a unified platform.",
+        "bullets": [
+          "Financial management, accounting and reporting",
+          "Procurement, inventory and supply chain management",
+          "Manufacturing, operational control and project costing"
+        ]
+      },
+      {
+        "icon": "ActivitySquare",
+        "title": "Customer Relationship Management (CRM)",
+        "desc": "Manage sales, marketing and customer service through a single platform.",
+        "bullets": [
+          "Sales pipeline and opportunity management",
+          "Marketing automation and lead nurturing",
+          "Customer service, case management and unified insights"
+        ]
+      },
+      {
+        "icon": "Layers",
+        "title": "Human Capital Management (HCM)",
+        "desc": "Support the entire employee lifecycle with efficient talent management and compliance.",
+        "bullets": [
+          "Core HR and employee data management",
+          "Payroll, benefits and statutory compliance",
+          "Talent acquisition, onboarding and workforce analytics"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "icon": "Award",
+        "title": "Cost Efficiency at Scale",
+        "desc": "Real-time cost visibility and standardized processes reduce operational waste."
+      },
+      {
+        "icon": "Zap",
+        "title": "Workforce Scalability",
+        "desc": "Structured sales pipelines and real-time insights shorten sales cycles and boost productivity."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Margin Protection",
+        "desc": "Accurate costing and financial controls improve pricing discipline."
+      },
+      {
+        "icon": "Shield",
+        "title": "Compliance Confidence",
+        "desc": "Localized controls and automation reduce risk as your business and headcount increase."
+      }
+    ],
+    "stats": [
+      {
+        "value": "3x",
+        "label": "Performance Boost"
+      },
+      {
+        "value": "50%",
+        "label": "Cost Reduction"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime SLA"
+      }
+    ]
+  },
+  "cloud-infrastructure": {
+    "heroBg": "/solutionImgs/Cloud-Infrastructure-Solutions-for-Enterprises.jpg",
+    "heroAlt": "Cloud Infrastructure Solutions for Enterprises",
+    "breadcrumb": "Solutions",
+    "breadcrumbHighlight": "Cloud Infrastructure",
+    "heroTitle": "Cloud Infrastructure Solutions",
+    "titleHighlights": "for Enterprises",
+    "heroDesc": "Enterprise-grade cloud infrastructure solutions covering compute, storage, networking, databases, backup and performance management—designed for reliability, scalability and business continuity.",
+    "sectionTitle": "Cloud Infrastructure Solutions for Enterprises",
+    "sectionDesc": "We design, deploy and manage end-to-end cloud infrastructure environments that support enterprise workloads across public cloud, private cloud and hybrid architectures—ensuring performance, resilience and cost efficiency.",
+    "solutionsList": [
+      {
+        "icon": "Server",
+        "title": "Hardware for Compute & Storage",
+        "desc": "We provide enterprise-grade hardware foundations optimized for cloud infrastructure performance and availability.",
+        "bullets": [
+          "Enterprise-grade computing and storage hardware platforms",
+          "Scalable architecture aligned with workload and growth requirements",
+          "High-availability, performance-focused infrastructure design"
+        ]
+      },
+      {
+        "icon": "Database",
+        "title": "Compute / Server / Container Solutions",
+        "desc": "We deliver flexible compute platforms for both traditional and cloud-native workloads.",
+        "bullets": [
+          "Cloud-based virtual machines and server workloads",
+          "Container platforms and orchestration support",
+          "Auto-scaling and workload optimization"
+        ]
+      },
+      {
+        "icon": "Cloud",
+        "title": "Storage / Backup / Archive Solutions",
+        "desc": "We design secure, scalable and cost-efficient cloud storage ecosystems.",
+        "bullets": [
+          "Block, file and object storage solutions",
+          "Cloud-native backup and archival services",
+          "Data lifecycle management and cost optimization"
+        ]
+      },
+      {
+        "icon": "Network",
+        "title": "Networking / Connectivity / CDN Solutions",
+        "desc": "We enable high-performance, secure cloud connectivity across environments.",
+        "bullets": [
+          "Virtual networking and VPC / VNet design",
+          "Secure connectivity between cloud and on-prem environments",
+          "Content Delivery Network (CDN) optimization"
+        ]
+      },
+      {
+        "icon": "Shield",
+        "title": "Database / Analytics / Data Migration Solutions",
+        "desc": "We support data-driven cloud platforms with secure and optimized data services.",
+        "bullets": [
+          "Managed and self-hosted cloud database solutions",
+          "Analytics and enterprise reporting platforms",
+          "Secure data migration to cloud environments"
+        ]
+      },
+      {
+        "icon": "Activity",
+        "title": "Backup, Disaster Recovery & Business Continuity",
+        "desc": "We protect cloud workloads with resilient backup and recovery strategies.",
+        "bullets": [
+          "Cloud-based backup and replication solutions",
+          "Disaster recovery architecture with defined RTO and RPO",
+          "Business continuity planning for critical workloads"
+        ]
+      },
+      {
+        "icon": "Code",
+        "title": "Cloud Monitoring & Performance Management",
+        "desc": "We provide full visibility and proactive management of cloud environments.",
+        "bullets": [
+          "Real-time monitoring of cloud resources and services",
+          "Performance optimization and capacity planning",
+          "Proactive alerting and incident response"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "icon": "Award",
+        "title": "Enterprise Cloud Infrastructure Expertise",
+        "desc": "Proven expertise in enterprise cloud infrastructure architecture"
+      },
+      {
+        "icon": "Zap",
+        "title": "Vendor-Neutral Multi-Cloud Approach",
+        "desc": "Vendor-neutral approach across leading cloud platforms"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Secure-by-Design & ISO 27001 Compliance",
+        "desc": "Secure-by-design implementations aligned with ISO 27001 and enterprise standards"
+      },
+      {
+        "icon": "Shield",
+        "title": "Single-Cloud, Multi-Cloud & Hybrid Cloud Support",
+        "desc": "Experience supporting single-cloud, multi-cloud and hybrid cloud environments"
+      }
+    ],
+    "stats": [
+      {
+        "value": "3x",
+        "label": "Performance Boost"
+      },
+      {
+        "value": "50%",
+        "label": "Cost Reduction"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime SLA"
+      }
+    ]
+  },
+  "cyber-security": {
+    "heroBg": "/solutionImgs/Infrastructure-Security.jpg",
+    "heroAlt": "Infrastructure Security Solutions",
+    "breadcrumb": "Cyber Security Solutions",
+    "breadcrumbHighlight": "Infrastructure Security Solutions",
+    "heroTitle": "Secure Your Infrastructure at",
+    "titleHighlights": "Every Layer",
+    "heroDesc": "Comprehensive infrastructure security solutions protecting virtualized, containerized, server and cloud environments against modern cyber threats while ensuring resilience and business continuity.",
+    "sectionTitle": "Infrastructure Security Solutions",
+    "sectionDesc": "We design and implement end-to-end infrastructure security architectures that protect enterprise workloads across data centers, cloud platforms and hybrid environments—ensuring visibility, control and resilience",
+    "solutionsList": [
+      {
+        "icon": "Server",
+        "title": "Virtual Infrastructure Security (VM Security)",
+        "desc": "We secure virtualized environments against internal and external threats.",
+        "bullets": [
+          "Protection for virtual machines and hypervisors",
+          "East–west traffic inspection and visibility",
+          "Policy-based workload isolation"
+        ]
+      },
+      {
+        "icon": "Box",
+        "title": "Container & Kubernetes Security",
+        "desc": "We protect containerized workloads across the full application lifecycle.",
+        "bullets": [
+          "Container image scanning and runtime protection",
+          "Kubernetes posture management and policy enforcement",
+          "Cluster visibility and threat detection"
+        ]
+      },
+      {
+        "icon": "HardDrive",
+        "title": "Server & Operating System Security",
+        "desc": "We harden and protect enterprise server environments.",
+        "bullets": [
+          "Operating system hardening and patch management",
+          "Endpoint protection and behavioral monitoring",
+          "Privilege escalation and process control"
+        ]
+      },
+      {
+        "icon": "Cloud",
+        "title": "Cloud Infrastructure Security",
+        "desc": "We secure cloud environments with continuous posture management and governance.",
+        "bullets": [
+          "Cloud Security Posture Management (CSPM)",
+          "Misconfiguration detection and risk assessment",
+          "Multi-cloud visibility and governance"
+        ]
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "Backup, Resilience & Ransomware Protection",
+        "desc": "We ensure infrastructure resilience against ransomware and system failures.",
+        "bullets": [
+          "Immutable and secure backup architecture",
+          "Ransomware detection and rapid recovery",
+          "Business continuity enablement"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "icon": "Award",
+        "title": "Enterprise Infrastructure & Cloud Security Expertise",
+        "desc": "Proven expertise in enterprise infrastructure and cloud security"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Secure-by-Design & Compliance-Driven Architecture",
+        "desc": "Secure-by-design architectures aligned with Zero Trust and ISO 27001 standards"
+      },
+      {
+        "icon": "Shield",
+        "title": "Protection for Virtualized & Cloud-Native Environments",
+        "desc": "Experience securing virtualized, containerized and cloud-native workloads"
+      },
+      {
+        "icon": "Activity",
+        "title": "Proactive, Resilient Security Strategy",
+        "desc": "Proactive security approach focused on prevention, detection and resilience"
+      }
+    ],
+    "stats": [
+      {
+        "value": "3x",
+        "label": "Performance Boost"
+      },
+      {
+        "value": "50%",
+        "label": "Cost Reduction"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime SLA"
+      }
+    ]
+  },
+  "cyber-security-operations": {
+    "heroBg": "/solutionImgs/Cyber-Security-Operations-&-SOC-Solutions.jpg",
+    "heroAlt": "Cyber Security Operations & SOC Solutions",
+    "breadcrumb": "Solutions",
+    "breadcrumbHighlight": "Cyber Security Operations",
+    "heroTitle": "Cyber Security Operations & SOC Solutions",
+    "titleHighlights": "",
+    "heroDesc": "Advanced cyber security operations solutions that provide continuous monitoring, rapid threat detection, automated response and complete visibility across enterprise environments.",
+    "sectionTitle": "Cyber Security Operations & SOC Solutions",
+    "sectionDesc": "We design and operate modern Security Operations Center (SOC) capabilities that help enterprises detect threats early, respond faster and continuously improve their security posture using intelligence, automation and AI-driven operations.",
+    "solutionsList": [
+      {
+        "icon": "Server",
+        "title": "Security Information & Event Management (SIEM) Solutions",
+        "desc": "We centralize and correlate security data to improve threat visibility.",
+        "bullets": [
+          "Centralized log collection and correlation across environments",
+          "Real-time threat detection and alerting",
+          "Compliance reporting and audit readiness"
+        ]
+      },
+      {
+        "icon": "Database",
+        "title": "Security Orchestration, Automation & Response (SOAR) Solutions",
+        "desc": "We automate security operations to reduce response time and analyst workload.",
+        "bullets": [
+          "Automated incident response workflows",
+          "Playbook-driven remediation and containment actions",
+          "Reduced Mean Time to Respond (MTTR)"
+        ]
+      },
+      {
+        "icon": "Cloud",
+        "title": "Extended Detection & Response (XDR) Solutions",
+        "desc": "We provide unified detection and response across the security stack.",
+        "bullets": [
+          "Unified threat detection across endpoints, network and cloud",
+          "Advanced analytics and event correlation",
+          "Faster investigation and threat containment"
+        ]
+      },
+      {
+        "icon": "Network",
+        "title": "Continuous Threat Exposure Management (CTEM) Solutions",
+        "desc": "We continuously assess and reduce enterprise security exposure.",
+        "bullets": [
+          "Continuous attack surface and exposure assessment",
+          "Risk-based vulnerability prioritization",
+          "Proactive reduction of exploitable weaknesses"
+        ]
+      },
+      {
+        "icon": "Shield",
+        "title": "Breach & Attack Simulation (BAS) Solutions",
+        "desc": "We validate security effectiveness through real-world attack simulations.",
+        "bullets": [
+          "Adversary emulation and control validation",
+          "Security readiness and resilience testing",
+          "Identification of gaps in defensive controls"
+        ]
+      },
+      {
+        "icon": "Activity",
+        "title": "Attack Surface Management (ASM) Solutions",
+        "desc": "We discover and monitor all exposed enterprise assets.",
+        "bullets": [
+          "External and internal asset discovery",
+          "Exposure and misconfiguration monitoring",
+          "Risk scoring and prioritization"
+        ]
+      },
+      {
+        "icon": "Code",
+        "title": "Digital Risk Management Solutions",
+        "desc": "We protect organizations from external digital threats",
+        "bullets": [
+          "Brand, domain and threat intelligence monitoring",
+          "Visibility into third-party and supply-chain risks",
+          "Fraud, impersonation and abuse detection"
+        ]
+      },
+      {
+        "icon": "Layers",
+        "title": "AI SOC Solutions",
+        "desc": "We enhance SOC operations using artificial intelligence.",
+        "bullets": [
+          "AI-driven threat detection and event triage",
+          "Automated alert prioritization",
+          "24×7 SOC monitoring and operations support"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "icon": "Award",
+        "title": "Enterprise SOC Design & Cyber Defense Expertise",
+        "desc": "Deep expertise in AI, cloud and security convergence"
+      },
+      {
+        "icon": "Zap",
+        "title": "Integrated SIEM, SOAR, XDR & AI Security Stack",
+        "desc": "Coverage across AI models, data, infrastructure and governance"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "24×7 Security Monitoring Operations",
+        "desc": "Secure-by-design AI architectures aligned with enterprise and regulatory requirements"
+      },
+      {
+        "icon": "Shield",
+        "title": "Continuous Improvement Against Evolving Threats",
+        "desc": "Proven experience supporting enterprise, industrial and cloud-scale AI adoption"
+      }
+    ],
+    "stats": [
+      {
+        "value": "3x",
+        "label": "Performance Boost"
+      },
+      {
+        "value": "50%",
+        "label": "Cost Reduction"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime SLA"
+      }
+    ]
+  },
+  "data-security": {
+    "heroBg": "/solutionImgs/Data-Security-Solutions-for-Enterprises.jpg",
+    "heroAlt": "Data Security Solutions for Enterprises",
+    "breadcrumb": "Solutions",
+    "breadcrumbHighlight": "Data Security",
+    "heroTitle": "Data Security Solutions",
+    "titleHighlights": "for Enterprises",
+    "heroDesc": "End-to-end data security solutions that discover, protect, govern and monitor sensitive data across databases, cloud platforms, big data systems and enterprise environments.",
+    "sectionTitle": "Data Security Solutions for Enterprises",
+    "sectionDesc": "We design and implement comprehensive data security architectures that protect sensitive information throughout its lifecycle from discovery and classification to access control, encryption, monitoring and recovery.",
+    "solutionsList": [
+      {
+        "icon": "Server",
+        "title": "Data Classification & Data Discovery",
+        "desc": "We help organizations gain full visibility into sensitive data across environments.",
+        "bullets": [
+          "Sensitive data discovery across on-prem, cloud and hybrid systems",
+          "Automated data classification and tagging",
+          "Enterprise data visibility and inventory creation"
+        ]
+      },
+      {
+        "icon": "Database",
+        "title": "Data Loss Prevention (DLP) Solutions",
+        "desc": "We prevent unauthorized data movement and leakage.",
+        "bullets": [
+          "Policy-based data movement and usage control",
+          "Endpoint, network and cloud DLP coverage",
+          "Insider threat and accidental data exposure reduction"
+        ]
+      },
+      {
+        "icon": "Cloud",
+        "title": "Data Encryption & Key Management",
+        "desc": "We secure data with strong cryptographic controls.",
+        "bullets": [
+          "Encryption of data at rest and in transit",
+          "Centralized encryption key lifecycle management",
+          "Hardware Security Module (HSM) and BYOK support"
+        ]
+      },
+      {
+        "icon": "Network",
+        "title": "Database Activity Monitoring (DAM)",
+        "desc": "We provide real-time visibility into database behavior and access.",
+        "bullets": [
+          "Continuous monitoring of database activities",
+          "Threat, anomaly and suspicious behavior detection",
+          "Audit logging and compliance reporting"
+        ]
+      },
+      {
+        "icon": "Shield",
+        "title": "Data Masking & Tokenization",
+        "desc": "We reduce data exposure risk while enabling safe usage.",
+        "bullets": [
+          "Obfuscation of sensitive data elements",
+          "Protection of non-production and test environments",
+          "Compliance-ready data masking strategies"
+        ]
+      },
+      {
+        "icon": "Activity",
+        "title": "Database Vulnerability Assessment & Hardening",
+        "desc": "We identify and remediate database security weaknesses.",
+        "bullets": [
+          "Configuration and patch risk assessment",
+          "Database security baseline enforcement",
+          "Vulnerability remediation guidance"
+        ]
+      },
+      {
+        "icon": "Code",
+        "title": "Data Governance Solutions",
+        "desc": "We establish trust and control over enterprise data.",
+        "bullets": [
+          "Policy-driven data governance frameworks",
+          "Data ownership and stewardship models",
+          "Compliance and data lifecycle management"
+        ]
+      },
+      {
+        "icon": "Layers",
+        "title": "Cloud-Native Database Security (DBaaS Protection)",
+        "desc": "We secure managed cloud database services.",
+        "bullets": [
+          "Security controls for cloud-native and managed databases",
+          "Threat detection for DBaaS platforms",
+          "Cloud-native visibility into database activities"
+        ]
+      },
+      {
+        "icon": "Server",
+        "title": "Data Access Governance (DAG)",
+        "desc": "We enforce least-privilege access to sensitive data.",
+        "bullets": [
+          "Fine-grained data access control",
+          "Entitlement visibility across users and roles",
+          "Risk-based access decisioning"
+        ]
+      },
+      {
+        "icon": "Database",
+        "title": "Database Firewall Database Access Firewall",
+        "desc": "We protect databases from unauthorized access and attacks.",
+        "bullets": [
+          "SQL injection and database abuse prevention",
+          "Policy-based database access control",
+          "Inline and out-of-band firewall deployment options"
+        ]
+      },
+      {
+        "icon": "Cloud",
+        "title": "Data Security Posture Management (DSPM)",
+        "desc": "We continuously assess and improve data security posture.",
+        "bullets": [
+          "Exposure analysis across structured and unstructured data stores",
+          "Risk prioritization and remediation guidance",
+          "Continuous posture assessment"
+        ]
+      },
+      {
+        "icon": "Network",
+        "title": "Big Data & NoSQL Database Security",
+        "desc": "We protect distributed and high-volume data platforms.",
+        "bullets": [
+          "Security for big data and NoSQL environments",
+          "Access control and activity monitoring",
+          "Encryption and governance enforcement"
+        ]
+      },
+      {
+        "icon": "Shield",
+        "title": "Backup Security & Ransomware Protection for Data",
+        "desc": "We safeguard backups against ransomware and data loss.",
+        "bullets": [
+          "Secure backup repositories",
+          "Malware scanning of backup data",
+          "Immutable and air-gapped storage"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "icon": "Award",
+        "title": "Expertise in Data Protection & Governance",
+        "desc": "Deep expertise in enterprise data protection and governance"
+      },
+      {
+        "icon": "Zap",
+        "title": "Comprehensive Multi-Environment Coverage",
+        "desc": "Coverage across databases, cloud, big data and hybrid environments"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "ISO 27001 Compliant Secure-by-Design",
+        "desc": "Secure-by-design data security aligned with ISO 27001 and compliance frameworks"
+      },
+      {
+        "icon": "Shield",
+        "title": "Trusted Protection for Sensitive Data",
+        "desc": "Proven experience protecting sensitive and regulated data"
+      }
+    ],
+    "stats": [
+      {
+        "value": "3x",
+        "label": "Performance Boost"
+      },
+      {
+        "value": "50%",
+        "label": "Cost Reduction"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime SLA"
+      }
+    ]
+  },
+  "database-business-analytics": {
+    "heroBg": "/serviceImg/Data-&-Business-Analytics-Solutions.jpg",
+    "heroAlt": "Database & Business Analytics Solutions for Enterprises",
+    "breadcrumb": "Solutions",
+    "breadcrumbHighlight": "Database & Business Analytics",
+    "heroTitle": "Database & Business Analytics Solutions",
+    "titleHighlights": "for Enterprises",
+    "heroDesc": "Enterprise-grade database and analytics solutions that help organizations manage data at scale, unlock insights in real time and drive smarter, faster, data-driven decisions.",
+    "sectionTitle": "Database & Business Analytics Solutions for Enterprises",
+    "sectionDesc": "We design, modernize and manage end-to-end data platforms—from core databases and data lakes to advanced analytics and AI-powered intelligence—enabling enterprises to extract maximum value from their data securely and efficiently.",
+    "solutionsList": [
+      {
+        "icon": "Server",
+        "title": "Relational Database Management Systems (RDBMS)",
+        "desc": "We deliver reliable, high-performance database platforms for structured enterprise data.",
+        "bullets": [
+          "Enterprise-grade structured data management",
+          "High availability and performance optimization",
+          "Transaction consistency and reliability"
+        ]
+      },
+      {
+        "icon": "Database",
+        "title": "NoSQL Databases",
+        "desc": "We support modern applications with scalable, flexible data platforms.",
+        "bullets": [
+          "Databases for unstructured and semi-structured data",
+          "High-performance read/write operations",
+          "Flexible schema design for evolving data models"
+        ]
+      },
+      {
+        "icon": "Cloud",
+        "title": "Cloud Databases",
+        "desc": "We enable scalable, managed database services in the cloud.",
+        "bullets": [
+          "Fully managed, cloud-native database services",
+          "Elastic scalability and high availability",
+          "Reduced infrastructure and operational overhead"
+        ]
+      },
+      {
+        "icon": "Network",
+        "title": "Data Warehousing Solutions",
+        "desc": "We centralize enterprise data for analytics and reporting.",
+        "bullets": [
+          "Centralized data storage for analytics workloads",
+          "Optimized query performance",
+          "Historical data analysis and trend insights"
+        ]
+      },
+      {
+        "icon": "Shield",
+        "title": "Data Lake & Big Data Platforms",
+        "desc": "We enable large-scale data processing and advanced analytics.",
+        "bullets": [
+          "Storage and processing of massive data volumes",
+          "Support for structured, semi-structured and unstructured data",
+          "Enablement of data science and advanced analytics"
+        ]
+      },
+      {
+        "icon": "Activity",
+        "title": "Business Intelligence & Analytics Tools",
+        "desc": "We transform raw data into meaningful business insights.",
+        "bullets": [
+          "Interactive dashboards and enterprise reporting",
+          "Advanced data visualization and insights",
+          "Improved business decision-making"
+        ]
+      },
+      {
+        "icon": "Code",
+        "title": "Data Integration & ETL ELT Platforms",
+        "desc": "We ensure seamless data flow across systems.",
+        "bullets": [
+          "Data extraction, transformation and loading (ETL / ELT)",
+          "Integration across multiple data sources",
+          "Improved data quality and consistency"
+        ]
+      },
+      {
+        "icon": "Layers",
+        "title": "Real-Time & Streaming Analytics",
+        "desc": "We enable instant insights from live data.",
+        "bullets": [
+          "Real-time data ingestion and processing",
+          "Immediate insights from streaming data sources",
+          "Event-driven analytics"
+        ]
+      },
+      {
+        "icon": "Server",
+        "title": "Data Governance, Security & Compliance",
+        "desc": "We ensure data is trusted, governed and compliant..",
+        "bullets": [
+          "Data access control and governance frameworks",
+          "Regulatory compliance and audit readiness",
+          "Data quality and integrity management"
+        ]
+      },
+      {
+        "icon": "Database",
+        "title": "AI-Powered Analytics & Business Intelligence",
+        "desc": "We deliver smarter insights using AI.",
+        "bullets": [
+          "AI-driven insights and recommendations",
+          "Automated pattern and anomaly detection",
+          "Improved forecasting and planning"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "icon": "Award",
+        "title": "Enterprise Data Platforms & Analytics Expertise",
+        "desc": "Proven expertise in enterprise data platforms and analytics"
+      },
+      {
+        "icon": "Zap",
+        "title": "End-to-End Data & AI Insight Coverage",
+        "desc": "End-to-end coverage from databases to AI-driven insights"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Secure & Compliant Data Architectures",
+        "desc": "Secure, compliant data architectures aligned with enterprise standards"
+      },
+      {
+        "icon": "Shield",
+        "title": "Real-Time, Large-Scale & AI-Enabled Analytics",
+        "desc": "Experience supporting real-time, large-scale and AI-enabled analytics"
+      }
+    ],
+    "stats": [
+      {
+        "value": "3x",
+        "label": "Performance Boost"
+      },
+      {
+        "value": "50%",
+        "label": "Cost Reduction"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime SLA"
+      }
+    ]
+  },
+  "datacenter-virtualization": {
+    "heroBg": "/solutionImgs/Data-Center-&-Virtualization-Solutions-for-Enterprises.jpg",
+    "heroAlt": "Data Center & Virtualization Solutions",
+    "breadcrumb": "Data Center & Network Security",
+    "breadcrumbHighlight": "Data Center & Virtualization",
+    "heroTitle": "Data Center & Virtualization Solutions",
+    "titleHighlights": "for Enterprises",
+    "heroDesc": "Enterprise-grade compute, storage, virtualization, container and hyperconverged infrastructure solutions designed for performance, availability and long-term growth.",
+    "sectionTitle": "Data Center & Virtualization",
+    "sectionDesc": "We design, deploy, modernize and manage end-to-end data center and virtualization environments that support mission-critical enterprise workloads with high availability, security and scalability.",
+    "solutionsList": [
+      {
+        "icon": "Server",
+        "title": "Compute & Server Infrastructure Solutions",
+        "desc": "We provide enterprise-grade compute platforms tailored to workload performance, scalability and operational efficiency.",
+        "bullets": [
+          "Physical and virtual server infrastructure for enterprise workloads",
+          "High-performance compute architecture for critical and latency-sensitive applications",
+          "Server sizing, capacity planning and performance optimization"
+        ]
+      },
+      {
+        "icon": "Database",
+        "title": "Storage Solutions",
+        "desc": "Our storage architectures ensure data availability, performance and long-term scalability.",
+        "bullets": [
+          "SAN, NAS and Software-Defined Storage (SDS) implementations",
+          "High-availability and high-performance storage design",
+          "Integrated backup, replication and disaster recovery readiness"
+        ]
+      },
+      {
+        "icon": "Monitor",
+        "title": "Server Operating Systems – Windows & Linux",
+        "desc": "We deploy and manage secure, stable and optimized server operating environments.",
+        "bullets": [
+          "Windows Server deployment, configuration and lifecycle management",
+          "Linux server solutions (Ubuntu, RHEL, CentOS, SUSE)",
+          "OS hardening, patch management and security baseline enforcement"
+        ]
+      },
+      {
+        "icon": "Layers",
+        "title": "Virtualization Solutions",
+        "desc": "We enable efficient infrastructure utilization through enterprise virtualization platforms.",
+        "bullets": [
+          "VMware vSphere, Microsoft Hyper-V and open-source virtualization platforms",
+          "Server consolidation and workload optimization",
+          "High Availability (HA) and Fault Tolerance (FT) design"
+        ]
+      },
+      {
+        "icon": "Box",
+        "title": "Containerization Solutions",
+        "desc": "We help organizations adopt modern, cloud-native application architectures.",
+        "bullets": [
+          "Docker and Kubernetes architecture design and implementation",
+          "Container orchestration and lifecycle management",
+          "Microservices-ready infrastructure for modern applications"
+        ]
+      },
+      {
+        "icon": "HardDrive",
+        "title": "Hyperconverged Infrastructure (HCI) Solutions",
+        "desc": "We simplify infrastructure operations with unified, scalable HCI platforms.",
+        "bullets": [
+          "Integrated compute, storage and networking in a single platform",
+          "Faster deployment and simplified infrastructure management",
+          "Cost-efficient and scalable architecture"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "icon": "Award",
+        "title": "Enterprise Data Center & Virtualization Expertise",
+        "desc": "Proven expertise in enterprise data center and virtualization architecture"
+      },
+      {
+        "icon": "Activity",
+        "title": "Vendor-Neutral Consulting & Implementation",
+        "desc": "Vendor-neutral consulting and implementation approach"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Secure-by-Design Infrastructure & ISO 27001",
+        "desc": "Secure-by-design infrastructure aligned with ISO 27001 and enterprise best practices"
+      },
+      {
+        "icon": "Shield",
+        "title": "Flexible Architectures",
+        "desc": "Architectures built to support private cloud, hybrid cloud and future modernization"
+      }
+    ],
+    "stats": [
+      {
+        "value": "3x",
+        "label": "Performance Boost"
+      },
+      {
+        "value": "50%",
+        "label": "Cost Reduction"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime SLA"
+      }
+    ]
+  },
+  "devops": {
+    "heroBg": "/serviceImg/DevOps-Solutions-for-Enterprises.jpg",
+    "heroAlt": "Enterprise Technology Solutions",
+    "breadcrumb": "Solutions",
+    "breadcrumbHighlight": "DevOps",
+    "heroTitle": "Enterprise Technology Solutions",
+    "titleHighlights": "",
+    "heroDesc": "Modern DevOps solutions that enable faster releases, stronger security and scalable operations across any environment.",
+    "sectionTitle": "Enterprise Technology Solutions",
+    "sectionDesc": "In today’s fast-paced digital economy, organizations must deliver software faster without compromising security, quality, or stability. Our DevOps Solutions & Services help enterprises modernize application delivery by automating processes, improving collaboration and embedding security across the entire software lifecycle. We enable organizations to build, deploy, secure and operate applications with speed, confidence and resilience across cloud, hybrid and on‑premises environments.",
+    "solutionsList": [
+      {
+        "icon": "Server",
+        "title": "CI/CD (Continuous Integration & Continuous Deployment) Solutions",
+        "desc": "Streamline CI/CD workflows for consistent, secure and error-free application delivery at scale.",
+        "bullets": [
+          "Faster time‑to‑market",
+          "Improved code quality and consistency",
+          "Reduced manual intervention and deployment risks"
+        ]
+      },
+      {
+        "icon": "Database",
+        "title": "Infrastructure as Code (IaC) Solutions",
+        "desc": "Provision and manage infrastructure through code for standardized, version-controlled and rapidly deployable environments eliminating configuration drift.",
+        "bullets": [
+          "Consistent environments",
+          "Faster provisioning and recovery",
+          "Improved governance and auditability"
+        ]
+      },
+      {
+        "icon": "Cloud",
+        "title": "Configuration Management Solutions",
+        "desc": "Automate configuration and patch management to ensure system consistency, compliance and stable environments with reduced operational overhead.",
+        "bullets": [
+          "Standardized system configurations",
+          "Reduced operational errors",
+          "Enhanced compliance readiness"
+        ]
+      },
+      {
+        "icon": "Network",
+        "title": "Containerization & Orchestration Solutions",
+        "desc": "Modernize applications with containers and orchestration for scalable, portable and highly available systems.",
+        "bullets": [
+          "Cloud‑ready and portable applications",
+          "Scalable microservices architectures",
+          "Faster deployments and rollbacks"
+        ]
+      },
+      {
+        "icon": "Shield",
+        "title": "Cloud DevOps Solutions",
+        "desc": "Enable DevOps practices optimized for cloud and hybrid environments. We help organizations leverage cloud‑native automation, scalability and cost optimization.",
+        "bullets": [
+          "Cloud‑native CI/CD pipelines",
+          "Optimized resource utilization",
+          "Secure and scalable operations"
+        ]
+      },
+      {
+        "icon": "Activity",
+        "title": "Monitoring, Logging & Observability Solutions",
+        "desc": "Gain end‑to‑end visibility into applications and infrastructure. Our observability solutions help proactively detect issues and reduce downtime.",
+        "bullets": [
+          "Real‑time system visibility",
+          "Faster root‑cause analysis",
+          "Improved uptime and reliability"
+        ]
+      },
+      {
+        "icon": "Code",
+        "title": "DevSecOps & Security Automation",
+        "desc": "Embed security throughout the DevOps lifecycle with automated security checks, vulnerability scanning and compliance enforcement.",
+        "bullets": [
+          "Shift‑left security practices",
+          "Reduced security risks",
+          "Improved compliance and governance"
+        ]
+      },
+      {
+        "icon": "Layers",
+        "title": "Release & Deployment Management Solutions",
+        "desc": "Plan, control and manage application releases with structured governance and automation to minimize deployment risks.",
+        "bullets": [
+          "Predictable and controlled releases",
+          "Rollback readiness",
+          "Reduced service disruption"
+        ]
+      },
+      {
+        "icon": "Server",
+        "title": "Collaboration & Agile DevOps Solutions",
+        "desc": "Enable seamless collaboration between development, operations and business teams using agile workflows and DevOps best practices.",
+        "bullets": [
+          "Improved team alignment",
+          "Faster feedback loops",
+          "Increased productivity"
+        ]
+      },
+      {
+        "icon": "Database",
+        "title": "Backup, DR & Resilience Solutions",
+        "desc": "Design resilient DevOps environments with integrated backup and disaster recovery strategies to ensure business continuity.",
+        "bullets": [
+          "Rapid recovery from failures",
+          "Reduced downtime",
+          "High availability architectures"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "icon": "Award",
+        "title": "End-to-End DevOps Expertise",
+        "desc": "Years of experience delivering complete DevOps lifecycles, from development to deployment."
+      },
+      {
+        "icon": "Zap",
+        "title": "Vendor-Neutral & Tool-Agnostic",
+        "desc": "Flexible solutions that work with any tech stack or vendor."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Security-First DevOps Design",
+        "desc": "Security integrated into every stage of the DevOps process."
+      },
+      {
+        "icon": "Shield",
+        "title": "Scalable & Future-Ready Architectures",
+        "desc": "Systems built to grow and adapt with your business."
+      }
+    ],
+    "stats": [
+      {
+        "value": "3x",
+        "label": "Performance Boost"
+      },
+      {
+        "value": "50%",
+        "label": "Cost Reduction"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime SLA"
+      }
+    ]
+  },
+  "digital-app-innovation": {
+    "heroBg": "/serviceImg/Digital-&-App-Innovation-Solutions.jpg",
+    "heroAlt": "Digital & Application Innovation Solutions for Enterprises",
+    "breadcrumb": "Solutions",
+    "breadcrumbHighlight": "Digital & App Innovation",
+    "heroTitle": "Digital & Application Innovation Solutions",
+    "titleHighlights": "for Enterprises",
+    "heroDesc": "End-to-end digital and application innovation solutions that modernize applications, automate processes and deliver scalable, user-centric digital experiences across the enterprise.",
+    "sectionTitle": "Digital & Application Innovation Solutions for Enterprises",
+    "sectionDesc": "We help organizations design, build, modernize and optimize digital applications by combining modern development platforms, automation, DevOps and experience-driven design—accelerating innovation while ensuring security, scalability and performance.",
+    "solutionsList": [
+      {
+        "icon": "Server",
+        "title": "Intelligent Automation Solutions",
+        "desc": "We automate complex business processes using intelligent, AI-driven workflows.",
+        "bullets": [
+          "Automation of end-to-end business processes",
+          "Integration of AI-driven decision-making",
+          "Reduction of manual effort and operational costs"
+        ]
+      },
+      {
+        "icon": "Database",
+        "title": "Application Development Platforms",
+        "desc": "We build scalable applications using enterprise-grade development platforms.",
+        "bullets": [
+          "Platforms designed for scalable, enterprise application development",
+          "Support for modern architectures and frameworks",
+          "Faster development and deployment cycles"
+        ]
+      },
+      {
+        "icon": "Cloud",
+        "title": "Low-Code Application Development",
+        "desc": "We accelerate innovation through low-code and rapid development platforms.",
+        "bullets": [
+          "Rapid application development with minimal coding",
+          "Business-user and developer-friendly environments",
+          "Faster time-to-market for digital solutions"
+        ]
+      },
+      {
+        "icon": "Network",
+        "title": "DevOps & CICD Solutions",
+        "desc": "We enable faster and more reliable software delivery through automation.",
+        "bullets": [
+          "Automated build, test and deployment pipelines",
+          "Continuous integration and continuous delivery (CI/CD)",
+          "Improved collaboration between development and operations teams"
+        ]
+      },
+      {
+        "icon": "Shield",
+        "title": "Application Modernization & Cloud Transformation",
+        "desc": "We modernize legacy applications for the cloud era.",
+        "bullets": [
+          "Legacy application assessment and modernization",
+          "Migration to cloud-native and microservices architectures",
+          "Improved scalability, performance and resilience"
+        ]
+      },
+      {
+        "icon": "Activity",
+        "title": "API Management & Integration",
+        "desc": "We connect systems and applications through secure APIs.",
+        "bullets": [
+          "Centralized API lifecycle management",
+          "Secure, scalable API integration",
+          "Seamless connectivity between systems and applications"
+        ]
+      },
+      {
+        "icon": "Code",
+        "title": "Mobile & Web Application Platforms",
+        "desc": "We deliver high-performance, user-centric digital applications.",
+        "bullets": [
+          "Cross-platform mobile and web application development",
+          "Responsive, intuitive and user-focused design",
+          "Scalable, high-performance application architectures"
+        ]
+      },
+      {
+        "icon": "Layers",
+        "title": "Digital Experience Platforms (DXP)",
+        "desc": "We create personalized, omnichannel digital experiences.",
+        "bullets": [
+          "Personalized digital experiences across channels",
+          "Integration of content, commerce and customer engagement",
+          "Data-driven experience optimization"
+        ]
+      },
+      {
+        "icon": "Server",
+        "title": "Analytics & Insights for Applications",
+        "desc": "We provide visibility into application performance and user behavior.",
+        "bullets": [
+          "Application usage and performance analytics",
+          "User behavior monitoring and insights",
+          "Data-driven experience optimization"
+        ]
+      },
+      {
+        "icon": "Database",
+        "title": "RPA & Intelligent Process Automation",
+        "desc": "We scale automation across departments and functions.",
+        "bullets": [
+          "Robotic Process Automation (RPA) for repetitive tasks",
+          "AI-enhanced automation capabilities",
+          "Improved operational efficiency and productivity"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "icon": "Award",
+        "title": "Enterprise Application Development & Digital Transformation",
+        "desc": "Proven expertise in enterprise application development and digital transformation"
+      },
+      {
+        "icon": "Zap",
+        "title": "Automation, DevOps & Modern Architecture Expertise",
+        "desc": "Strong focus on automation, DevOps and modern architectures"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Legacy System Modernization Without Disruption",
+        "desc": "Ability to modernize legacy systems without disrupting operations"
+      },
+      {
+        "icon": "Shield",
+        "title": "Secure, Scalable & User-Centric Platforms",
+        "desc": "Experience delivering secure, scalable and user-centric digital platforms"
+      }
+    ],
+    "stats": [
+      {
+        "value": "3x",
+        "label": "Performance Boost"
+      },
+      {
+        "value": "50%",
+        "label": "Cost Reduction"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime SLA"
+      }
+    ]
+  },
+  "email-security": {
+    "heroBg": "/solutionImgs/Email-Security-Solutions-for-Enterprises.jpg",
+    "heroAlt": "Email Security Solutions for Enterprises",
+    "breadcrumb": "Solutions",
+    "breadcrumbHighlight": "Email Security",
+    "heroTitle": "Email Security Solutions",
+    "titleHighlights": "for Enterprises",
+    "heroDesc": "End-to-end application security solutions that protect software across the entire lifecycle—from development and testing to deployment and runtime—ensuring secure, resilient and compliant applications.",
+    "sectionTitle": "Email Security Solutions for Enterprises",
+    "sectionDesc": "We design and deploy comprehensive email security architectures that protect organizations from email-borne threats, safeguard sensitive information and ensure regulatory compliance across internal and external communications.",
+    "solutionsList": [
+      {
+        "icon": "Server",
+        "title": "Secure Email Gateway Solutions",
+        "desc": "We prevent email-based attacks before they reach users’ inboxes.",
+        "bullets": [
+          "Protection against phishing, malware, ransomware and malicious attachments",
+          "Advanced spam, spoofing and impersonation defense",
+          "Policy-based email filtering and threat control"
+        ]
+      },
+      {
+        "icon": "Database",
+        "title": "Email Archiving Solutions",
+        "desc": "We ensure secure, compliant and searchable email retention.",
+        "bullets": [
+          "Secure email archiving and long-term retention",
+          "Discovery readiness for legal and audit requirements",
+          "Support for regulatory and compliance obligations"
+        ]
+      },
+      {
+        "icon": "Cloud",
+        "title": "Email Encryption Solutions",
+        "desc": "We protect sensitive email communications through strong encryption.",
+        "bullets": [
+          "End-to-end email encryption for internal and external communication",
+          "Data privacy assurance for sensitive and confidential information",
+          "Alignment with regulatory and compliance standards"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "icon": "Award",
+        "title": "Enterprise Email Threat Protection & Data Security",
+        "desc": "Proven expertise in enterprise email threat protection and data security"
+      },
+      {
+        "icon": "Zap",
+        "title": "Defense Against Phishing, Ransomware & BEC",
+        "desc": "Defense against modern threats including phishing, ransomware and business email compromise (BEC)"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Compliance-Ready Implementations",
+        "desc": "Compliance-ready implementations aligned with industry and regulatory standards"
+      },
+      {
+        "icon": "Shield",
+        "title": "Seamless Email Platform Integration",
+        "desc": "Seamless integration with existing enterprise email platforms"
+      }
+    ],
+    "stats": [
+      {
+        "value": "3x",
+        "label": "Performance Boost"
+      },
+      {
+        "value": "50%",
+        "label": "Cost Reduction"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime SLA"
+      }
+    ]
+  },
+  "enterprise-networking": {
+    "heroBg": "/solutionImgs/Enterprise-Networking-Solutions.jpg",
+    "heroAlt": "Enterprise Networking Solutions",
+    "breadcrumb": "Data Center & Network Security",
+    "breadcrumbHighlight": "Enterprise Networking",
+    "heroTitle": "Enterprise Networking Solutions",
+    "titleHighlights": "| Secure LAN & WAN",
+    "heroDesc": "Enterprise-grade LAN, WAN, wireless, SD-WAN, SASE and secure networking solutions designed for performance, visibility and always-on connectivity.",
+    "sectionTitle": "Enterprise Networking Solutions",
+    "sectionDesc": "We design, deploy and manage enterprise-grade networking architectures that ensure secure, high-performance connectivity across offices, data centers, branches and remote users.",
+    "solutionsList": [
+      {
+        "icon": "Network",
+        "title": "Local Area Network (LAN) Solutions",
+        "desc": "We build high-speed, reliable campus and office networks that support enterprise workloads.",
+        "bullets": [
+          "High-speed campus and office networking design",
+          "Structured cabling and enterprise switching architecture",
+          "Secure, scalable LAN design for growing environments"
+        ]
+      },
+      {
+        "icon": "Globe",
+        "title": "Wide Area Network (WAN) Solutions",
+        "desc": "We connect branches, data centers and remote locations with resilient WAN architectures.",
+        "bullets": [
+          "Inter-branch and multi-site enterprise connectivity",
+          "MPLS, leased line and hybrid WAN architectures",
+          "High availability, redundancy and failover design"
+        ]
+      },
+      {
+        "icon": "Wifi",
+        "title": "Wireless Networking Solutions",
+        "desc": "We deliver secure, high-density wireless networks for modern enterprises.",
+        "bullets": [
+          "Enterprise-grade Wi-Fi architecture design",
+          "Secure, high-density wireless coverage",
+          "Performance optimization and seamless roaming"
+        ]
+      },
+      {
+        "icon": "Lock",
+        "title": "Network Security & Access Control Solutions",
+        "desc": "We embed security directly into network design using Zero Trust principles.",
+        "bullets": [
+          "Network segmentation and policy-based access control",
+          "Alignment with identity and access management (IAM)",
+          "Secure access for users, devices and applications"
+        ]
+      },
+      {
+        "icon": "Server",
+        "title": "Data Center Networking Solutions",
+        "desc": "We design high-performance networks for modern data center environments.",
+        "bullets": [
+          "High-performance switching and routing solutions",
+          "Spine-leaf architecture for scalable data centers",
+          "Low-latency, high-throughput network design"
+        ]
+      },
+      {
+        "icon": "Activity",
+        "title": "Network Monitoring Solutions",
+        "desc": "We provide full visibility into network health and performance.",
+        "bullets": [
+          "Real-time network performance monitoring",
+          "Traffic analysis, fault detection and diagnostics",
+          "Proactive alerting and incident prevention"
+        ]
+      },
+      {
+        "icon": "Cloud",
+        "title": "Secure Access Service Edge (SASE)",
+        "desc": "We enable secure, cloud-based access for modern workforces.",
+        "bullets": [
+          "Cloud-based secure access architecture",
+          "Secure connectivity for remote users and branch offices",
+          "Integrated networking and security services"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "icon": "Award",
+        "title": "Enterprise Network Excellence",
+        "desc": "Proven expertise in enterprise and multi-site network architecture"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Secure-by-Design with Zero Trust",
+        "desc": "Secure-by-design networking aligned with Zero Trust principles"
+      },
+      {
+        "icon": "Layers",
+        "title": "Vendor-Agnostic Solutions",
+        "desc": "Vendor-agnostic solutions across leading global networking platforms"
+      },
+      {
+        "icon": "Activity",
+        "title": "Seamless Connectivity",
+        "desc": "Experience supporting campus, data center, branch and remote connectivity"
+      }
+    ],
+    "stats": [
+      {
+        "value": "3x",
+        "label": "Performance Boost"
+      },
+      {
+        "value": "50%",
+        "label": "Cost Reduction"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime SLA"
+      }
+    ]
+  },
+  "hybrid-cloud": {
+    "heroBg": "/solutionImgs/Hybrid-Cloud-Solutions-for-Enterprises.jpg",
+    "heroAlt": "Hybrid Cloud Solutions for Enterprises",
+    "breadcrumb": "Solutions",
+    "breadcrumbHighlight": "Hybrid Cloud",
+    "heroTitle": "Hybrid Cloud Solutions",
+    "titleHighlights": "for Enterprises",
+    "heroDesc": "Secure, scalable hybrid cloud solutions that integrate on-prem infrastructure with public cloud platforms—delivering flexibility, performance and business continuity.",
+    "sectionTitle": "Hybrid Cloud Solutions for Enterprises",
+    "sectionDesc": "We design and implement hybrid cloud architectures that seamlessly connect on-premises systems with cloud platforms, enabling workload portability, resilience and optimized performance.",
+    "solutionsList": [
+      {
+        "icon": "Server",
+        "title": "Hybrid Cloud Compute Solutions",
+        "desc": "We enable flexible compute architectures across on-prem and cloud environments.",
+        "bullets": [
+          "Integrated on-premises and cloud compute platforms",
+          "Seamless workload portability across environments",
+          "Optimized performance and scalability for hybrid workloads"
+        ]
+      },
+      {
+        "icon": "Database",
+        "title": "Hybrid Cloud Storage Solutions",
+        "desc": "We provide unified, resilient storage across hybrid environments.",
+        "bullets": [
+          "Unified storage across on-prem and cloud systems",
+          "Data synchronization and replication",
+          "Cost-efficient hybrid storage models"
+        ]
+      },
+      {
+        "icon": "Cloud",
+        "title": "Hybrid Networking & Connectivity Solutions",
+        "desc": "We deliver secure, high-performance connectivity across hybrid environments.",
+        "bullets": [
+          "Secure hybrid network connectivity design",
+          "Cloud-native backup and archival services",
+          "Data lifecycle management and cost optimization"
+        ]
+      },
+      {
+        "icon": "Network",
+        "title": "Backup, Disaster Recovery & Business Continuity",
+        "desc": "We ensure business resilience across hybrid environments.",
+        "bullets": [
+          "Hybrid backup and disaster recovery architecture",
+          "Failover across on-prem and cloud systems",
+          "Business continuity assurance for critical workloads"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "icon": "Award",
+        "title": "Hybrid Cloud Architecture Expertise",
+        "desc": "Deep expertise in hybrid cloud architecture and integration"
+      },
+      {
+        "icon": "Zap",
+        "title": "Legacy-to-Cloud Integration Experience",
+        "desc": "Proven experience connecting legacy infrastructure with modern cloud platforms"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Secure-by-Design Hybrid Solutions",
+        "desc": "Secure-by-design hybrid solutions aligned with enterprise and compliance standards"
+      },
+      {
+        "icon": "Shield",
+        "title": "Flexible Architectures for Growth & Modernizationt",
+        "desc": "Flexible architectures supporting business growth and modernization"
+      }
+    ],
+    "stats": [
+      {
+        "value": "3x",
+        "label": "Performance Boost"
+      },
+      {
+        "value": "50%",
+        "label": "Cost Reduction"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime SLA"
+      }
+    ]
+  },
+  "identity-security": {
+    "heroBg": "/solutionImgs/Identity-Security-Solutions-for-Enterprises.jpg",
+    "heroAlt": "Identity Security Solutions",
+    "breadcrumb": "Cyber Security",
+    "breadcrumbHighlight": "Identity Security Solutions",
+    "heroTitle": "Identity Security Solutions for Enterprises",
+    "titleHighlights": "| IAM, PAM & Zero Trust",
+    "heroDesc": "Enterprise identity security solutions covering IAM, SSO, PAM, IGA and identity threat detection to secure access, reduce insider risk and enforce Zero Trust across hybrid environments.",
+    "sectionTitle": "Identity Security Solutions",
+    "sectionDesc": "We design and implement identity-centric security architectures that ensure the right users have the right access at the right time—while preventing credential abuse, insider threats and identity-based attacks.",
+    "solutionsList": [
+      {
+        "icon": "Fingerprint",
+        "title": "Access Management (IAM) & Single Sign-On",
+        "desc": "We centralize identity and access control across enterprise systems.",
+        "bullets": [
+          "Centralized identity management across applications and platforms",
+          "Seamless, secure authentication experiences",
+          "Policy-based access control and role enforcement"
+        ]
+      },
+      {
+        "icon": "Lock",
+        "title": "Privileged Access Management (PAM)",
+        "desc": "We secure and monitor privileged accounts and administrative access.",
+        "bullets": [
+          "Secure vaulting of privileged credentials",
+          "Session monitoring, recording and auditing",
+          "Just-in-time privileged access enforcement"
+        ]
+      },
+      {
+        "icon": "Users",
+        "title": "Identity Governance & Administration (IGA)",
+        "desc": "We govern identity lifecycles and access entitlements.",
+        "bullets": [
+          "User identity lifecycle management (joiner, mover, leaver)",
+          "Role, access and entitlement governance",
+          "Automated access certification and reviews"
+        ]
+      },
+      {
+        "icon": "ShieldAlert",
+        "title": "Identity Threat Detection & Response (ITDR)",
+        "desc": "We detect and respond to identity-based attacks in real time.",
+        "bullets": [
+          "Identity-focused threat detection and analytics",
+          "Monitoring of credential abuse and suspicious behavior",
+          "Rapid containment and incident response"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "icon": "Award",
+        "title": "Enterprise Identity & Access Expertise",
+        "desc": "Proven expertise in enterprise identity and access security"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Zero Trust–Aligned Identity Architecture",
+        "desc": "Zero Trust–aligned identity architectures"
+      },
+      {
+        "icon": "Shield",
+        "title": "Secure Cloud, On-Premises & Hybrid Identities",
+        "desc": "Experience securing cloud, on-premises and hybrid identities"
+      },
+      {
+        "icon": "Activity",
+        "title": "Compliance-Ready Implementations",
+        "desc": "Proactive security approach focused on prevention, detection and resilience"
+      }
+    ],
+    "stats": [
+      {
+        "value": "3x",
+        "label": "Performance Boost"
+      },
+      {
+        "value": "50%",
+        "label": "Cost Reduction"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime SLA"
+      }
+    ]
+  },
+  "infrastructure-management": {
+    "heroBg": "/solutionImgs/Infrastructure-Management-Solutions-for-Enterprises.jpg",
+    "heroAlt": "Infrastructure Management Solutions",
+    "breadcrumb": "Data Center & Network Security",
+    "breadcrumbHighlight": "Infrastructure Management Solutions",
+    "heroTitle": "Infrastructure Management Solutions",
+    "titleHighlights": "for Enterprises",
+    "heroDesc": "Enterprise-grade backup, disaster recovery, monitoring and infrastructure management solutions designed to maximize uptime, resilience and operational efficiency by Betopia Limited.",
+    "sectionTitle": "Infrastructure Management Solutions",
+    "sectionDesc": "We deliver comprehensive infrastructure management solutions that help organizations maintain availability, performance and resilience across on-premises, cloud and hybrid environments.",
+    "solutionsList": [
+      {
+        "icon": "DatabaseBackup",
+        "title": "Backup Solutions",
+        "desc": "We protect critical enterprise data with secure, scalable and automated backup architectures",
+        "bullets": [
+          "Enterprise data backup and recovery architecture for mission-critical systems",
+          "Automated backup scheduling, retention and policy enforcement",
+          "Protection against data loss, ransomware, hardware failures and human errors"
+        ]
+      },
+      {
+        "icon": "ServerCrash",
+        "title": "Disaster Recovery Solutions",
+        "desc": "We design disaster recovery strategies that ensure business continuity during outages and incidents.",
+        "bullets": [
+          "Business Continuity & Disaster Recovery (BCDR) planning",
+          "Backup replication and failover architecture",
+          "On-site, off-site and cloud-based disaster recovery implementations"
+        ]
+      },
+      {
+        "icon": "ActivitySquare",
+        "title": "Infrastructure Monitoring Solutions",
+        "desc": "We provide real-time visibility into infrastructure health, performance and availability.",
+        "bullets": [
+          "Continuous monitoring of servers, networks and applications",
+          "Performance, capacity and availability tracking",
+          "Proactive alerting to prevent incidents before they impact operations"
+        ]
+      },
+      {
+        "icon": "Settings",
+        "title": "Infrastructure Management Solutions",
+        "desc": "We manage the complete lifecycle of enterprise IT infrastructure to ensure stability and efficiency.",
+        "bullets": [
+          "End-to-end infrastructure lifecycle management",
+          "Patch management, system tuning and performance optimization",
+          "Asset tracking, capacity planning and utilization analysis"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "icon": "Award",
+        "title": "Reliable & Secure Infrastructure Management",
+        "desc": "Deep expertise in enterprise infrastructure operations and management"
+      },
+      {
+        "icon": "Zap",
+        "title": "Proactive Operations for Modern Enterprises",
+        "desc": "Proven experience across on-premises, cloud and hybrid environments"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "End-to-End Enterprise Excellence",
+        "desc": "Secure and compliant practices aligned with ISO 27001 and enterprise standards"
+      },
+      {
+        "icon": "Shield",
+        "title": "Powering Operations with Confidence",
+        "desc": "Proactive, automation-driven approach to reduce downtime and operational risk"
+      }
+    ],
+    "stats": [
+      {
+        "value": "3x",
+        "label": "Performance Boost"
+      },
+      {
+        "value": "50%",
+        "label": "Cost Reduction"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime SLA"
+      }
+    ]
+  },
+  "iot-security": {
+    "heroBg": "/solutionImgs/IoT-Security-Solutions-for-Enterprises.jpg",
+    "heroAlt": "IoT Security Solutions for Enterprises",
+    "breadcrumb": "Solutions",
+    "breadcrumbHighlight": "IoT Security",
+    "heroTitle": "IoT Security Solutions",
+    "titleHighlights": "for Enterprises",
+    "heroDesc": "Comprehensive IoT security solutions that protect devices, networks, data, applications and industrial systems ensuring visibility, control and resilience across connected environments.",
+    "sectionTitle": "IoT Security Solutions for Enterprises",
+    "sectionDesc": "We design and implement end-to-end IoT security architectures that protect connected devices, industrial systems and IoT platforms from emerging cyber threats—while maintaining operational continuity and compliance.",
+    "solutionsList": [
+      {
+        "icon": "Server",
+        "title": "IoT Device Security",
+        "desc": "We secure connected devices throughout their entire lifecycle.",
+        "bullets": [
+          "Automated device discovery and profiling",
+          "Firmware protection and secure lifecycle management",
+          "Threat prevention for compromised or rogue devices"
+        ]
+      },
+      {
+        "icon": "Database",
+        "title": "IoT Network Security",
+        "desc": "We protect IoT communications and prevent lateral movement.",
+        "bullets": [
+          "Network segmentation and continuous traffic monitoring",
+          "Anomaly detection for abnormal device behavior",
+          "Protocol-aware inspection for IoT communications"
+        ]
+      },
+      {
+        "icon": "Cloud",
+        "title": "IoT Identity & Access Security",
+        "desc": "We ensure only trusted devices and users can access IoT systems.",
+        "bullets": [
+          "Device identity management and authentication",
+          "Secure authorization and access enforcement",
+          "Least-privilege access control"
+        ]
+      },
+      {
+        "icon": "Network",
+        "title": "IoT Data Security",
+        "desc": "We protect data generated and transmitted by IoT systems.",
+        "bullets": [
+          "Encryption and data integrity enforcement",
+          "Secure data transmission across networks",
+          "Privacy protection for sensitive IoT data"
+        ]
+      },
+      {
+        "icon": "Shield",
+        "title": "IoT Cloud Security",
+        "desc": "We ensure only trusted devices and users can access IoT systems.",
+        "bullets": [
+          "Device identity management and authentication",
+          "Secure authorization and access enforcement",
+          "Least-privilege access control"
+        ]
+      },
+      {
+        "icon": "Activity",
+        "title": "IoT Application Security",
+        "desc": "We secure applications that manage and process IoT data.",
+        "bullets": [
+          "Application-layer protection for IoT systems",
+          "Vulnerability identification and remediation",
+          "Secure APIs for IoT communication"
+        ]
+      },
+      {
+        "icon": "Code",
+        "title": "OT / IIoT Security (Industrial IoT)",
+        "desc": "We ensure only trusted devices and users can access IoT systems.",
+        "bullets": [
+          "Behavioral analytics for connected devices",
+          "Proactive threat hunting",
+          "Automated response and containment"
+        ]
+      },
+      {
+        "icon": "Layers",
+        "title": "IoT Risk & Compliance",
+        "desc": "We help organizations manage IoT risk and regulatory requirements.",
+        "bullets": [
+          "IoT risk assessment and reporting",
+          "Alignment with industry standards and frameworks",
+          "Continuous compliance monitoring"
+        ]
+      },
+      {
+        "icon": "Server",
+        "title": "IoT Security Operations (IoT-SOC)",
+        "desc": "We provide centralized monitoring and response for IoT environments.",
+        "bullets": [
+          "Centralized security monitoring for IoT assets",
+          "Incident detection, investigation and response",
+          "24×7 visibility into IoT security posture"
+        ]
+      },
+      {
+        "icon": "Database",
+        "title": "IoT Threat Detection & Response",
+        "desc": "We detect and respond to IoT-specific threats in real time.",
+        "bullets": [
+          "Behavioral analytics for connected devices",
+          "Proactive threat hunting",
+          "Automated response and containment"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "icon": "Award",
+        "title": "Enterprise, Cloud & Industrial IoT Security",
+        "desc": "Proven expertise in enterprise, cloud and industrial IoT security"
+      },
+      {
+        "icon": "Zap",
+        "title": "Coverage Across IT, OT & IIoT Environments",
+        "desc": "Coverage across IT, OT and IIoT environments"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Zero Trust–Aligned IoT Security Architecture",
+        "desc": "Zero Trust–aligned IoT security architecture"
+      },
+      {
+        "icon": "Shield",
+        "title": "Securing Large-Scale Mission-Critical IoT Deployments",
+        "desc": "Experience securing large-scale, mission-critical IoT deployments"
+      }
+    ],
+    "stats": [
+      {
+        "value": "3x",
+        "label": "Performance Boost"
+      },
+      {
+        "value": "50%",
+        "label": "Cost Reduction"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime SLA"
+      }
+    ]
+  },
+  "network-security": {
+    "heroBg": "/solutionImgs/Network-Security-Solutions-for-Enterprises.jpg",
+    "heroAlt": "Network Security Solutions",
+    "breadcrumb": "Data Center & Network Security",
+    "breadcrumbHighlight": "Network Security Solutions",
+    "heroTitle": "Network Security Solutions",
+    "titleHighlights": "for Enterprises",
+    "heroDesc": "Enterprise-grade network security solutions including NGFW, ZTNA, WAF, DDoS protection, API security and Zero Trust architectures for on-prem, cloud and hybrid environments.",
+    "sectionTitle": "Network Security Solutions",
+    "sectionDesc": "We design and implement comprehensive network security architectures that protect enterprises from modern cyber threats while enabling secure access, visibility and performance across all network layers.",
+    "solutionsList": [
+      {
+        "icon": "Shield",
+        "title": "Next-Generation Firewall (NGFW)",
+        "desc": "We provide advanced perimeter and internal network protection with application-aware security controls.",
+        "bullets": [
+          "Advanced threat prevention and deep packet inspection",
+          "Application-level visibility and granular traffic control",
+          "Integrated intrusion prevention and malware protection"
+        ]
+      },
+      {
+        "icon": "Activity",
+        "title": "Intrusion Detection & Prevention (IDS/IPS)",
+        "desc": "We detect and block malicious activities in real time across enterprise networks.",
+        "bullets": [
+          "Real-time threat detection and prevention",
+          "Deep network traffic inspection and anomaly detection",
+          "Automated response to suspicious and malicious activities"
+        ]
+      },
+      {
+        "icon": "Globe",
+        "title": "Secure Web Gateway (SWG)",
+        "desc": "We secure internet access and protect users from web-based threats.",
+        "bullets": [
+          "Secure web browsing and content filtering",
+          "Protection against malware, phishing and malicious websites",
+          "Policy-based internet access control"
+        ]
+      },
+      {
+        "icon": "Lock",
+        "title": "Zero Trust Network Access (ZTNA)",
+        "desc": "We enable identity-centric, Zero Trust access to enterprise applications.",
+        "bullets": [
+          "Identity-based access control for applications",
+          "Continuous user and device verification",
+          "Least-privilege access enforcement"
+        ]
+      },
+      {
+        "icon": "Network",
+        "title": "VPN & Secure Remote Access",
+        "desc": "We enable secure connectivity for remote users and distributed teams.",
+        "bullets": [
+          "Encrypted remote connectivity for users and branches",
+          "Secure site-to-site and client-to-site VPNs",
+          "Hybrid workforce and remote access enablement"
+        ]
+      },
+      {
+        "icon": "ShieldAlert",
+        "title": "DDoS Protection",
+        "desc": "We protect enterprise services from availability-disrupting attacks.",
+        "bullets": [
+          "Detection and mitigation of volumetric attacks",
+          "Network- and application-level DDoS defense",
+          "Always-on protection with traffic scrubbing"
+        ]
+      },
+      {
+        "icon": "Fingerprint",
+        "title": "Network Access Control (NAC)",
+        "desc": "We control who and what can access enterprise networks.",
+        "bullets": [
+          "Device discovery, visibility and access enforcement",
+          "Policy-based authentication and authorization",
+          "BYOD and endpoint compliance management"
+        ]
+      },
+      {
+        "icon": "Monitor",
+        "title": "Web Application Firewall (WAF)",
+        "desc": "We protect web applications and APIs from application-layer attacks.",
+        "bullets": [
+          "Protection against OWASP Top 10 threats",
+          "Application-layer attack prevention",
+          "Secure APIs and web applications"
+        ]
+      },
+      {
+        "icon": "Code",
+        "title": "API Gateway & Security",
+        "desc": "We secure and manage modern API-driven architectures.",
+        "bullets": [
+          "Secure API access and traffic management",
+          "Authentication, authorization and rate limiting",
+          "API threat detection and abuse prevention"
+        ]
+      },
+      {
+        "icon": "Server",
+        "title": "DNS Security Solutions",
+        "desc": "We protect enterprises from DNS-based threats and attacks.",
+        "bullets": [
+          "Protection against DNS tunneling and spoofing attacks",
+          "Malicious domain blocking and filtering",
+          "Improved visibility into DNS traffic"
+        ]
+      },
+      {
+        "icon": "ActivitySquare",
+        "title": "Network Detection & Response (NDR)",
+        "desc": "We provide advanced threat detection using behavioral analytics.",
+        "bullets": [
+          "Behavioral-based threat detection",
+          "Real-time network traffic analysis",
+          "Faster incident response and remediation"
+        ]
+      },
+      {
+        "icon": "Layers",
+        "title": "Micro-segmentation Solutions",
+        "desc": "We minimize breach impact through granular internal segmentation.",
+        "bullets": [
+          "Fine-grained workload and application segmentation",
+          "Reduced lateral movement inside networks",
+          "Zero Trust-aligned internal security controls"
+        ]
+      },
+      {
+        "icon": "Cloud",
+        "title": "Secure SD-WAN Solutions",
+        "desc": "We combine networking and security for branch and remote connectivity.",
+        "bullets": [
+          "Secure connectivity for branches and remote locations",
+          "Integrated networking and security enforcement",
+          "Centralized policy and traffic management"
+        ]
+      },
+      {
+        "icon": "BarChart",
+        "title": "Network Behavior Analytics (NBA)",
+        "desc": "We detect insider threats and compromised accounts through analytics.",
+        "bullets": [
+          "User and entity behavior analysis",
+          "Detection of anomalous network activities",
+          "Insider threat and compromised account detection"
+        ]
+      },
+      {
+        "icon": "Scale",
+        "title": "Load Balancer & Application Delivery",
+        "desc": "We ensure secure, high-performance application delivery.",
+        "bullets": [
+          "Secure application traffic distribution",
+          "High availability and performance optimization",
+          "SSL/TLS encryption and traffic inspection"
+        ]
+      },
+      {
+        "icon": "CloudRain",
+        "title": "Cloud Network Security Services",
+        "desc": "We secure networking across multi-cloud and hybrid environments.",
+        "bullets": [
+          "Cloud-native network security architecture",
+          "Secure connectivity across multi-cloud platforms",
+          "Cloud firewalls, security groups and segmentation"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "icon": "Award",
+        "title": "Enterprise Network & Security Expertise",
+        "desc": "Proven expertise in enterprise and multi-site network architecture"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Zero Trust–Aligned Designs",
+        "desc": "Secure-by-design networking aligned with Zero Trust principles"
+      },
+      {
+        "icon": "Zap",
+        "title": "Vendor-Agnostic Implementation",
+        "desc": "Vendor-agnostic solutions across leading global networking platforms"
+      },
+      {
+        "icon": "Cloud",
+        "title": "Securing On-Prem & Cloud",
+        "desc": "Experience supporting campus, data center, branch and remote connectivity"
+      }
+    ],
+    "stats": [
+      {
+        "value": "3x",
+        "label": "Performance Boost"
+      },
+      {
+        "value": "50%",
+        "label": "Cost Reduction"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime SLA"
+      }
+    ]
+  },
+  "secure-business-productivity": {
+    "heroBg": "/solutionImgs/Secure-Business-Productivity.jpg",
+    "heroAlt": "Secure Business Productivity Solutions",
+    "breadcrumb": "Secure Business Productivity Solutions",
+    "breadcrumbHighlight": "End-User Management Solutions",
+    "heroTitle": "Empowering IT and employees with secure,",
+    "titleHighlights": "Seamless & Intelligent",
+    "heroDesc": "Comprehensive end-user management solutions delivering secure authentication, seamless workflows, productivity insights and intelligent support for enhanced employee experiences and organizational efficiency.",
+    "sectionTitle": "End-User Management Solutions",
+    "sectionDesc": "Delivering a comprehensive approach to authentication, monitoring, productivity and support, our solutions protect your organization, optimize workflows and enhance the digital experience for every user.",
+    "solutionsList": [
+      {
+        "icon": "Database",
+        "title": "Central User Directory Solution",
+        "desc": "One secure login to access all systems, with centralized control and enhanced security.",
+        "bullets": [
+          "Single login access for all enterprise applications, systems and services",
+          "Seamless and consistent user experience across platforms",
+          "Centralized authentication management from one secure platform"
+        ]
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Multi-Factor Authentication (MFA)",
+        "desc": "Enhances security with an extra verification step, protecting critical systems while keeping login simple.",
+        "bullets": [
+          "Adds an extra layer of security to enterprise systems",
+          "Protects sensitive data and critical applications from unauthorized access",
+          "Maintains a smooth and user-friendly login experience"
+        ]
+      },
+      {
+        "icon": "Fingerprint",
+        "title": "Passwordless / Modern Authentication",
+        "desc": "Secure, password-free access using biometrics or mobile authentication, reducing breaches and simplifying login.",
+        "bullets": [
+          "Enables password-free login using biometrics, security keys, or mobile authentication",
+          "Eliminates password management challenges",
+          "Enhances security with advanced authentication protocols"
+        ]
+      },
+      {
+        "icon": "Cloud",
+        "title": "Cloud & SaaS Authentication Solution",
+        "desc": "Secure and simplify cloud access with centralized control and compliance-ready authentication.",
+        "bullets": [
+          "Secure cloud and SaaS applications with centralized authentication",
+          "Enable easy and seamless access for users",
+          "Apply conditional access policies to balance security and productivity"
+        ]
+      },
+      {
+        "icon": "Network",
+        "title": "Hybrid Authentication Solution",
+        "desc": "Unified, secure access across cloud and on-prem systems, ensuring flexibility and consistent security.",
+        "bullets": [
+          "Connects on-premises systems and cloud platforms seamlessly",
+          "Provides consistent access policies and secure authentication",
+          "Ensures a unified user experience across all environments"
+        ]
+      },
+      {
+        "icon": "Activity",
+        "title": "User Activity Monitoring Solution",
+        "desc": "Monitor user activity to detect threats, ensure compliance and strengthen security proactively.",
+        "bullets": [
+          "Provides deep insights into user behavior across devices, applications and systems",
+          "Detects anomalies and prevents insider threats",
+          "Ensures compliance with regulatory requirements"
+        ]
+      },
+      {
+        "icon": "BarChart",
+        "title": "User Productivity Monitoring Solution",
+        "desc": "Gain actionable insights to optimize workflows, boost efficiency and enhance overall performance.",
+        "bullets": [
+          "Tracks employee interactions with tools, applications and workflows",
+          "Identifies productivity trends and optimization opportunities",
+          "Provides actionable insights for operational efficiency"
+        ]
+      },
+      {
+        "icon": "Users",
+        "title": "Digital Employee Experience Solution",
+        "desc": "Deliver seamless digital experiences that boost engagement, satisfaction and productivity.",
+        "bullets": [
+          "Provides a seamless and engaging digital experience for employees",
+          "Monitors performance and gathers feedback proactively",
+          "Addresses issues to ensure employees have the tools and support needed"
+        ]
+      },
+      {
+        "icon": "AlertTriangle",
+        "title": "Human Risk Management Solution",
+        "desc": "Proactively reduce insider threats and protect data by managing human-centric security risks.",
+        "bullets": [
+          "Identifies and manages human-centric security risks",
+          "Analyzes behaviors to detect inadvertent or malicious actions",
+          "Enforces compliance policies to reduce insider threats"
+        ]
+      },
+      {
+        "icon": "LifeBuoy",
+        "title": "IT Helpdesk Solution",
+        "desc": "Intelligent IT support that resolves issues faster, empowers employees and boosts overall satisfaction.",
+        "bullets": [
+          "Streamlines IT support and service delivery",
+          "Provides incident management and self-service portals",
+          "Enables faster issue resolution for IT teams"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "icon": "Award",
+        "title": "Proven Expertise",
+        "desc": "Years of experience in delivering end-to-end modern workplace transformations across industries"
+      },
+      {
+        "icon": "Layers",
+        "title": "Tailored Solutions",
+        "desc": "Every implementation is customized to your business needs, culture and goals."
+      },
+      {
+        "icon": "HeartHandshake",
+        "title": "End-to-End Support",
+        "desc": "From planning and deployment to adoption and ongoing optimization, we are with you every step"
+      },
+      {
+        "icon": "Zap",
+        "title": "Technology-Agnostic",
+        "desc": "We select the best-fit solutions to deliver real business value, not just push products"
+      }
+    ],
+    "stats": [
+      {
+        "value": "3x",
+        "label": "Performance Boost"
+      },
+      {
+        "value": "50%",
+        "label": "Cost Reduction"
+      },
+      {
+        "value": "99.9%",
+        "label": "Uptime SLA"
+      }
+    ]
+  },
+  "overview": {
+    "solutions": [
+      {
+        "id": "datacenter",
+        "icon": "Server",
+        "color": "#f79549",
+        "label": "Data Center & Network",
+        "title": "Data Center Infrastructure Management & Network Security Solutions",
+        "items": [
+          {
+            "label": "Datacenter & Virtualization Solutions",
+            "href": "/solutions/datacenter-virtualization"
+          },
+          {
+            "label": "Infrastructure Management Solutions",
+            "href": "/solutions/infrastructure-management"
+          },
+          {
+            "label": "Enterprise Networking Solutions",
+            "href": "/solutions/enterprise-networking"
+          },
+          {
+            "label": "Network Security Solutions",
+            "href": "/solutions/network-security"
+          }
+        ]
+      },
+      {
+        "id": "cloud",
+        "icon": "Cloud",
+        "color": "#6366f1",
+        "label": "Hybrid Cloud",
+        "title": "Hybrid Cloud Solutions",
+        "items": [
+          {
+            "label": "Cloud Infrastructure Solutions",
+            "href": "/solutions/cloud-infrastructure"
+          },
+          {
+            "label": "Hybrid Cloud Solutions",
+            "href": "/solutions/hybrid-cloud"
+          },
+          {
+            "label": "DevOps Solutions",
+            "href": "/solutions/devops"
+          }
+        ]
+      },
+      {
+        "id": "security",
+        "icon": "ShieldCheck",
+        "color": "#10b981",
+        "label": "Cyber Security",
+        "title": "Cyber Security Solutions",
+        "items": [
+          {
+            "label": "Infrastructure Security Solutions",
+            "href": "/solutions/cyber-security"
+          },
+          {
+            "label": "Data Security Solutions",
+            "href": "/solutions/data-security"
+          },
+          {
+            "label": "Identity Security Solutions",
+            "href": "/solutions/identity-security"
+          },
+          {
+            "label": "Application Security Solutions",
+            "href": "/solutions/application-security"
+          },
+          {
+            "label": "Email Security Solutions",
+            "href": "/solutions/email-security"
+          },
+          {
+            "label": "IoT Security Solutions",
+            "href": "/solutions/iot-security"
+          },
+          {
+            "label": "AI Security Solutions",
+            "href": "/solutions/ai-security"
+          },
+          {
+            "label": "Cyber Security Operations Solutions",
+            "href": "/solutions/cyber-security-operations"
+          },
+          {
+            "label": "Secure Business Productivity",
+            "href": "/solutions/secure-business-productivity"
+          }
+        ]
+      },
+      {
+        "id": "digital",
+        "icon": "Laptop",
+        "color": "#3b82f6",
+        "label": "Digital Solutions",
+        "title": "Digital & Application Innovation Solutions",
+        "items": [
+          {
+            "label": "Digital & APP Innovation Solutions",
+            "href": "/solutions/digital-app-innovation"
+          },
+          {
+            "label": "Database & Business Analytics Solutions",
+            "href": "/solutions/database-business-analytics"
+          },
+          {
+            "label": "AI Solutions",
+            "href": "/solutions/ai"
+          },
+          {
+            "label": "Business Application Solutions",
+            "href": "/solutions/business-application"
+          }
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "icon": "Zap",
+        "title": "Fast Deployment",
+        "desc": "Get solutions up and running in weeks, not months",
+        "color": "#f79549"
+      },
+      {
+        "icon": "Layers",
+        "title": "Scalable Architecture",
+        "desc": "Solutions that grow seamlessly with your business",
+        "color": "#6366f1"
+      },
+      {
+        "icon": "Award",
+        "title": "Industry Certified",
+        "desc": "ISO, SOC 2 and industry-leading certifications",
+        "color": "#10b981"
+      },
+      {
+        "icon": "HeartHandshake",
+        "title": "Expert Support",
+        "desc": "24/7 dedicated support from certified professionals",
+        "color": "#3b82f6"
+      }
+    ],
+    "technologies": [
+      {
+        "name": "AWS",
+        "logo": "/tech/aws.svg"
+      },
+      {
+        "name": "Azure",
+        "logo": "/tech/azure.svg"
+      },
+      {
+        "name": "Google Cloud",
+        "logo": "/tech/gcp.svg"
+      },
+      {
+        "name": "Kubernetes",
+        "logo": "/tech/kubernetes.svg"
+      },
+      {
+        "name": "Docker",
+        "logo": "/tech/docker.svg"
+      },
+      {
+        "name": "Terraform",
+        "logo": "/tech/terraform.svg"
+      },
+      {
+        "name": "Jenkins",
+        "logo": "/tech/jenkins.svg"
+      },
+      {
+        "name": "MongoDB",
+        "logo": "/tech/mongodb.svg"
+      }
+    ],
+    "caseStudies": [
+      {
+        "industry": "Retail",
+        "label": "Global E-Commerce",
+        "challenge": "Handle 10x traffic during peak seasons",
+        "solution": "Implemented auto-scaling cloud infrastructure",
+        "metric": "99.99%",
+        "metricLabel": "Uptime",
+        "color": "#f79549",
+        "results": [
+          "99.99% uptime during Black Friday",
+          "60% reduction in infrastructure costs",
+          "3x faster page load times"
+        ]
+      },
+      {
+        "industry": "Banking",
+        "label": "Financial Services",
+        "challenge": "Meet strict regulatory compliance requirements",
+        "solution": "Deployed enterprise security & compliance framework",
+        "metric": "100%",
+        "metricLabel": "Compliant",
+        "color": "#6366f1",
+        "results": [
+          "SOC 2 Type II certified",
+          "Zero security breaches",
+          "Automated compliance reporting"
+        ]
+      },
+      {
+        "industry": "Healthcare",
+        "label": "Healthcare Provider",
+        "challenge": "Modernize patient data management",
+        "solution": "Built HIPAA-compliant cloud data platform",
+        "metric": "80%",
+        "metricLabel": "Faster",
+        "color": "#10b981",
+        "results": [
+          "Real-time patient data access",
+          "80% faster report generation",
+          "HIPAA certified infrastructure"
+        ]
+      }
+    ],
+    "processSteps": [
+      {
+        "step": "01",
+        "title": "Discovery & Assessment",
+        "desc": "We analyze current infrastructure, identify pain points and understand your business goals",
+        "icon": "Database"
+      },
+      {
+        "step": "02",
+        "title": "Strategy & Planning",
+        "desc": "Custom solution design tailored to your specific needs with clear milestones and timelines",
+        "icon": "Layers"
+      },
+      {
+        "step": "03",
+        "title": "Implementation",
+        "desc": "Expert deployment with minimal disruption to your operations and continuous communication",
+        "icon": "Zap"
+      },
+      {
+        "step": "04",
+        "title": "Optimization & Support",
+        "desc": "Ongoing monitoring, optimization and 24/7 support to ensure peak performance",
+        "icon": "Globe"
+      }
+    ]
+  }
+}

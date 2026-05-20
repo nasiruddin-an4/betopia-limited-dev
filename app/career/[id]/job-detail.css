@@ -1,0 +1,192 @@
+/* ===== Job Description Content Styles ===== */
+.job-description-content {
+  color: #374151;
+  line-height: 1.85;
+  font-size: 0.9375rem;
+  letter-spacing: 0.01em;
+}
+
+/* --- All heading levels --- */
+.job-description-content h2,
+.job-description-content h3,
+.job-description-content h4 {
+  color: #0a0a0a;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  position: relative;
+}
+
+.job-description-content h2 {
+  font-size: 1.35rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.625rem;
+  border-bottom: 2px solid #ff8f3d;
+}
+
+.job-description-content h2:first-child {
+  margin-top: 0;
+}
+
+.job-description-content h3 {
+  font-size: 1.2rem;
+  margin-top: 2.25rem;
+  margin-bottom: 0.875rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #ff8f3d;
+}
+
+.job-description-content h4 {
+  font-size: 1.1rem;
+  margin-top: 1.75rem;
+  margin-bottom: 0.625rem;
+}
+
+/* Ensure <strong> inside headings inherits the bold */
+.job-description-content h2 strong,
+.job-description-content h3 strong,
+.job-description-content h4 strong {
+  font-weight: 800;
+  color: inherit;
+}
+
+/* --- Section titles rendered as <p> or <div> with only text (no child elements) --- */
+/* These catch titles like "Education:", "Key Points" in plain tags */
+.job-description-content > div > strong,
+.job-description-content > p > strong {
+  display: inline;
+  color: #0a0a0a;
+  font-weight: 800;
+  font-size: 1.05rem;
+}
+
+/* --- General strong tags for emphasis --- */
+.job-description-content strong {
+  color: #0a0a0a;
+  font-weight: 700;
+}
+
+/* --- Paragraphs --- */
+.job-description-content p {
+  margin-bottom: 1rem;
+  line-height: 1.85;
+}
+
+/* --- Lists --- */
+.job-description-content ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin-bottom: 1.25rem;
+}
+
+.job-description-content ul li {
+  position: relative;
+  padding-left: 1.5rem;
+  margin-bottom: 0.625rem;
+  line-height: 1.85;
+}
+
+.job-description-content ul li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.625rem;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background-color: #ff8f3d;
+}
+
+.job-description-content ul ul {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.job-description-content ul ul li::before {
+  width: 5px;
+  height: 5px;
+  background-color: #d1d5db;
+  border-radius: 50%;
+}
+
+.job-description-content ol {
+  list-style-type: decimal;
+  padding-left: 1.75rem;
+  margin-bottom: 1.25rem;
+}
+
+.job-description-content ol li {
+  margin-bottom: 0.5rem;
+  line-height: 1.85;
+  padding-left: 0.25rem;
+}
+
+.job-description-content li p {
+  margin-bottom: 0.25rem;
+}
+
+/* --- Links --- */
+.job-description-content a {
+  color: #ff8f3d;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.job-description-content a:hover {
+  color: #e67d2e;
+  text-decoration: underline;
+}
+
+/* --- Dividers & spacing --- */
+.job-description-content div {
+  margin-bottom: 0.375rem;
+}
+
+.job-description-content br + br {
+  display: none;
+}
+
+/* ===== Job Detail Page Layout ===== */
+.job-detail-sidebar-badge {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.875rem 1rem;
+  background: #fafafa;
+  border-radius: 1rem;
+  border: 1px solid #f0f0f0;
+}
+
+.job-detail-sidebar-badge .badge-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 0.75rem;
+  background: white;
+  border: 1px solid #f0f0f0;
+  flex-shrink: 0;
+}
+
+.job-detail-sidebar-badge .badge-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.job-detail-sidebar-badge .badge-label {
+  font-size: 0.6875rem;
+  color: #9ca3af;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  line-height: 1.2;
+}
+
+.job-detail-sidebar-badge .badge-value {
+  font-size: 0.875rem;
+  color: #111;
+  font-weight: 600;
+  line-height: 1.4;
+}

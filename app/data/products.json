@@ -1,0 +1,2252 @@
+{
+  "productOverview": [
+    {
+      "id": "human-resource-management",
+      "tag": "Most Popular",
+      "title": "Betopia HRM",
+      "description": "AI-powered HR management system for modern workforce automation.",
+      "features": [
+        "Employee lifecycle automation",
+        "AI recruitment insights",
+        "Attendance & performance tracking"
+      ],
+      "cta": "Explore HRM",
+      "image": "/product/HRM PNG BG.png",
+      "accent": "from-orange-500 to-amber-400",
+      "accentBg": "bg-orange-500/10",
+      "accentText": "text-orange-500",
+      "accentBorder": "border-orange-500/20",
+      "accentGlow": "shadow-orange-500/20"
+    },
+    {
+      "id": "betopia-erp",
+      "tag": "New",
+      "title": "Business Brain",
+      "description": "Unified enterprise platform for seamless business process automation.",
+      "features": [
+        "Real-time data synchronization",
+        "Customizable business workflows",
+        "Cross-department analytics"
+      ],
+      "cta": "Explore ERP",
+      "image": "/product/All Icon-04.png",
+      "accent": "from-blue-500 to-cyan-400",
+      "accentBg": "bg-blue-500/10",
+      "accentText": "text-blue-500",
+      "accentBorder": "border-blue-500/20",
+      "accentGlow": "shadow-blue-500/20"
+    },
+    {
+      "id": "count-trust",
+      "tag": "Popular",
+      "title": "Count Trust",
+      "description": "Secure digital voting with tamper-proof transparency and trust.",
+      "features": [
+        "Blockchain-grade security",
+        "Live results & reporting",
+        "Role-based access dashboards"
+      ],
+      "cta": "Explore Voting",
+      "image": "/product/All Icon-03.png",
+      "accent": "from-emerald-500 to-teal-400",
+      "accentBg": "bg-emerald-500/10",
+      "accentText": "text-emerald-500",
+      "accentBorder": "border-emerald-500/20",
+      "accentGlow": "shadow-emerald-500/20"
+    },
+    {
+      "id": "agentic-ai",
+      "tag": "Essential",
+      "title": "Betopia Agentic AI",
+      "description": "Autonomous AI agent for sales, negotiation & customer engagement.",
+      "features": [
+        "Intelligent lead qualification",
+        "Automated deal negotiation",
+        "24/7 customer engagement"
+      ],
+      "cta": "Explore Agentic AI",
+      "image": "/product/All Icon-01.png",
+      "accent": "from-violet-500 to-purple-400",
+      "accentBg": "bg-violet-500/10",
+      "accentText": "text-violet-500",
+      "accentBorder": "border-violet-500/20",
+      "accentGlow": "shadow-violet-500/20"
+    },
+    {
+      "id": "talkora-ai",
+      "tag": "Essential",
+      "title": "Talkora AI",
+      "description": "AI voice & chat system that manages business communications 24/7.",
+      "features": [
+        "Natural language call handling",
+        "Multi-channel support automation",
+        "Sentiment analysis & routing"
+      ],
+      "cta": "Explore Talkora",
+      "image": "/product/All Icon-02.png",
+      "accent": "from-rose-500 to-pink-400",
+      "accentBg": "bg-rose-500/10",
+      "accentText": "text-rose-500",
+      "accentBorder": "border-rose-500/20",
+      "accentGlow": "shadow-rose-500/20"
+    }
+  ],
+  "partnerOverview": [
+    {
+      "id": "smart-hospital",
+      "tag": "Healthcare",
+      "title": "Betopia CareOS",
+      "description": "Integrated healthcare management platform for data-driven hospitals.",
+      "features": [
+        "Digital patient records",
+        "Automated billing workflows",
+        "Resource scheduling analytics"
+      ],
+      "cta": "Explore Betopia CareOS",
+      "href": "/products/smart-hospital",
+      "accent": "from-rose-500 to-pink-400",
+      "accentBg": "bg-rose-500/10",
+      "accentText": "text-rose-500"
+    },
+    {
+      "id": "eduvas-school",
+      "tag": "Education",
+      "title": "Betopia Smart Class",
+      "description": "Modern school administration and virtual learning ecosystem.",
+      "features": [
+        "Student lifecycle management",
+        "Digital classrooms",
+        "Parent-teacher portal"
+      ],
+      "cta": "Explore Betopia Smart Class",
+      "href": "/products/eduvas-school",
+      "accent": "from-sky-500 to-blue-400",
+      "accentBg": "bg-sky-500/10",
+      "accentText": "text-sky-500"
+    },
+    {
+      "id": "eduvas-university",
+      "tag": "Education",
+      "title": "Betopia EduOS",
+      "description": "Comprehensive ERP designed specifically for higher education institutions.",
+      "features": [
+        "Campus automation",
+        "Academic planning tools",
+        "Alumni network management"
+      ],
+      "cta": "Explore Betopia EduOS",
+      "href": "/products/eduvas-university",
+      "accent": "from-indigo-500 to-purple-400",
+      "accentBg": "bg-indigo-500/10",
+      "accentText": "text-indigo-500"
+    },
+    {
+      "id": "Betopia LMS",
+      "tag": "Higher Ed",
+      "title": "Betopia LMS",
+      "description": "Integrated University Management System for seamless academic operations.",
+      "features": [
+        "Centralized academic records",
+        "Finance & fee tracking",
+        "Faculty management"
+      ],
+      "cta": "Explore Betopia LMS",
+      "href": "/products/Betopia LMS",
+      "accent": "from-teal-500 to-emerald-400",
+      "accentBg": "bg-teal-500/10",
+      "accentText": "text-teal-500"
+    },
+    {
+      "id": "virtual-gate",
+      "tag": "Security",
+      "title": "Virtual Gate",
+      "description": "Intelligent access control and digital visitor management solution.",
+      "features": [
+        "Automated entry protocols",
+        "Real-time security logs",
+        "Digital credentials"
+      ],
+      "cta": "Explore Virtual Gate",
+      "href": "/products/virtual-gate",
+      "accent": "from-slate-500 to-gray-400",
+      "accentBg": "bg-slate-500/10",
+      "accentText": "text-slate-500"
+    },
+    {
+      "id": "study-abroad",
+      "tag": "Agency",
+      "title": "Study Abroad",
+      "description": "Specialized CRM for overseas education consultants and agencies.",
+      "features": [
+        "Application tracking",
+        "Visa process automation",
+        "University placement AI"
+      ],
+      "cta": "Explore Study Abroad",
+      "href": "/products/study-abroad",
+      "accent": "from-cyan-500 to-blue-400",
+      "accentBg": "bg-cyan-500/10",
+      "accentText": "text-cyan-500"
+    }
+  ],
+  "whyChoose": [
+    {
+      "title": "Powerful AI Solutions",
+      "desc": "Enterprise-grade Artificial Intelligence solutions designed to scale with your business growth, delivering efficiency, automation and measurable results.",
+      "icon": "Zap",
+      "iconColor": "text-orange-500"
+    },
+    {
+      "title": "Seamless Integration",
+      "desc": "Connect effortlessly with 1,000+ apps and services. Our open API enables smooth integration across platforms, driving smarter workflows and unified operations.",
+      "icon": "Layers",
+      "iconColor": "text-orange-500"
+    },
+    {
+      "title": "Enhanced Business Connectivity",
+      "desc": "Break down organizational silos and empower teams with real-time collaboration, intelligent communication tools and AI-driven coordination.",
+      "icon": "Globe",
+      "iconColor": "text-orange-500"
+    },
+    {
+      "title": "Data-Driven Insights",
+      "desc": "Transform raw data into actionable intelligence. Advanced analytics, machine learning insights and customizable dashboards help businesses make informed decisions.",
+      "icon": "BarChart3",
+      "iconColor": "text-orange-500"
+    },
+    {
+      "title": "Enterprise-Grade Security",
+      "desc": "Protect your data with bank-level encryption, compliance certifications and regular security audits. Security and privacy are embedded in every solution.",
+      "icon": "Lock",
+      "iconColor": "text-orange-500"
+    }
+  ],
+  "details": {
+    "agentic-ai": {
+      "whyChooseReasons": [
+        {
+          "id": "01",
+          "title": "Real-time Voice Understanding",
+          "desc": "Advanced speech recognition with full Bengali and English support for natural, low-latency conversations.",
+          "icon": "Mic"
+        },
+        {
+          "id": "02",
+          "title": "Multimodal Automation",
+          "desc": "Unified AI presence across chat, voice, and social platforms, ensuring consistent customer experiences.",
+          "icon": "Zap"
+        },
+        {
+          "id": "03",
+          "title": "Enterprise Security",
+          "desc": "Built with 256-bit encryption and role-based access controls to safeguard your proprietary business data.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "id": "04",
+          "title": "Autonomous Scheduling",
+          "desc": "AI agents that autonomously manage calendars, book appointments, and handle complex reservation logic.",
+          "icon": "Bot"
+        }
+      ],
+      "coreModules": [
+        {
+          "title": "Intelligent AI Chatbots",
+          "desc": "Enhance customer engagement with AI-driven chatbots that provide instant responses, handle inquiries, and support user interactions across various platforms 24/7. Our bots learn from every interaction to improve resolution rates.",
+          "image": "/product/agentic-ai/chat.webp",
+          "icon": "MessageSquare"
+        },
+        {
+          "title": "Voice Agentic AI",
+          "desc": "Deploy AI-powered voice agents to handle customer interactions, appointment scheduling, and service inquiries through natural voice flows. Powered by industry leaders like Twilio and ElevenLabs for crystal-clear audio.",
+          "image": "/product/agentic-ai/voice.webp",
+          "icon": "Mic"
+        },
+        {
+          "title": "Business Process Automation",
+          "desc": "Automate routine tasks and complex business processes with Agentic AI. Streamline operations, reduce manual workload, and increase overall efficiency by letting AI handle the heavy lifting of data processing and workflows.",
+          "image": "/product/agentic-ai/automation.webp",
+          "icon": "Settings"
+        },
+        {
+          "title": "Talkora: AI Call Management",
+          "desc": "An intelligent call management system designed to handle business calls using virtual numbers. Incoming calls are automatically answered, managed, and summarized by AI, acting as a tireless virtual receptionist.",
+          "image": "/product/agentic-ai/talkora.webp",
+          "icon": "PlayCircle"
+        }
+      ]
+    },
+    "betopia-emailing-system": {
+      "whyChooseReasons": [
+        {
+          "id": "01",
+          "title": "One-Click Mass Reach",
+          "desc": "Send messages to thousands of employees instantly without error, delay, or complex mailing lists.",
+          "icon": "Send"
+        },
+        {
+          "id": "02",
+          "title": "Enterprise-Grade Security",
+          "desc": "Hosted on your own infrastructure with zero third-party exposure, keeping employee data fully private.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "id": "03",
+          "title": "AI-Powered Intelligence",
+          "desc": "Automate responses, summarize announcements, and optimize message tone for maximum clarity.",
+          "icon": "Bot"
+        },
+        {
+          "id": "04",
+          "title": "Real-Time Engagement",
+          "desc": "Track delivery, open rates, and engagement metrics to measure the impact of your internal comms.",
+          "icon": "BarChart"
+        },
+        {
+          "id": "05",
+          "title": "Seamless Integration",
+          "desc": "Works effortlessly with AWS, Microsoft, and Google ecosystems within your existing workflows.",
+          "icon": "Zap"
+        },
+        {
+          "id": "06",
+          "title": "Hierarchical Targeting",
+          "desc": "Precisely target departments, teams, or SBUs with built-in organizational mapping.",
+          "icon": "Users"
+        }
+      ],
+      "coreModules": [
+        {
+          "title": "Intelligent Campaign Orchestration",
+          "desc": "Draft, schedule, and deploy company-wide announcements with AI assistance that ensures professional tone and clarity.",
+          "image": "/product/betopia-emailing-system/campaign.png",
+          "icon": "Mail",
+          "color": "bg-white"
+        },
+        {
+          "title": "Infrastructure Transparency & Control",
+          "desc": "Full visibility into your emailing infrastructure with dedicated server management and infrastructure transparency.",
+          "image": "/product/betopia-emailing-system/server.png",
+          "icon": "Server",
+          "color": "bg-orange-50/30"
+        },
+        {
+          "title": "B2B Hierarchical Segmentation",
+          "desc": "Map your organization's entire structure and target messages based on seniority, department, or business unit.",
+          "image": "/product/betopia-emailing-system/targeting.png",
+          "icon": "Users",
+          "color": "bg-white"
+        },
+        {
+          "title": "Real-Time Analytical Insights",
+          "desc": "Granular delivery tracking and engagement heatmaps help you understand how your messages are being consumed.",
+          "image": "/product/betopia-emailing-system/analytics.png",
+          "icon": "BarChart",
+          "color": "bg-orange-50/30"
+        }
+      ]
+    },
+    "betopia-erp": {
+      "whyChooseReasons": [
+        {
+          "id": "01",
+          "title": "Multi-Branch Operations",
+          "desc": "Centralized control and seamless coordination across all organizational units and entities.",
+          "icon": "Network"
+        },
+        {
+          "id": "02",
+          "title": "Modular Architecture",
+          "desc": "Tailored to your unique workflows and operational requirements without heavy customization costs.",
+          "icon": "Layers"
+        },
+        {
+          "id": "03",
+          "title": "Full Auditability",
+          "desc": "Role-based access controls with full traceability across all system activities and data interactions.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "id": "04",
+          "title": "Unified Intelligence",
+          "desc": "Integrating ERP, collaboration, and analytics to deliver enterprise-wide productivity in one system.",
+          "icon": "BarChart3"
+        },
+        {
+          "id": "05",
+          "title": "Flexible Deployment",
+          "desc": "Deployment on cloud or on-premise environments to meet your regulatory and infrastructure needs.",
+          "icon": "Globe"
+        },
+        {
+          "id": "06",
+          "title": "Real-Time Dashboards",
+          "desc": "Leverage real-time KPI dashboards and branch-level analytics to make decisions faster.",
+          "icon": "Zap"
+        }
+      ],
+      "coreModules": [
+        {
+          "title": "Human Resources & Workforce Management",
+          "desc": "Centralize workforce operations with advanced HRMS, payroll, and performance appraisal aligned with KPIs across all branches.",
+          "image": "/product/erp-product/image_with_fallback.webp",
+          "icon": "Users",
+          "color": "bg-white"
+        },
+        {
+          "title": "Finance & Accounting",
+          "desc": "Maintain multi-branch accounting, consolidation, budgeting, and audit trails designed for enterprise governance.",
+          "image": "/product/erp-product/image_with_fallback2.webp",
+          "icon": "Database",
+          "color": "bg-orange-50/30"
+        },
+        {
+          "title": "Sales, CRM & Customer Engagement",
+          "desc": "Manage leads, opportunities, and invoicing with a unified customer view and integrated marketing capabilities.",
+          "image": "/product/erp-product/image_with_fallback3.webp",
+          "icon": "Users",
+          "color": "bg-white"
+        },
+        {
+          "title": "Purchase & Inventory Management",
+          "desc": "Optimize procurement and multi-warehouse control with stock transfers and real-time inventory insights.",
+          "image": "/product/erp-product/image_with_fallback4.webp",
+          "icon": "Layers",
+          "color": "bg-orange-50/30"
+        },
+        {
+          "title": "KPI Management & Dashboards",
+          "desc": "Monitor performance in real-time with role-based dashboards and branch-level analytics for informed decision-making.",
+          "image": "/product/erp-product/image_with_fallback5.webp",
+          "icon": "BarChart3",
+          "color": "bg-white"
+        }
+      ]
+    },
+    "count-trust": {
+      "whyChooseReasons": [
+        {
+          "id": "01",
+          "title": "Built for Trust & Accuracy",
+          "desc": "End-to-end encryption and verification mechanisms ensure every vote is valid, accurate and tamper-proof.",
+          "icon": "BadgeCheck"
+        },
+        {
+          "id": "02",
+          "title": "Enterprise-Grade Security",
+          "desc": "Multi-layer security, role-based access and real-time auditing safeguard your election from threats.",
+          "icon": "Lock"
+        },
+        {
+          "id": "03",
+          "title": "Scalable & Flexible",
+          "desc": "From small committee elections to large-scale national voting, our platform scales with your needs.",
+          "icon": "Users"
+        },
+        {
+          "id": "04",
+          "title": "Compliant & Reliable",
+          "desc": "Built to comply with global data protection standards and electoral best practices.",
+          "icon": "ShieldCheck"
+        }
+      ],
+      "coreModules": [
+        {
+          "title": "Election & Ballot Management",
+          "desc": "Create elections, manage positions and candidates, configure ballots and setup rules with an intuitive dashboard. CountTrust supports First Past The Post (FPTP), Ranked Choice, and Weighted voting.",
+          "image": "/product/count-trust/countabout2.webp",
+          "icon": "Vote"
+        },
+        {
+          "title": "Voter Management & Eligibility Control",
+          "desc": "Import voter lists, verify eligibility and prevent duplicate voting with strong authentication. Enforce one-voter-one-vote rules with intelligent deduplication.",
+          "image": "/product/count-trust/vote.webp",
+          "icon": "Users"
+        },
+        {
+          "title": "Controlled Voting via Verified Identities",
+          "desc": "Secure login, multi-factor authentication and verified identities ensure every vote is genuine and confidential. Supports voting through Windows and macOS-based terminals.",
+          "image": "/product/count-trust/d.webp",
+          "icon": "ScanLine"
+        },
+        {
+          "title": "Security-First Architecture & Audit Logs",
+          "desc": "Immutable logs, activity tracking and compliance reports for complete transparency and accountability. Export full audit evidence packs for post-election review.",
+          "image": "/product/count-trust/secure.webp",
+          "icon": "ShieldAlert"
+        },
+        {
+          "title": "Real-Time Results & Reporting Dashboard",
+          "desc": "Monitor election progress and voter turnout in real time with role-based dashboards. Publish certified results instantly upon election close with automated report generation.",
+          "image": "/product/count-trust/10002.jpg",
+          "icon": "BarChart3"
+        }
+      ],
+      "caseStudies": [
+        {
+          "industry": "NGO & FOUNDATION",
+          "title": "Secure Voting Platform for Non-Profit Organization",
+          "desc": "Powering transparent board elections for a global charitable foundation.",
+          "image": "/product/count-trust/countabout2.webp"
+        },
+        {
+          "industry": "CORPORATE GOVERNANCE",
+          "title": "Transparent Election for Corporate Board",
+          "desc": "Ensuring shareholder trust through auditable digital voting processes.",
+          "image": "/product/count-trust/10001.jpg"
+        },
+        {
+          "industry": "HIGHER EDUCATION",
+          "title": "Student Council Elections with CountTrust",
+          "desc": "Scalable voting solution for university-wide student body elections.",
+          "image": "/product/count-trust/10002.jpg"
+        }
+      ],
+      "expertisePathways": [
+        {
+          "title": "Election Strategy & Consulting",
+          "icon": "Search"
+        },
+        {
+          "title": "Platform Implementation & Integration",
+          "icon": "Settings2"
+        },
+        {
+          "title": "Election Support & Helpdesk",
+          "icon": "Users"
+        },
+        {
+          "title": "Security & Compliance Advisory",
+          "icon": "ShieldCheck"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How secure is the CountTrust voting platform?",
+          "answer": "CountTrust uses 256-bit AES encryption and blockchain-inspired audit trails to ensure every vote is secure and tamper-proof."
+        },
+        {
+          "question": "Can CountTrust integrate with our existing systems?",
+          "answer": "Yes, our platform supports seamless integration with various identity providers and membership databases."
+        },
+        {
+          "question": "Is CountTrust suitable for large-scale elections?",
+          "answer": "Absolutely. Our architecture is designed to handle concurrent voting loads from small teams to millions of voters."
+        },
+        {
+          "question": "How do you ensure voter privacy?",
+          "answer": "We use advanced anonymization techniques to ensure that while every vote is verified, it remains completely confidential."
+        },
+        {
+          "question": "Do you provide post-election audit reports?",
+          "answer": "Yes, we generate comprehensive, verifiable audit packs immediately after the election concludes."
+        }
+      ]
+    },
+    "eduvas-school": {
+      "coreModules": [
+        {
+          "title": "Academic Modules",
+          "desc": "Comprehensive tools for managing student academics, from scheduling to report cards.",
+          "image": "/product/eduvas-school/academic.png",
+          "icon": "BookOpen",
+          "badge": "Academics",
+          "color": "bg-white",
+          "borderColor": "border-orange-100",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100/50",
+          "items": [
+            "Class & Subject Management",
+            "Timetable Management",
+            "Attendance Tracking",
+            "Examination Management",
+            "Report Cards",
+            "Online Assignments"
+          ]
+        },
+        {
+          "title": "Administration Modules",
+          "desc": "Streamline your back-office operations with enterprise-level administrative tools.",
+          "image": "/product/eduvas-school/admin.png",
+          "icon": "Building2",
+          "badge": "Admin",
+          "color": "bg-orange-50",
+          "borderColor": "border-orange-200/50",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100",
+          "items": [
+            "Student Admission",
+            "Staff Management",
+            "Leave Management",
+            "Visitor Management",
+            "ID Card & Certificates",
+            "Document Management"
+          ]
+        },
+        {
+          "title": "Communication Modules",
+          "desc": "Keep parents, teachers, and students connected with real-time communication tools.",
+          "image": "/product/eduvas-school/communication.png",
+          "icon": "MessageSquare",
+          "badge": "Community",
+          "color": "bg-white",
+          "borderColor": "border-orange-100",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100/50",
+          "items": [
+            "Notice Board",
+            "SMS & Email Notifications",
+            "Parent Portal",
+            "Teacher Portal",
+            "Chat & Messaging",
+            "Announcements"
+          ]
+        },
+        {
+          "title": "Finance & Accounts",
+          "desc": "Automate fee collection and financial tracking with total transparency.",
+          "image": "/product/eduvas-school/finance.png",
+          "icon": "CreditCard",
+          "badge": "Finance",
+          "color": "bg-orange-50",
+          "borderColor": "border-orange-200/50",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100",
+          "items": [
+            "Fee Management",
+            "Online Fee Collection",
+            "Expense Tracking",
+            "Salary Management",
+            "Financial Reports",
+            "Audit Logs"
+          ]
+        },
+        {
+          "title": "Inventory & Library",
+          "desc": "Efficiently manage your institution's physical assets and library resources.",
+          "image": "/product/eduvas-school/inventory.png",
+          "icon": "LayoutGrid",
+          "badge": "Resources",
+          "color": "bg-white",
+          "borderColor": "border-orange-100",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100/50",
+          "items": [
+            "Library Management",
+            "Book Issue/Return",
+            "Inventory Tracking",
+            "Stock Alerts",
+            "Barcode Support"
+          ]
+        }
+      ],
+      "advantages": [
+        {
+          "title": "Centralized Digital Campus",
+          "desc": "Manage all school operations from a single, unified platform.",
+          "icon": "Building2"
+        },
+        {
+          "title": "Real-time Analytics",
+          "desc": "Get actionable insights with real-time dashboards and reports.",
+          "icon": "BarChart3"
+        },
+        {
+          "title": "Data Security",
+          "desc": "Secure student and institution data with role-based access.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "Paperless Operations",
+          "desc": "Eliminate paperwork and go digital in every administrative process.",
+          "icon": "FileText"
+        },
+        {
+          "title": "Anywhere Access",
+          "desc": "Access the system from any device, anytime, anywhere.",
+          "icon": "Globe"
+        },
+        {
+          "title": "Stakeholder Engagement",
+          "desc": "Improve communication with students, parents, and staff.",
+          "icon": "HeartHandshake"
+        },
+        {
+          "title": "Cost Effective",
+          "desc": "Reduce operational costs and improve institutional productivity.",
+          "icon": "TrendingUp"
+        },
+        {
+          "title": "Future Ready",
+          "desc": "A scalable solution that grows with your institution's needs.",
+          "icon": "Rocket"
+        }
+      ],
+      "pricingPlans": [
+        {
+          "name": "Starter",
+          "institutions": "1",
+          "maximumUsers": "250",
+          "storage": "10 GB",
+          "support": "Email",
+          "featured": false,
+          "buttonText": "Buy Now"
+        },
+        {
+          "name": "Standard",
+          "institutions": "Unlimited",
+          "maximumUsers": "500",
+          "storage": "50 GB",
+          "support": "Email & Chat",
+          "featured": false,
+          "buttonText": "Buy Now"
+        },
+        {
+          "name": "Premium",
+          "institutions": "Unlimited",
+          "maximumUsers": "1000",
+          "storage": "250 GB",
+          "support": "Priority",
+          "featured": true,
+          "buttonText": "Buy Now"
+        },
+        {
+          "name": "Custom",
+          "institutions": "Custom",
+          "maximumUsers": "Custom",
+          "storage": "Custom",
+          "support": "Dedicated",
+          "featured": false,
+          "buttonText": "Contact Us"
+        }
+      ],
+      "featuresList": [
+        {
+          "name": "Academics & Examination Management",
+          "standard": true,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "Student & Staff Management",
+          "standard": true,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "Communication & Notifications",
+          "standard": true,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "Online Fee Collection",
+          "standard": true,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "Library Management",
+          "standard": true,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "Reports & Analytics",
+          "standard": false,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "Mobile App Access",
+          "standard": false,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "Multi-device Support",
+          "standard": false,
+          "premium": false,
+          "custom": true
+        },
+        {
+          "name": "Custom Integrations",
+          "standard": false,
+          "premium": false,
+          "custom": true
+        }
+      ],
+      "servicePackages": [
+        {
+          "id": "01",
+          "title": "Automation Consultation",
+          "desc": "Assess your school's needs and provide the right automation strategy for growth.",
+          "icon": "Search"
+        },
+        {
+          "id": "02",
+          "title": "Implementation",
+          "desc": "Complete setup and configuration tailored to your institution's unique workflows.",
+          "icon": "Settings2"
+        },
+        {
+          "id": "03",
+          "title": "Data Migration",
+          "desc": "Migrate your existing data securely with accuracy and minimal disruption.",
+          "icon": "Database"
+        },
+        {
+          "id": "04",
+          "title": "Customization",
+          "desc": "Custom modules and workflows to match your institution's specific requirements.",
+          "icon": "Monitor"
+        },
+        {
+          "id": "05",
+          "title": "Integration",
+          "desc": "Seamless integration with third-party tools and your existing institutional systems.",
+          "icon": "Zap"
+        }
+      ]
+    },
+    "eduvas-university": {
+      "coreModules": [
+        {
+          "title": "Academics",
+          "desc": "Streamline course delivery and batch management with integrated academic tools.",
+          "image": "/product/eduvas-university/academics.png",
+          "icon": "BookOpen",
+          "badge": "Curriculum",
+          "color": "bg-white",
+          "borderColor": "border-orange-100",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100/50",
+          "items": [
+            "Course Management",
+            "Batch Management",
+            "Timetable Management",
+            "Attendance Tracking",
+            "Examination Management"
+          ]
+        },
+        {
+          "title": "Admission",
+          "desc": "Manage the entire enrollment lifecycle from inquiry to final admission.",
+          "image": "/product/eduvas-university/admission.png",
+          "icon": "UserPlus",
+          "badge": "Enrollment",
+          "color": "bg-orange-50",
+          "borderColor": "border-orange-200/50",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100",
+          "items": [
+            "Inquiry Management",
+            "Application Management",
+            "Document Verification",
+            "Merit Management",
+            "Online Enrollment"
+          ]
+        },
+        {
+          "title": "Student Portal",
+          "desc": "A centralized hub for students to manage their academic and financial records.",
+          "image": "/product/eduvas-university/portal.png",
+          "icon": "Users",
+          "badge": "Experience",
+          "color": "bg-white",
+          "borderColor": "border-orange-100",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100/50",
+          "items": [
+            "Profile & Dashboard",
+            "Fee Payment",
+            "Results & Grades",
+            "Notifications",
+            "Leave & Requests"
+          ]
+        },
+        {
+          "title": "Fee Management",
+          "desc": "Automate fee structures, collections, and financial reporting for total transparency.",
+          "image": "/product/eduvas-university/fee.png",
+          "icon": "CreditCard",
+          "badge": "Finance",
+          "color": "bg-orange-50",
+          "borderColor": "border-orange-200/50",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100",
+          "items": [
+            "Fee Structure",
+            "Fee Collection",
+            "Payment Gateway",
+            "Scholarships",
+            "Financial Reports"
+          ]
+        },
+        {
+          "title": "University Management",
+          "desc": "Enterprise-level control over users, roles, and campus-wide system settings.",
+          "image": "/product/eduvas-university/university.png",
+          "icon": "Building2",
+          "badge": "Governance",
+          "color": "bg-white",
+          "borderColor": "border-orange-100",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100/50",
+          "items": [
+            "User Management",
+            "Role Management",
+            "Campus Management",
+            "Audit & Logs",
+            "System Settings"
+          ]
+        }
+      ],
+      "advantages": [
+        {
+          "title": "Centralized Digital Campus",
+          "desc": "Manage everything in one platform for better control and visibility.",
+          "icon": "Globe"
+        },
+        {
+          "title": "Role-based Security",
+          "desc": "Secure data with role-based access and advanced permissions.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "Scalable Infrastructure",
+          "desc": "Support growth from small colleges to large universities.",
+          "icon": "Cpu"
+        },
+        {
+          "title": "Unified Institutional Management",
+          "desc": "Integrate all departments and processes in a single powerful system.",
+          "icon": "Layers"
+        },
+        {
+          "title": "AI-Powered Student Insights",
+          "desc": "Gain actionable insights on student performance and engagement.",
+          "icon": "TrendingUp"
+        },
+        {
+          "title": "Dynamic Curriculum & Programs",
+          "desc": "Create and manage curricula, programs, and electives effortlessly.",
+          "icon": "BookOpen"
+        },
+        {
+          "title": "Smart Automation & Workflows",
+          "desc": "Automate routine tasks and approvals to save time and reduce errors.",
+          "icon": "Clock"
+        },
+        {
+          "title": "Real-time Operational Visibility",
+          "desc": "Monitor real-time data and reports for smarter decision-making.",
+          "icon": "BarChart3"
+        }
+      ],
+      "pricingPlans": [
+        {
+          "name": "Starter",
+          "institutions": "5",
+          "maximumUsers": "250",
+          "storage": "5 GB",
+          "support": "Email",
+          "featured": false,
+          "buttonText": "Buy Now"
+        },
+        {
+          "name": "Standard",
+          "institutions": "15",
+          "maximumUsers": "500",
+          "storage": "15 GB",
+          "support": "Email & Chat",
+          "featured": false,
+          "buttonText": "Buy Now"
+        },
+        {
+          "name": "Premium",
+          "institutions": "Unlimited",
+          "maximumUsers": "1000",
+          "storage": "50 GB",
+          "support": "Priority",
+          "featured": true,
+          "buttonText": "Buy Now"
+        },
+        {
+          "name": "Custom",
+          "institutions": "Custom",
+          "maximumUsers": "Custom",
+          "storage": "Custom",
+          "support": "Dedicated",
+          "featured": false,
+          "buttonText": "Contact Us"
+        }
+      ],
+      "featuresList": [
+        {
+          "name": "Academic & Student Management",
+          "starter": true,
+          "standard": true,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "Examination Management",
+          "starter": true,
+          "standard": true,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "Attendance & Timetable",
+          "starter": true,
+          "standard": true,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "Fee & Financial Management",
+          "starter": true,
+          "standard": true,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "Library Management",
+          "starter": false,
+          "standard": true,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "Hostel Management",
+          "starter": false,
+          "standard": true,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "Placement Management",
+          "starter": false,
+          "standard": false,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "Reports & Analytics",
+          "starter": false,
+          "standard": false,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "Mobile App Access",
+          "starter": false,
+          "standard": false,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "Multi-Campus Support",
+          "starter": false,
+          "standard": false,
+          "premium": false,
+          "custom": true
+        }
+      ],
+      "servicePackages": [
+        {
+          "id": "01",
+          "title": "Automation Consultation",
+          "desc": "In-depth process analysis, digital transformation planning and automation roadmap aligned with your goals.",
+          "icon": "Search"
+        },
+        {
+          "id": "02",
+          "title": "Implementation",
+          "desc": "Complete end-to-end system deployment, including configuration, workflows, data-migration, training and go-live support.",
+          "icon": "Settings2"
+        },
+        {
+          "id": "03",
+          "title": "Data Migration",
+          "desc": "Secure and accurate transfer of legacy academic and administrative data for seamless transition.",
+          "icon": "Database"
+        },
+        {
+          "id": "04",
+          "title": "Customization",
+          "desc": "Development of tailored modules, reports, dashboards and workflows to meet specific institutional needs.",
+          "icon": "Monitor"
+        },
+        {
+          "id": "05",
+          "title": "Integration",
+          "desc": "Seamless integration with third-party systems such as payment gateways, LMS and biometric devices.",
+          "icon": "Zap"
+        },
+        {
+          "id": "06",
+          "title": "Maintenance",
+          "desc": "Continuous technical support, system updates, performance monitoring and proactive issue resolution.",
+          "icon": "Headphones"
+        }
+      ]
+    },
+    "erp": {
+      "whyChooseReasons": [
+        {
+          "id": "01",
+          "title": "Enterprise-Grade, Built To Scale",
+          "desc": "Designed for growing businesses with flexible architecture that adapts to your needs and supports long-term expansion.",
+          "icon": "LayoutGrid"
+        },
+        {
+          "id": "02",
+          "title": "Modular & Customizable",
+          "desc": "Choose the modules you need, customize workflows, and create a solution that fits your unique business processes.",
+          "icon": "Settings2"
+        },
+        {
+          "id": "03",
+          "title": "Secure, Role-Based & Compliant",
+          "desc": "Advanced security protocols, role-based access, and compliance standards to keep your data safe and your operations audit-ready.",
+          "icon": "ShieldCheck"
+        }
+      ],
+      "coreModules": [
+        {
+          "title": "Human Resource & Workforce Management",
+          "desc": "Streamline HR functions, from recruitment to retirement. Manage attendance, payroll, performance, and employee engagement effortlessly.",
+          "image": "/product/erp-product/image_with_fallback.webp",
+          "icon": "Users"
+        },
+        {
+          "title": "Finance & Accounting",
+          "desc": "Automate financial processes from budgeting and reporting to taxation and compliance. Gain real-time insights into your flow, profit, and financial performance.",
+          "image": "/product/erp-product/image_with_fallback2.webp",
+          "icon": "BarChart3"
+        },
+        {
+          "title": "Sales, CRM & Customer Engagement",
+          "desc": "Manage leads, track opportunities, and strengthen customer relationships. Improve sales productivity and customer satisfaction.",
+          "image": "/product/erp-product/image_with_fallback3.webp",
+          "icon": "Users"
+        },
+        {
+          "title": "Purchase & Inventory Management",
+          "desc": "Gain complete control over procurement, supplier management, inventory tracking, and warehouse operations. Reduce costs and eliminate stock-outs with real-time visibility.",
+          "image": "/product/erp-product/image_with_fallback4.webp",
+          "icon": "ShoppingCart"
+        },
+        {
+          "title": "KPI Management & Interactive Dashboards",
+          "desc": "Track performance with real-time KPIs and interactive dashboards. Visualize key metrics, monitor trends, and make data-driven decisions faster.",
+          "image": "/product/erp-product/image_with_fallback5.webp",
+          "icon": "PieChart"
+        },
+        {
+          "title": "Internal Communication & Collaboration",
+          "desc": "Enhance team collaboration with built-in communication tools. Facilitate knowledge sharing and meetings to improve productivity across the organization.",
+          "image": "/product/erp-product/image_with_fallback6.webp",
+          "icon": "Share2"
+        }
+      ],
+      "caseStudies": [
+        {
+          "industry": "MANUFACTURING",
+          "title": "Unified Multi-Branch ERP for a Manufacturing Conglomerate",
+          "desc": "Optimizing supply chain and production for 20+ global facilities.",
+          "image": "/product/erp-product/10001.jpg"
+        },
+        {
+          "industry": "RETAIL",
+          "title": "Real-Time Inventory & POS Integration for a Retail Chain",
+          "desc": "Synchronizing 100+ stores with automated inventory replenishment.",
+          "image": "/product/erp-product/10002.jpg"
+        },
+        {
+          "industry": "DISTRIBUTION",
+          "title": "Centralized Retail ERP for 500+ Outlets & Omnichannel",
+          "desc": "Building a scalable digital core for pan-regional retail excellence.",
+          "image": "/product/erp-product/10003.jpg"
+        }
+      ],
+      "expertisePathways": [
+        {
+          "title": "Industry-Specific Expertise",
+          "icon": "Target"
+        },
+        {
+          "title": "Customer Success Team",
+          "icon": "Users"
+        },
+        {
+          "title": "End-to-End Implementation",
+          "icon": "Settings2"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does Business Brain implementation take?",
+          "answer": "A typical implementation spans 8 to 16 weeks, depending on the number of modules chosen and the complexity of your business processes."
+        },
+        {
+          "question": "Can Business Brain be deployed on-premise or in the cloud?",
+          "answer": "Yes, we offer full flexibility. You can choose high-performance cloud hosting (AWS, Azure, Google) or secure on-premise deployment depending on your IT strategy."
+        },
+        {
+          "question": "Does Business Brain support multi-currency and multi-branch operations?",
+          "answer": "Absolutely. Our ERP is built for global scale, supporting multi-entity accounting, consolidated reporting, and localized taxation across multiple regions."
+        },
+        {
+          "question": "How does Business Brain handle data security and user access?",
+          "answer": "We implement granular Role-Based Access Control (RBAC), 256-bit encryption, and comprehensive audit logs to ensure your business data is secure and compliant."
+        },
+        {
+          "question": "Do you offer training and post-implementation support?",
+          "answer": "Yes, we provide extensive user training, dedicated success managers, and 24/7 technical support to ensure your team maximizes the value of the platform."
+        }
+      ]
+    },
+    "human-resource-management": {
+      "whyChooseReasons": [
+        {
+          "id": "01",
+          "title": "Centralized Employee Management",
+          "desc": "A unified system for all employee data, documents, profiles, and history.",
+          "icon": "Users"
+        },
+        {
+          "id": "02",
+          "title": "Advanced Leave & Attendance",
+          "desc": "Automate leave, track attendance, and manage schedules with ease.",
+          "icon": "Clock"
+        },
+        {
+          "id": "03",
+          "title": "Holistic HR Reporting & Analytics",
+          "desc": "Real-time insights to monitor workforce performance, attrition, and key HR metrics.",
+          "icon": "BarChart3"
+        },
+        {
+          "id": "04",
+          "title": "Streamlined Payroll Management",
+          "desc": "Accurate, compliant, and automated payroll processing every cycle.",
+          "icon": "Database"
+        },
+        {
+          "id": "05",
+          "title": "Compliance-Ready & Secure",
+          "desc": "Built-in compliance management with role-based access and audit trails.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "id": "06",
+          "title": "Better Employee Experience",
+          "desc": "Self-service portal empowering employees with transparency and convenience.",
+          "icon": "Heart"
+        }
+      ],
+      "coreModules": [
+        {
+          "title": "Centralized Employee & Role Management",
+          "desc": "Manage employee profiles, roles, departments, and permissions from one centralized dashboard. Ensure access control and accountability across your organization.",
+          "image": "/product/hrm-product/1.webp",
+          "icon": "Users",
+          "color": "bg-white"
+        },
+        {
+          "title": "Attendance, Leave & Availability Tracking",
+          "desc": "Effortlessly track attendance, leave requests, shifts, and team availability in real-time. Reduce errors and improve workforce planning.",
+          "image": "/product/hrm-product/6.webp",
+          "icon": "Clock",
+          "color": "bg-orange-50/30"
+        },
+        {
+          "title": "End-to-End Recruitment & Seamless Onboarding",
+          "desc": "Attract top talent, streamline hiring, and onboard new employees with digital workflows, document management, and automated tasks.",
+          "image": "/product/hrm-product/8.webp",
+          "icon": "UserPlus",
+          "color": "bg-white"
+        },
+        {
+          "title": "Payroll Integration, Compensation & Benefits Administration",
+          "desc": "Deliver accurate payroll, manage compensation structures, deductions, tax compliance, and employee benefits—all integrated with your HR data.",
+          "image": "/product/hrm-product/9.webp",
+          "icon": "Database",
+          "color": "bg-orange-50/30"
+        },
+        {
+          "title": "Performance Analytics & Talent Development Management",
+          "desc": "Track performance, set goals, conduct reviews, and create development plans to nurture talent and drive growth.",
+          "image": "/product/hrm-product/10.webp",
+          "icon": "BarChart3",
+          "color": "bg-white"
+        }
+      ],
+      "caseStudies": [
+        {
+          "industry": "HEALTHCARE",
+          "title": "AI-Powered HRMS for a Global Healthcare Group",
+          "desc": "Redesigning the employee experience for 10k+ medical staff across 5 countries.",
+          "image": "/product/hrm-product/10003.jpg"
+        },
+        {
+          "industry": "RETAIL",
+          "title": "HRMS HR Solution for a Retail Holding Company",
+          "desc": "Consolidating 50+ regional branches into a single, real-time HR hub.",
+          "image": "/product/hrm-product/10002.png"
+        },
+        {
+          "industry": "MANUFACTURING",
+          "title": "HR Automation for Manufacturing Leaders",
+          "desc": "Streamlining payroll and compliance for a 5,000+ member workforce.",
+          "image": "/product/hrm-product/10001.jpeg"
+        }
+      ],
+      "expertisePathways": [
+        {
+          "title": "HR Process Audit & Strategy",
+          "icon": "Search"
+        },
+        {
+          "title": "HRMS Implementation & Integration",
+          "icon": "Settings2"
+        },
+        {
+          "title": "Managed HR Support Services",
+          "icon": "Headphones"
+        },
+        {
+          "title": "HR Analytics & Compliance Advisory",
+          "icon": "BarChart3"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does it take to deploy Betopia HRM?",
+          "answer": "Our standard deployment takes between 2 to 4 weeks depending on the complexity of your organizational structure and data migration requirements."
+        },
+        {
+          "question": "Can Betopia HRM integrate with my existing systems?",
+          "answer": "Yes, our platform is built with a flexible API architecture that seamlessly integrates with most major third-party ERP, payroll and accounting software."
+        },
+        {
+          "question": "Is the platform suitable for small teams or organizations?",
+          "answer": "Absolutely. Betopia HRM is scalable and built to serve both growing startups and large global enterprises with equal efficiency."
+        },
+        {
+          "question": "How secure is employee data?",
+          "answer": "We treat data privacy as a top priority. Our platform utilizes advanced 256-bit AES encryption and strict Role-Based Access Control (RBAC)."
+        },
+        {
+          "question": "Do you offer post-implementation support?",
+          "answer": "Yes, we provide ongoing technical support and dedicated client engagement managers to assist you after the initial setup."
+        }
+      ]
+    },
+    "iums": {
+      "coreModules": [
+        {
+          "title": "Core Academic Modules",
+          "desc": "Everything from admission to graduation in a unified ecosystem for students and faculty.",
+          "image": "/product/iums/core_academic.png",
+          "icon": "Users",
+          "badge": "Academic",
+          "color": "bg-white",
+          "borderColor": "border-orange-100",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100/50",
+          "items": [
+            "Admission Management",
+            "Curriculum & Course Management",
+            "Exam & Result Management",
+            "Grade & GPA/CGPA Calculation",
+            "Student & Teacher Portals"
+          ]
+        },
+        {
+          "title": "Additional Academic Modules",
+          "desc": "Extend your university's reach with LMS, Alumni and research capabilities.",
+          "image": "/product/iums/add_academic.png",
+          "icon": "Layers",
+          "badge": "Extensions",
+          "color": "bg-orange-50",
+          "borderColor": "border-orange-200/50",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100",
+          "items": [
+            "Learning Management System (LMS)",
+            "Outcome Based Education (OBE)",
+            "Library & Alumni Management",
+            "Research & Hostel Management",
+            "Student e-Card & Transportation"
+          ]
+        },
+        {
+          "title": "Administrator Modules",
+          "desc": "Powerful back-office tools to manage the entire institution's pulse.",
+          "image": "/product/iums/admin.png",
+          "icon": "Settings2",
+          "badge": "Administration",
+          "color": "bg-white",
+          "borderColor": "border-orange-100",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100/50",
+          "items": [
+            "HR, Financial & Payroll",
+            "Academic Performance BI",
+            "Reception & Helpdesk",
+            "System & Access Control",
+            "Security and NMS Dashboard"
+          ]
+        },
+        {
+          "title": "Operational Modules",
+          "desc": "Streamline procurement, inventory and asset management in one place.",
+          "image": "/product/iums/operational.png",
+          "icon": "BarChart3",
+          "badge": "Operations",
+          "color": "bg-orange-50",
+          "borderColor": "border-orange-200/50",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100",
+          "items": [
+            "Procurement & Inventory",
+            "Hospital / Dispensary Management",
+            "Budgeting and Expense Tracking",
+            "Asset & Appraisal Management",
+            "Finance and Accounts"
+          ]
+        },
+        {
+          "title": "Marketing & Communication",
+          "desc": "Engage with future candidates and stay connected with your community.",
+          "image": "/product/iums/marketing.png",
+          "icon": "MessageSquare",
+          "badge": "Engagement",
+          "color": "bg-white",
+          "borderColor": "border-orange-100",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100/50",
+          "items": [
+            "Student / Candidate CRM",
+            "Automated Email & SMS Marketing",
+            "Event & Registration Management",
+            "Media Unit / PR Portal"
+          ]
+        }
+      ],
+      "advantages": [
+        {
+          "title": "Scalable Infrastructure",
+          "desc": "Built on a modern tech stack ensuring high availability, flexibility and performance.",
+          "icon": "Zap"
+        },
+        {
+          "title": "Remote Accessibility",
+          "desc": "Secure cloud access anytime, anywhere for students, faculty and staff.",
+          "icon": "Globe"
+        },
+        {
+          "title": "Eco-friendly Operations",
+          "desc": "Paperless processes for a sustainable and eco-conscious institution evolution.",
+          "icon": "Sparkles"
+        },
+        {
+          "title": "Real-time Analytics",
+          "desc": "Instant insights and reports empowering data-driven decision making.",
+          "icon": "BarChart3"
+        },
+        {
+          "title": "Student-centric Experience",
+          "desc": "Simplified academic and administrative workflows for better engagement and satisfaction.",
+          "icon": "Users"
+        },
+        {
+          "title": "Streamlined Degree Verification",
+          "desc": "Easy, secure and verifiable degree authentication anytime, anywhere.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "Comprehensive Learning Tools",
+          "desc": "Includes LMS, OBE, Digital Library and more for better learning outcomes.",
+          "icon": "BookOpen"
+        },
+        {
+          "title": "Resource Optimization",
+          "desc": "Effective utilization of human resources, assets and other institutional resources.",
+          "icon": "Layers"
+        },
+        {
+          "title": "Efficient Academic Management",
+          "desc": "Seamless management of key academic activities for smooth academic operations.",
+          "icon": "Building2"
+        },
+        {
+          "title": "Alerts and Parent Engagement",
+          "desc": "Timely notifications and communication to parents for greater community involvement.",
+          "icon": "MessageSquare"
+        }
+      ],
+      "servicePackages": [
+        {
+          "id": "01",
+          "title": "Automation Consultation",
+          "desc": "Analyze your processes, define needs and plan the right automation strategy.",
+          "icon": "LineChart"
+        },
+        {
+          "id": "02",
+          "title": "Implementation",
+          "desc": "Configure and board your tech stack, including deployment, configuration workflows and integrations.",
+          "icon": "Settings2"
+        },
+        {
+          "id": "03",
+          "title": "Data Migration",
+          "desc": "Migrate your academic and operational data securely and ensure zero data loss during transitions.",
+          "icon": "Database"
+        },
+        {
+          "id": "04",
+          "title": "Customization",
+          "desc": "Configure IUMS to match your institution's unique requirements and workflows.",
+          "icon": "Code2"
+        },
+        {
+          "id": "05",
+          "title": "Integration",
+          "desc": "Seamless integration with third-party systems like payment gateways, SMS, biometric and more.",
+          "icon": "Network"
+        },
+        {
+          "id": "06",
+          "title": "Maintenance",
+          "desc": "Continuous support, system updates and proactive monitoring for smooth operations.",
+          "icon": "CheckCircle2"
+        }
+      ],
+      "clients": [
+        {
+          "name": "University 1",
+          "logo": "/product/iums/client1.png"
+        },
+        {
+          "name": "University 2",
+          "logo": "/product/iums/client2.png"
+        },
+        {
+          "name": "University 3",
+          "logo": "/product/iums/client3.png"
+        },
+        {
+          "name": "University 4",
+          "logo": "/product/iums/client4.png"
+        },
+        {
+          "name": "University 5",
+          "logo": "/product/iums/client5.png"
+        },
+        {
+          "name": "University 6",
+          "logo": "/product/iums/client6.png"
+        },
+        {
+          "name": "University 7",
+          "logo": "/product/iums/client7.png"
+        }
+      ]
+    },
+    "smart-hospital": {
+      "coreModules": [
+        {
+          "title": "Core Hospital Modules",
+          "desc": "Essential clinical tools to manage patient lifecycles and hospital operations.",
+          "image": "/product/smart-hospital/core.png",
+          "icon": "Stethoscope",
+          "badge": "Clinical",
+          "color": "bg-white",
+          "borderColor": "border-orange-100",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100/50",
+          "items": [
+            "Appointment Management (Online & Offline)",
+            "Patient Registration",
+            "OPD & IPD Management",
+            "Electronic Medical Records (EMR)",
+            "Laboratory Info Management System (LIMS)",
+            "Doctor Management & E-Prescription",
+            "Billing and Invoicing"
+          ]
+        },
+        {
+          "title": "Additional Hospital Modules",
+          "desc": "Extended healthcare services for specialized departments and patient engagement.",
+          "image": "/product/smart-hospital/additional.png",
+          "icon": "PlusSquare",
+          "badge": "Specialized",
+          "color": "bg-orange-50",
+          "borderColor": "border-orange-200/50",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100",
+          "items": [
+            "Patient Portal & Video Conferencing",
+            "Pharmacy & Ambulance Management",
+            "Blood Bank Management",
+            "Patient Insurance Management",
+            "Medical Certificate Preparation"
+          ]
+        },
+        {
+          "title": "Administrative & Ops Modules",
+          "desc": "Back-office management tools for optimized institutional productivity.",
+          "image": "/product/smart-hospital/admin.png",
+          "icon": "Settings2",
+          "badge": "Admin",
+          "color": "bg-white",
+          "borderColor": "border-orange-100",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100/50",
+          "items": [
+            "HR, Attendance & Payroll",
+            "Reception and Helpdesk",
+            "Security and Access Control",
+            "Procurement & Inventory",
+            "Finance, Accounting & Asset Management"
+          ]
+        },
+        {
+          "title": "Marketing & Communication",
+          "desc": "Tools to engage with patients and promote healthcare services.",
+          "image": "/product/smart-hospital/marketing.png",
+          "icon": "MessageSquare",
+          "badge": "Engagement",
+          "color": "bg-orange-50",
+          "borderColor": "border-orange-200/50",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100",
+          "items": [
+            "CRM & Website Management",
+            "Email & SMS Marketing",
+            "Event and Seminar Management",
+            "Live Chat Management"
+          ]
+        }
+      ],
+      "advantages": [
+        {
+          "title": "Seamless Integration & Centralized Control",
+          "desc": "Unifies all hospital departments under one platform for streamlined operations.",
+          "icon": "Layers"
+        },
+        {
+          "title": "Cost Efficiency & Resource Optimization",
+          "desc": "Reduces overhead through automated workflows and optimized resource allocation.",
+          "icon": "TrendingUp"
+        },
+        {
+          "title": "Optimized Clinical Workflows",
+          "desc": "Enhances OPD/IPD efficiency ensuring faster, more coordinated care delivery.",
+          "icon": "Activity"
+        },
+        {
+          "title": "Comprehensive & Secure Healthcare Records",
+          "desc": "Maintains complete medical histories with secure, role-based access.",
+          "icon": "ShieldCheck"
+        },
+        {
+          "title": "Better Decisions, Better Outcomes",
+          "desc": "Real-time dashboards and analytics empower smarter decisions for growth.",
+          "icon": "BarChart3"
+        }
+      ],
+      "servicePackages": [
+        {
+          "id": "01",
+          "title": "Automation Consultation",
+          "desc": "Assess your hospital's needs and provide the right automation strategy for growth.",
+          "icon": "Search"
+        },
+        {
+          "id": "02",
+          "title": "Implementation",
+          "desc": "Complete setup and configuration tailored to your institution's unique clinical workflows.",
+          "icon": "Settings2"
+        },
+        {
+          "id": "03",
+          "title": "Data Migration",
+          "desc": "Migrate legacy patient and operational data securely with accuracy.",
+          "icon": "Database"
+        },
+        {
+          "id": "04",
+          "title": "Customization",
+          "desc": "Development of tailored modules and dashboards to meet specific healthcare needs.",
+          "icon": "Monitor"
+        },
+        {
+          "id": "05",
+          "title": "Integration",
+          "desc": "Seamless integration with third-party tools such as payment gateways and biometric devices.",
+          "icon": "Zap"
+        }
+      ]
+    },
+    "study-abroad": {
+      "coreModules": [
+        {
+          "title": "Student Management",
+          "desc": "Manage profiles, documents and communication with ease in a centralized student-first ecosystem.",
+          "image": "/product/study-abroad/student.png",
+          "icon": "Users",
+          "badge": "Student-Centric",
+          "color": "bg-white",
+          "borderColor": "border-orange-100",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100/50",
+          "items": [
+            "Student CRM",
+            "Profile Management",
+            "Document Management",
+            "Application Tracking",
+            "Communication Center",
+            "Visa Management"
+          ]
+        },
+        {
+          "title": "Application Management",
+          "desc": "Automate workflows from initial lead to final enrollment with intelligent checklist tracking.",
+          "image": "/product/study-abroad/app.png",
+          "icon": "FileText",
+          "badge": "Automation",
+          "color": "bg-orange-50",
+          "borderColor": "border-orange-200/50",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100",
+          "items": [
+            "Online Applications",
+            "Checklist Management",
+            "Document Verification",
+            "Eligibility Rules",
+            "Status Tracking",
+            "Application Workflows"
+          ]
+        },
+        {
+          "title": "Finance & Operations",
+          "desc": "Streamline fees, commissions and accounting operations with full transparency.",
+          "image": "/product/study-abroad/finance.png",
+          "icon": "BarChart3",
+          "badge": "Financials",
+          "color": "bg-white",
+          "borderColor": "border-orange-100",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100/50",
+          "items": [
+            "Fee Management",
+            "Payment Tracking",
+            "Invoicing & Receipts",
+            "Refund Management",
+            "Agent Commission",
+            "Accounting Integration"
+          ]
+        },
+        {
+          "title": "University & Program Management",
+          "desc": "A unified database for global educational partnerships and program availability.",
+          "image": "/product/study-abroad/uni.png",
+          "icon": "Library",
+          "badge": "Partnerships",
+          "color": "bg-orange-50",
+          "borderColor": "border-orange-200/50",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100",
+          "items": [
+            "University Database",
+            "Program & Intake Management",
+            "Contract Management",
+            "Seat Availability",
+            "Partnership Management"
+          ]
+        }
+      ],
+      "advantages": [
+        {
+          "title": "Centralized Platform",
+          "desc": "Manage everything from one unified system with role-based dashboards.",
+          "icon": "Layers"
+        },
+        {
+          "title": "Smart Automation",
+          "desc": "Automate workflows, reminders and approvals to save time and reduce manual work.",
+          "icon": "Zap"
+        },
+        {
+          "title": "Data-Driven Insights",
+          "desc": "Real-time dashboards and reports to track performance and make smarter decisions.",
+          "icon": "BarChart3"
+        },
+        {
+          "title": "Real-time Tracking",
+          "desc": "Track every application and student activity in real-time with complete transparency.",
+          "icon": "Search"
+        },
+        {
+          "title": "Paperless Operations",
+          "desc": "Digitize documents and communications for a faster, smarter workflow.",
+          "icon": "FileText"
+        },
+        {
+          "title": "Anytime, Anywhere",
+          "desc": "Cloud-based access from anywhere, on any device, for students, agents and partners.",
+          "icon": "Globe"
+        },
+        {
+          "title": "Stakeholder Engagement",
+          "desc": "Seamless collaboration with students, agents, partner universities.",
+          "icon": "MessageSquare"
+        },
+        {
+          "title": "Enterprise-Grade Security",
+          "desc": "Secure data with role permissions, encryption and compliance controls.",
+          "icon": "ShieldCheck"
+        }
+      ],
+      "pricingPlans": [
+        {
+          "name": "Starter",
+          "institutions": "10",
+          "maximumUsers": "5",
+          "implementations": "Basic",
+          "support": "Email & Chat",
+          "price": "Custom",
+          "buttonText": "Buy Now",
+          "featured": false
+        },
+        {
+          "name": "Standard",
+          "institutions": "25",
+          "maximumUsers": "15",
+          "implementations": "Advanced",
+          "support": "Email & Chat",
+          "price": "Custom",
+          "buttonText": "Buy Now",
+          "featured": false
+        },
+        {
+          "name": "Premium",
+          "institutions": "Unlimited",
+          "maximumUsers": "50",
+          "implementations": "Advanced",
+          "support": "Priority",
+          "price": "Custom",
+          "buttonText": "Buy Now",
+          "featured": true
+        },
+        {
+          "name": "Custom",
+          "institutions": "Custom",
+          "maximumUsers": "Custom",
+          "implementations": "Custom",
+          "support": "Dedicated",
+          "price": "Custom",
+          "buttonText": "Contact Us",
+          "featured": false
+        }
+      ],
+      "featuresList": [
+        {
+          "name": "Student & Application Management",
+          "starter": true,
+          "standard": true,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "University & Program Management",
+          "starter": true,
+          "standard": true,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "Document Management",
+          "starter": true,
+          "standard": true,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "Communication Center",
+          "starter": true,
+          "standard": true,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "Visa & Compliance Management",
+          "starter": true,
+          "standard": true,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "Finance & Accounting",
+          "starter": true,
+          "standard": true,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "Agent & Partner Management",
+          "starter": true,
+          "standard": true,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "Workflow Automation",
+          "starter": false,
+          "standard": true,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "Advanced Reports & Analytics",
+          "starter": false,
+          "standard": true,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "API & Third-party Integrations",
+          "starter": false,
+          "standard": true,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "White-labeling",
+          "starter": false,
+          "standard": false,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "Dedicated Account Manager",
+          "starter": false,
+          "standard": false,
+          "premium": true,
+          "custom": true
+        },
+        {
+          "name": "SLA & Priority Support",
+          "starter": false,
+          "standard": false,
+          "premium": false,
+          "custom": true
+        }
+      ],
+      "servicePackages": [
+        {
+          "id": "01",
+          "title": "Automation Consultation",
+          "desc": "Assess your processes, define goals and plan the right automation strategy.",
+          "icon": "Search"
+        },
+        {
+          "id": "02",
+          "title": "Implementation",
+          "desc": "Complete end-to-end implementation with configuration, workflows and integrations.",
+          "icon": "Settings2"
+        },
+        {
+          "id": "03",
+          "title": "Data Migration",
+          "desc": "Migrate your students and operational data securely with accuracy and zero downtime.",
+          "icon": "Database"
+        },
+        {
+          "id": "04",
+          "title": "Customization",
+          "desc": "Development of tailored workflows, reports and dashboards to match your unique needs.",
+          "icon": "Monitor"
+        },
+        {
+          "id": "05",
+          "title": "Integration",
+          "desc": "Seamless integration with payment gateways, email, SMS, academic systems and more.",
+          "icon": "Zap"
+        },
+        {
+          "id": "06",
+          "title": "Maintenance",
+          "desc": "Continuous support, updates and performance monitoring for a smooth experience.",
+          "icon": "Headphones"
+        }
+      ]
+    },
+    "talkora-ai": {
+      "whyChooseReasons": [
+        {
+          "id": "01",
+          "title": "24/7 AI Availability",
+          "desc": "A tireless virtual receptionist that answers every call instantly, ensuring no customer is ever left on hold.",
+          "icon": "Clock"
+        },
+        {
+          "id": "02",
+          "title": "Neural Voice Processing",
+          "desc": "Advanced AI that understands context, intent, and emotion in real-time conversations with human-like naturality.",
+          "icon": "BrainCircuit"
+        },
+        {
+          "id": "03",
+          "title": "Actionable Intelligence",
+          "desc": "Instant AI-generated summaries and sentiment analysis delivered to your dashboard after every call.",
+          "icon": "Zap"
+        },
+        {
+          "id": "04",
+          "title": "Global Connectivity",
+          "desc": "Provision local and toll-free numbers in 100+ countries with seamless carrier-grade reliability.",
+          "icon": "Globe"
+        }
+      ],
+      "coreModules": [
+        {
+          "title": "Virtual Number Provisioning",
+          "desc": "Get local, toll-free, and international numbers in minutes. Manage your entire global telephony footprint from a single, unified dashboard without any physical hardware.",
+          "image": "/product/agentic-ai/talkora.webp",
+          "icon": "Phone"
+        },
+        {
+          "title": "AI Virtual Receptionist",
+          "desc": "Deploy intelligent virtual assistants that answer calls, qualify leads, and schedule appointments automatically. Our AI understands business-specific context to provide accurate information.",
+          "image": "/product/agentic-ai/voice.webp",
+          "icon": "Mic"
+        },
+        {
+          "title": "Transcription & Analytics",
+          "desc": "Every call is recorded and transcribed with AI-generated summaries. Gain deep insights into customer needs with automated sentiment tracking and keyword extraction.",
+          "image": "/product/agentic-ai/automation.webp",
+          "icon": "FileAudio"
+        },
+        {
+          "title": "Smart Routing & Integration",
+          "desc": "Automatically route calls based on intent, time, or caller ID. Seamlessly integrate call data and summaries into your existing CRM for a unified customer view.",
+          "image": "/product/agentic-ai/chat.webp",
+          "icon": "Database"
+        }
+      ]
+    },
+    "virtual-gate": {
+      "coreModules": [
+        {
+          "title": "Avatar & Interaction Features",
+          "desc": "Create immersive digital identities and foster real-time networking in virtual spaces.",
+          "image": "/product/virtual-gate/avatar.png",
+          "icon": "UserCircle",
+          "badge": "Social",
+          "color": "bg-white",
+          "borderColor": "border-orange-100",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100/50",
+          "items": [
+            "Avatar Creation & Customization",
+            "Interactive Networking",
+            "Chat & Messaging",
+            "One-on-One Meetings",
+            "Networking Lounge"
+          ]
+        },
+        {
+          "title": "Virtual Venue & Environment",
+          "desc": "Design stunning 3D environments that mirror the physical event experience.",
+          "image": "/product/virtual-gate/venue.png",
+          "icon": "Layers",
+          "badge": "Environment",
+          "color": "bg-orange-50",
+          "borderColor": "border-orange-200/50",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100",
+          "items": [
+            "Virtual Venues",
+            "Exhibition Booths",
+            "AuditorBetopia LMS and Stages",
+            "Breakout Rooms",
+            "Virtual Tours"
+          ]
+        },
+        {
+          "title": "Engagement & Gamification",
+          "desc": "Boost attendee participation with interactive games and social integrations.",
+          "image": "/product/virtual-gate/engagement.png",
+          "icon": "Gamepad2",
+          "badge": "Engagement",
+          "color": "bg-white",
+          "borderColor": "border-orange-100",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100/50",
+          "items": [
+            "Gamification",
+            "Live Polls and Surveys",
+            "Virtual Swag Bags",
+            "Social Media Integration"
+          ]
+        },
+        {
+          "title": "Content & Information Sharing",
+          "desc": "Seamlessly distribute event materials and track engagement analytics.",
+          "image": "/product/virtual-gate/content.png",
+          "icon": "Share2",
+          "badge": "Content",
+          "color": "bg-orange-50",
+          "borderColor": "border-orange-200/50",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100",
+          "items": [
+            "Content Sharing",
+            "Analytics and Reporting",
+            "Content Management",
+            "Feedback and Surveys"
+          ]
+        },
+        {
+          "title": "Supportive Features",
+          "desc": "Powerful back-office tools to monetize and record your virtual events.",
+          "image": "/product/virtual-gate/supportive.png",
+          "icon": "Video",
+          "badge": "Support",
+          "color": "bg-white",
+          "borderColor": "border-orange-100",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100/50",
+          "items": [
+            "Live Streaming and Recording",
+            "Sponsorship Opportunities",
+            "Revenue Generation",
+            "User Analytics Dashboard"
+          ]
+        },
+        {
+          "title": "Access & Security Features",
+          "desc": "Enterprise-grade security to manage registrations and sensitive data.",
+          "image": "/product/virtual-gate/security.png",
+          "icon": "Lock",
+          "badge": "Security",
+          "color": "bg-orange-50",
+          "borderColor": "border-orange-200/50",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100",
+          "items": [
+            "Security and Privacy",
+            "Registration and Ticketing",
+            "Integration Capabilities",
+            "Technical Support"
+          ]
+        },
+        {
+          "title": "Accessibility & Compatibility",
+          "desc": "Ensure your event is accessible to everyone, on any device, anywhere.",
+          "image": "/product/virtual-gate/compatibility.png",
+          "icon": "Smartphone",
+          "badge": "Universal",
+          "color": "bg-white",
+          "borderColor": "border-orange-100",
+          "textColor": "text-brand-bright-orange",
+          "badgeBg": "bg-orange-100/50",
+          "items": [
+            "Accessibility Features",
+            "Mobile Accessibility",
+            "VR Compatibility",
+            "Multi-language Support"
+          ]
+        }
+      ],
+      "advantages": [
+        {
+          "title": "Simplifies Payments",
+          "desc": "Manage, track, settle and utilize payments within one platform.",
+          "icon": "BarChart3"
+        },
+        {
+          "title": "Streamlines Access",
+          "desc": "Grant and revoke access efficiently while maintaining full control.",
+          "icon": "Lock"
+        },
+        {
+          "title": "Saves Time",
+          "desc": "Eliminate paperwork and reduce admin overhead with smart automation.",
+          "icon": "Zap"
+        },
+        {
+          "title": "Cost-Efficient",
+          "desc": "Reduce operational costs through automation and centralization.",
+          "icon": "Database"
+        },
+        {
+          "title": "Improves User Experience",
+          "desc": "Offers an intuitive, user-friendly interface for all participants.",
+          "icon": "Users"
+        },
+        {
+          "title": "Centralized Control",
+          "desc": "Monitor, manage users, payments and access from one dashboard.",
+          "icon": "Settings2"
+        },
+        {
+          "title": "Integrates Seamlessly",
+          "desc": "Easily connects with existing systems and scales with growth.",
+          "icon": "Layers"
+        },
+        {
+          "title": "Enhances Security",
+          "desc": "Provides secure, role-based and biometric-enabled access.",
+          "icon": "ShieldCheck"
+        }
+      ],
+      "servicePackages": [
+        {
+          "id": "01",
+          "title": "Automation Consultation",
+          "desc": "In-depth process analysis, digital transformation planning and automation roadmap aligned with your goals.",
+          "icon": "Search"
+        },
+        {
+          "id": "02",
+          "title": "Implementation",
+          "desc": "Complete end-to-end system deployment, including configuration, workflows, data-migration, training and go-live support.",
+          "icon": "Settings2"
+        },
+        {
+          "id": "03",
+          "title": "Data Migration",
+          "desc": "Secure and accurate transfer of legacy academic and administrative data for seamless transition.",
+          "icon": "Database"
+        },
+        {
+          "id": "04",
+          "title": "Customization",
+          "desc": "Development of tailored modules, reports, dashboards and workflows to meet specific institutional needs.",
+          "icon": "Monitor"
+        },
+        {
+          "id": "05",
+          "title": "Integration",
+          "desc": "Seamless integration with third-party systems such as payment gateways, LMS and biometric devices.",
+          "icon": "Zap"
+        },
+        {
+          "id": "06",
+          "title": "Maintenance",
+          "desc": "Continuous technical support, system updates, performance monitoring and proactive issue resolution.",
+          "icon": "Headphones"
+        }
+      ]
+    }
+  }
+}

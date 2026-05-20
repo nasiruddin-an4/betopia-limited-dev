@@ -1,0 +1,2719 @@
+{
+  "banking": {
+    "title": "Banking Industries",
+    "hero": {
+      "title1": "",
+      "titleHighlight": "Banking Industries",
+      "title2": "",
+      "description": "At Betopia Limited, we empower Our Banking Industries to move beyond traditional systems and embrace intelligent, data-driven transformation. By integrating advanced AI technologies into core banking operations, we help financial institutions deliver faster, smarter and more personalized services.",
+      "image": "/bankCoverImg/bank.png",
+      "features": [
+        {
+          "icon": "Briefcase",
+          "text": "250+ Projects Delivered"
+        },
+        {
+          "icon": "Building2",
+          "text": "38+ Banks Served"
+        },
+        {
+          "icon": "Globe",
+          "text": "20+ Countries"
+        },
+        {
+          "icon": "ShieldCheck",
+          "text": "99.9% System Reliability"
+        },
+        {
+          "icon": "Headphones",
+          "text": "24/7 Global Support"
+        }
+      ],
+      "titleHighlights": "Banking Industries",
+      "heroTitle": "Built for Intelligent Financial Services"
+    },
+    "intro": {
+      "title1": "How Betopia is transforming",
+      "titleHighlight": "Banking",
+      "title2": "through AI-driven solutions.",
+      "description": "We partner with banks to reimagine operations, enhance customer experiences, strengthen risk and compliance, and drive sustainable growth through intelligent automation and advanced analytics.",
+      "tags": [
+        "AI & Automation",
+        "Predictive Analytics",
+        "Enterprise Security",
+        "Data Intelligence",
+        "Digital Experience"
+      ]
+    },
+    "approach": {
+      "title": "Designed for",
+      "titleHighlight": "Banking",
+      "cards": [
+        {
+          "title": "Core Modernization",
+          "description": "Modernize legacy core systems to build agile, scalable and future-ready banking infrastructure.",
+          "bullets": [
+            "Cloud-native architecture migration",
+            "API-first integration frameworks",
+            "Legacy system decoupling",
+            "Scalable microservices"
+          ]
+        },
+        {
+          "title": "Intelligent Operations",
+          "description": "Automate workflows, reduce manual effort and improve accuracy across end-to-end banking operations.",
+          "bullets": [
+            "Robotic Process Automation (RPA)",
+            "Intelligent document processing",
+            "Back-office automation",
+            "Workflow orchestration"
+          ]
+        },
+        {
+          "title": "Customer-Centric Banking",
+          "description": "Deliver personalized experiences with data-driven insights and omnichannel engagement.",
+          "bullets": [
+            "360-degree customer view",
+            "Personalized product recommendations",
+            "AI-powered chatbots & assistants",
+            "Seamless omnichannel journeys"
+          ]
+        },
+        {
+          "title": "Risk & Compliance Excellence",
+          "description": "Strengthen risk management, fraud detection and regulatory compliance with AI-powered intelligence.",
+          "bullets": [
+            "Real-time fraud monitoring",
+            "Automated AML/KYC checks",
+            "Regulatory reporting automation",
+            "AI-driven credit risk modeling"
+          ]
+        },
+        {
+          "title": "Data-Driven Growth",
+          "description": "Leverage advanced analytics to unlock new opportunities, optimize performance and drive sustainable growth.",
+          "bullets": [
+            "Predictive customer analytics",
+            "Profitability & performance modeling",
+            "Market trend forecasting",
+            "Real-time data visualization"
+          ]
+        }
+      ]
+    },
+    "challenges": {
+      "title1": "Capabilities",
+      "title2": "That Drive",
+      "titleHighlight": "Impact",
+      "items": [
+        {
+          "icon": "ShieldAlert",
+          "title": "Fraud Detection",
+          "description": "Real-time anomaly detection and behavior analysis."
+        },
+        {
+          "icon": "TrendingUp",
+          "title": "Credit Risk Modeling",
+          "description": "AI-powered credit scoring and risk assessment."
+        },
+        {
+          "icon": "FileCheck",
+          "title": "Regulatory Compliance",
+          "description": "Automated compliance monitoring and reporting."
+        },
+        {
+          "icon": "Gem",
+          "title": "Wealth & Advisory",
+          "description": "Intelligent advisory and portfolio optimization."
+        },
+        {
+          "icon": "CreditCard",
+          "title": "Payments Intelligence",
+          "description": "Secure, seamless and real-time payments."
+        },
+        {
+          "icon": "Users",
+          "title": "Customer Insights",
+          "description": "360° customer view and predictive personalization."
+        }
+      ]
+    },
+    "solutions": {
+      "title": "End-to-end solutions for modern banking",
+      "description": "From digital transformation and process automation to advanced analytics and cloud modernization, we help banks build resilient, intelligent and future-ready operations.",
+      "items": [
+        {
+          "icon": "Smartphone",
+          "title": "Digital Banking Platforms",
+          "description": "Modernize your retail and corporate banking experience with cloud-native platforms."
+        },
+        {
+          "icon": "Cpu",
+          "title": "Process Automation",
+          "description": "Streamline back-office workflows and reduce operational friction with intelligent RPA."
+        },
+        {
+          "icon": "Database",
+          "title": "Data & Analytics Platforms",
+          "description": "Turn raw financial data into actionable insights for better decision making."
+        },
+        {
+          "icon": "Cloud",
+          "title": "Cloud Transformation",
+          "description": "Securely migrate legacy infrastructure to scalable, high-performance cloud ecosystems."
+        },
+        {
+          "icon": "ShieldCheck",
+          "title": "Cybersecurity Solutions",
+          "description": "Protect customer assets and data with enterprise-grade security and threat detection."
+        },
+        {
+          "icon": "Brain",
+          "title": "AI & Machine Learning",
+          "description": "Leverage predictive models for personalized banking and advanced fraud prevention."
+        }
+      ],
+      "benefitsTitle": "What you'll gain working with us",
+      "benefits": [
+        "AI-powered automation tailored to banking workflows",
+        "Real-time data insights and predictive analytics",
+        "Enterprise-grade security and compliance",
+        "Seamless integration with core systems",
+        "Global delivery with 24/7 expert support",
+        "Measurable business impact and ROI"
+      ]
+    },
+    "cta": {
+      "subtitle": "LET'S BUILD TOGETHER",
+      "title1": "Ready to transform your",
+      "titleHighlight": "banking",
+      "title2": "operations?",
+      "description": "Partner with Betopia Limited to unlock intelligent, AI-driven solutions tailored specifically for the banking sector.",
+      "benefitsTitle": "Our Transformation Phases",
+      "benefits": [
+        "Consult: Understand your goals & challenges",
+        "Design: Build tailored solutions",
+        "Implement: Deliver with agility & precision",
+        "Optimize: Continuously improve & scale"
+      ]
+    }
+  },
+  "capital-markets": {
+    "title": "Capital Markets Industries",
+    "hero": {
+      "breadcrumb": "INDUSTRIES > CAPITAL MARKETS",
+      "title1": "",
+      "titleHighlight": "Capital Markets Industries",
+      "title2": "",
+      "description": "At Betopia Limited, we empower Our Capital Markets Industries with intelligent, data-driven solutions. From real-time market intelligence and algorithmic trading to risk management and regulatory compliance - our AI technologies help you make smarter investment decisions, mitigate risk, and unlock new growth opportunities in a rapidly evolving financial landscape.",
+      "image": "/bankCoverImg/Capital-Markets.png",
+      "titleHighlights": "Capital Markets Industries",
+      "heroTitle": "Built for Next-Gen Investment Systems"
+    },
+    "intro": {
+      "title1": "How Betopia is transforming",
+      "titleHighlight": "Capital Markets",
+      "title2": "through AI-driven solutions",
+      "description": "We partner with investment banks, brokerages, asset managers, and exchanges to deliver cutting-edge AI solutions that drive efficiency, enhance decision-making, and create superior outcomes across the capital markets value chain.",
+      "tags": [
+        "# AI & Automation",
+        "Predictive Analytics",
+        "Risk Management",
+        "RegTech",
+        "Market Intelligence",
+        "Data Security"
+      ]
+    },
+    "approach": {
+      "title": "Designed for",
+      "titleHighlight": "Capital Markets",
+      "cards": [
+        {
+          "title": "Intelligence for Smarter Decisions",
+          "description": "Harness AI and advanced analytics to turn vast amounts of market and alternative data into actionable insights.",
+          "bullets": [
+            "Real-time market data analytics",
+            "Sentiment & news analytics",
+            "Economic indicator forecasting",
+            "Event-driven strategy insights"
+          ],
+          "image": "/bankCoverImg/cm-card-1.png"
+        },
+        {
+          "title": "Risk-Aware. Future-Ready",
+          "description": "AI models help identify, assess, and mitigate risk exposures in real time across portfolios and markets.",
+          "bullets": [
+            "Credit & counterparty risk",
+            "Market & liquidity risk",
+            "Stress testing & scenario analysis",
+            "Anomaly & fraud detection"
+          ],
+          "image": "/bankCoverImg/cm-card-2.png"
+        },
+        {
+          "title": "Automated Compliant Scalable",
+          "description": "Automate complex workflows and ensure regulatory compliance with AI-powered automation and intelligent document processing.",
+          "bullets": [
+            "Regulatory reporting automation",
+            "KYC/AML & transaction monitoring",
+            "Trade surveillance",
+            "Policy & compliance monitoring"
+          ],
+          "image": "/bankCoverImg/cm-card-3.png"
+        }
+      ]
+    },
+    "valueChain": {
+      "title": "Powering the Entire Capital Markets Value Chain",
+      "steps": [
+        {
+          "icon": "Database",
+          "label": "Market Data Ingestion"
+        },
+        {
+          "icon": "Cpu",
+          "label": "AI-Powered Analytics"
+        },
+        {
+          "icon": "Target",
+          "label": "Strategy Development"
+        },
+        {
+          "icon": "Activity",
+          "label": "Trade Execution"
+        },
+        {
+          "icon": "ShieldAlert",
+          "label": "Risk Management"
+        },
+        {
+          "icon": "FileCheck",
+          "label": "Compliance & Reporting"
+        },
+        {
+          "icon": "TrendingUp",
+          "label": "Performance Optimization"
+        }
+      ],
+      "cards": [
+        {
+          "icon": "LineChart",
+          "title": "Predictive Analytics",
+          "description": "Forecast market trends, price movements & volatility with AI."
+        },
+        {
+          "icon": "Activity",
+          "title": "Algorithmic Trading",
+          "description": "Deploy adaptive algorithms that learn and optimize."
+        },
+        {
+          "icon": "PieChart",
+          "title": "Portfolio Optimization",
+          "description": "Maximize returns and minimize risk with ML-driven models."
+        },
+        {
+          "icon": "Database",
+          "title": "Alternative Data",
+          "description": "Incorporate news, social, satellite & ESG data for deeper insights."
+        },
+        {
+          "icon": "Monitor",
+          "title": "Real-time Risk Monitoring",
+          "description": "Continuously monitor exposures and market conditions."
+        },
+        {
+          "icon": "Shield",
+          "title": "Secure & Compliant",
+          "description": "Enterprise-grade security and regulatory compliance built-in."
+        }
+      ]
+    },
+    "challenges": {
+      "title1": "Markets move fast.",
+      "title2": "We help you",
+      "titleHighlight": "stay ahead.",
+      "items": [
+        {
+          "icon": "TrendingDown",
+          "title": "Market Volatility",
+          "description": "Rapid shifts and uncertainty impact performance."
+        },
+        {
+          "icon": "Database",
+          "title": "Data Overload",
+          "description": "Siloed and unstructured data makes insights hard to extract."
+        },
+        {
+          "icon": "FileText",
+          "title": "Rising Compliance Pressure",
+          "description": "Evolving regulations increase operational complexity."
+        },
+        {
+          "icon": "Clock",
+          "title": "Operational Inefficiency",
+          "description": "Manual processes and legacy systems slow you down."
+        },
+        {
+          "icon": "AlertTriangle",
+          "title": "Risk Exposure",
+          "description": "Hidden risks can lead to significant losses."
+        },
+        {
+          "icon": "Users",
+          "title": "Customer Expectations",
+          "description": "Investors expect real-time insights and personalization."
+        }
+      ],
+      "advantageTitle": "The Betopia Advantage",
+      "advantageItems": [
+        "AI-driven insights for smarter strategies",
+        "Real-time analytics & predictive signals",
+        "End-to-end automation & efficiency",
+        "Robust risk & compliance framework",
+        "Scalable solutions built for growth",
+        "Partner with experts in capital markets"
+      ]
+    },
+    "cta": {
+      "subtitle": "LET'S BUILD THE FUTURE OF FINANCE",
+      "title1": "Ready to transform your",
+      "titleHighlight": "Capital Markets",
+      "title2": "operations?",
+      "description": "Partner with Betopia Limited to unlock the power of AI, enhance decision-making, and drive sustainable growth.",
+      "benefitsTitle": "What you'll gain working with us",
+      "benefits": [
+        "AI-driven solutions tailored to your business goals",
+        "Real-time market insights & predictive intelligence",
+        "Enterprise-grade security and compliance",
+        "Global delivery with 24/7 expert support"
+      ]
+    }
+  },
+  "cmi": {
+    "title": "Communications, Media and Information Services Industries",
+    "hero": {
+      "breadcrumb": "INDUSTRIES > COMMUNICATIONS, MEDIA & INFORMATION SERVICES",
+      "title1": "",
+      "titleHighlight": "Communications, Media and Information Services Industries",
+      "title2": "",
+      "description": "At Betopia Limited, we help Our Communications, Media and Information Services Industries deliver hyper-personalized experiences, optimize operations across content, network and customer touchpoints, and unlock new revenue streams with AI-powered innovation.",
+      "features": [
+        {
+          "icon": "Users",
+          "text": "Personalized Experiences"
+        },
+        {
+          "icon": "LineChart",
+          "text": "Real-time Analytics"
+        },
+        {
+          "icon": "Brain",
+          "text": "Content Intelligence"
+        },
+        {
+          "icon": "Network",
+          "text": "Network Optimization"
+        },
+        {
+          "icon": "ShieldCheck",
+          "text": "Fraud & Security"
+        },
+        {
+          "icon": "TrendingUp",
+          "text": "Ad Revenue Growth"
+        }
+      ],
+      "image": "/bankCoverImg/Communications,-Media,-and-Information-Services.png",
+      "titleHighlights": "Communications, Media and Information Services Industries",
+      "heroTitle": "Built for Dynamic Content Delivery"
+    },
+    "intro": {
+      "title1": "How Betopia is transforming",
+      "titleHighlight": "Communications, Media and Information Services",
+      "title2": "through AI-driven solutions.",
+      "description": "From content creation to customer engagement and network operations, we help organizations modernize their value chain with intelligent automation, advanced analytics and data-driven decision-making.",
+      "tags": [
+        "AI & Automation",
+        "Predictive Analytics",
+        "Network Intelligence",
+        "Content Intelligence",
+        "Cyber Security"
+      ]
+    },
+    "approach": {
+      "title": "Designed for",
+      "titleHighlight": "Communications, Media and Information Services",
+      "cards": [
+        {
+          "title": "Immersive User Experiences",
+          "description": "Deliver personalized, cross-channel experiences that drive engagement, loyalty and lifetime value.",
+          "bullets": [
+            "360° customer view",
+            "Personalized content & recommendations",
+            "Real-time engagement orchestration",
+            "Experience journey analytics"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Intelligent Operations",
+          "description": "Automate and optimize complex operations across networks, content supply chain and customer service.",
+          "bullets": [
+            "AIOps for network & IT operations",
+            "Workflow automation & NLP",
+            "Predictive capacity planning",
+            "Automated content moderation"
+          ],
+          "image": ""
+        },
+        {
+          "title": "New Revenue Opportunities",
+          "description": "Monetize data, optimize ad performance and launch innovative digital services with confidence.",
+          "bullets": [
+            "Ad tech & programmatic optimization",
+            "Dynamic pricing & bundling",
+            "Churn prediction & retention",
+            "Data monetization & partnerships"
+          ],
+          "image": ""
+        }
+      ]
+    },
+    "valueChain": {
+      "title": "OUR IMPACT ACROSS THE VALUE CHAIN",
+      "steps": [
+        "Content Creation",
+        "Content Delivery",
+        "Customer Engagement",
+        "Monetization",
+        "Service & Support",
+        "Network & IT Ops"
+      ],
+      "cards": [
+        {
+          "icon": "Video",
+          "title": "Content Creation",
+          "description": "AI-assisted creation, tagging & localization"
+        },
+        {
+          "icon": "UploadCloud",
+          "title": "Content Delivery",
+          "description": "Adaptive streaming & CDN optimization"
+        },
+        {
+          "icon": "Users",
+          "title": "Customer Engagement",
+          "description": "Personalization across touchpoints"
+        },
+        {
+          "icon": "DollarSign",
+          "title": "Monetization",
+          "description": "Smarter ads, offers & subscriptions"
+        },
+        {
+          "icon": "Headphones",
+          "title": "Service & Support",
+          "description": "AI chatbots, self-service & case automation"
+        },
+        {
+          "icon": "Server",
+          "title": "Network & IT Ops",
+          "description": "Predictive monitoring & incident resolution"
+        }
+      ]
+    },
+    "challenges": {
+      "title1": "Challenges are evolving.",
+      "title2": "We help you",
+      "titleHighlight": "stay ahead.",
+      "items": [
+        {
+          "icon": "Files",
+          "title": "Content Overload",
+          "description": "High volumes, more formats and shorter attention spans."
+        },
+        {
+          "icon": "Network",
+          "title": "Network Complexity",
+          "description": "5G, edge & multi-cloud increase operational complexity."
+        },
+        {
+          "icon": "TrendingUp",
+          "title": "Rising Customer Expectations",
+          "description": "Demand for seamless, personalized and instant experiences."
+        },
+        {
+          "icon": "ShieldAlert",
+          "title": "Cyber Threats & Fraud",
+          "description": "Evolving attacks, account takeover and ad fraud risks."
+        },
+        {
+          "icon": "DollarSign",
+          "title": "Monetization Pressure",
+          "description": "Ad blockers, price sensitivity and intense competition."
+        },
+        {
+          "icon": "Database",
+          "title": "Data Growth",
+          "description": "Increasing data volumes require real-time insights and governance."
+        }
+      ],
+      "advantageTitle": "The Betopia Advantage",
+      "advantageItems": [
+        "AI-first solutions, tailored to your ecosystem",
+        "Real-time insights for faster decisions",
+        "Scalable, secure and future-ready platforms",
+        "End-to-end automation for efficiency",
+        "Proven impact across media & telecom"
+      ]
+    },
+    "cta": {
+      "subtitle": "LET'S BUILD THE FUTURE TOGETHER",
+      "title1": "Ready to transform your",
+      "titleHighlight": "Communications, Media and Information Services",
+      "title2": "operations?",
+      "description": "Partner with Betopia Limited to unlock the power of AI, enhance customer experiences and build sustainable growth.",
+      "benefitsTitle": "What you'll gain working with us",
+      "benefits": [
+        "AI-powered automation tailored to your workflows",
+        "Real-time insights across content, customers & networks",
+        "Enterprise-grade security and compliance",
+        "Global delivery with 24/7 expert support"
+      ]
+    },
+    "trustedBy": [
+      "/trusted/viacom18.png",
+      "/trusted/airtel.png",
+      "/trusted/vodafone.png",
+      "/trusted/disney-hotstar.png",
+      "/trusted/comcast.png",
+      "/trusted/bbc.png",
+      "/trusted/amazon.png",
+      "/trusted/ericsson.png"
+    ]
+  },
+  "cpg": {
+    "title": "Consumer Packaged Goods Industries",
+    "hero": {
+      "breadcrumb": "INDUSTRIES > CONSUMER PACKAGED GOODS",
+      "title1": "",
+      "titleHighlight": "Consumer Packaged Goods Industries",
+      "title2": "",
+      "description": "At Betopia Limited, we empower Our Consumer Packaged Goods Industries to reimagine consumer markets through intelligent, data-driven solutions. By combining advanced AI capabilities with deep industry insights, we help brands adapt to rapidly evolving consumer behaviors, optimize operations and unlock new growth opportunities in a highly competitive landscape.",
+      "features": [
+        {
+          "icon": "Cpu",
+          "text": "Smarter Operations"
+        },
+        {
+          "icon": "MapPin",
+          "text": "Real-time Visibility"
+        },
+        {
+          "icon": "LineChart",
+          "text": "Predictive Intelligence"
+        },
+        {
+          "icon": "TrendingUp",
+          "text": "Scalable Growth"
+        }
+      ],
+      "image": "/bankCoverImg/Consumer-Packaged-Goods-and-Distribution.png",
+      "titleHighlights": "Consumer Packaged Goods Industries",
+      "heroTitle": "Built for Agile Supply Chains"
+    },
+    "intro": {
+      "title1": "How Betopia is transforming",
+      "titleHighlight": "Consumer Packaged Goods",
+      "title2": "through AI-driven solutions.",
+      "description": "We empower FMCG companies to build agile and responsive ecosystems powered by real-time data and AI. Our solutions enhance supply chains, predict demand fluctuations, strengthen brand loyalty and improve operational efficiency — delivering measurable impact across every value chain.",
+      "tags": [
+        "AI & Automation",
+        "Predictive Analytics",
+        "Global Delivery",
+        "Enterprise Security",
+        "Data Intelligence"
+      ]
+    },
+    "approach": {
+      "title": "Designed for",
+      "titleHighlight": "Consumer Packaged Goods",
+      "cards": [
+        {
+          "title": "Creating a Future-Ready Consumer Ecosystem",
+          "description": "We enable FMCG companies to build agile and responsive ecosystems powered by real-time data. Our AI-driven platforms analyze purchasing patterns, predict demand fluctuations and optimize supply chains to ensure product availability and efficiency.",
+          "bullets": [
+            "Real-time demand sensing",
+            "Dynamic supply chain orchestration",
+            "Optimized inventory & distribution",
+            "Reduced operational costs"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Building Equity with Customers",
+          "description": "Betopia focuses on strengthening brand-consumer relationships through hyper-personalization. By leveraging AI, we help businesses deliver tailored recommendations, targeted campaigns and meaningful engagement across digital channels.",
+          "bullets": [
+            "360° customer intelligence",
+            "Personalized marketing & recommendations",
+            "Omnichannel engagement",
+            "Stronger brand loyalty"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Key Findings",
+          "description": "Our work in the CPG industry highlights that AI adoption leads to improved forecasting accuracy, increased customer retention and higher revenue growth. Companies embracing AI-driven strategies consistently outperform competitors by staying consumer-centric, adaptive and innovation-led.",
+          "bullets": [
+            "Up to 35% better demand accuracy",
+            "15-20% improvement in operational efficiency",
+            "Higher retention & customer satisfaction",
+            "Faster go-to-market for new products"
+          ],
+          "image": ""
+        }
+      ]
+    },
+    "valueChain": {
+      "title": "OUR CORE CAPABILITIES",
+      "steps": [],
+      "cards": [
+        {
+          "icon": "Cpu",
+          "title": "AI First Engineering",
+          "description": "Purpose-built AI models and automation pipelines that turn data into operational intelligence."
+        },
+        {
+          "icon": "TrendingUp",
+          "title": "Predictive Demand & Planning",
+          "description": "AI-powered forecasting for demand planning, promotion planning and replenishment."
+        },
+        {
+          "icon": "Box",
+          "title": "Supply Chain Optimization",
+          "description": "End-to-end visibility and AI-driven decisions across procurement, production and logistics."
+        },
+        {
+          "icon": "Zap",
+          "title": "Rapid Deployment",
+          "description": "Agile sprints and pre-built accelerators cut deployment timelines by up to 60%."
+        },
+        {
+          "icon": "Globe",
+          "title": "Global Scale",
+          "description": "Enterprise-grade delivery across 4+ continents with 24/7 support and local compliance expertise."
+        },
+        {
+          "icon": "Shield",
+          "title": "Enterprise Security & Compliance",
+          "description": "Built-in security, data governance and compliance with global industry standards."
+        }
+      ]
+    },
+    "cta": {
+      "subtitle": "LET'S BUILD TOGETHER",
+      "title1": "Ready to transform your",
+      "titleHighlight": "Consumer Packaged Goods",
+      "title2": "operations?",
+      "description": "Partner with Betopia Limited to unlock intelligent, AI-driven solutions tailored specifically for the consumer packaged goods sector.",
+      "benefitsTitle": "What you'll gain working with us",
+      "benefits": [
+        "AI-powered automation tailored to your workflows",
+        "Real-time data insights and predictive analytics",
+        "Enterprise-grade security and compliance",
+        "Global delivery with 24/7 expert support",
+        "Measurable business impact and ROI"
+      ]
+    },
+    "successStories": {
+      "subtitle": "SUCCESS STORIES",
+      "title": "Impact That Drives Real Results",
+      "items": [
+        {
+          "logo": "/trusted/coca-cola.png",
+          "brand": "Beverage Brand",
+          "description": "AI-driven demand forecasting and inventory optimization.",
+          "metric": "32%",
+          "metricLabel": "Improvement in forecast accuracy"
+        },
+        {
+          "logo": "/trusted/pg.png",
+          "brand": "Personal Care Brand",
+          "description": "Personalized marketing and omnichannel experience.",
+          "metric": "28%",
+          "metricLabel": "Increase in customer retention"
+        },
+        {
+          "logo": "/trusted/kelloggs.png",
+          "brand": "Food & Snacks Brand",
+          "description": "Supply chain visibility and demand prediction.",
+          "metric": "20%",
+          "metricLabel": "Reduction in operational costs"
+        },
+        {
+          "logo": "/trusted/unilever.png",
+          "brand": "Home Care Brand",
+          "description": "AI-powered demand sensing for product distribution.",
+          "metric": "45%",
+          "metricLabel": "Improvement in service levels"
+        }
+      ]
+    },
+    "trustedBy": [
+      "/trusted/iso27001.png",
+      "/trusted/iso9001.png",
+      "/trusted/iso20000.png",
+      "/trusted/gdpr.png"
+    ]
+  },
+  "education": {
+    "title": "Education Industries",
+    "hero": {
+      "breadcrumb": "INDUSTRIES > EDUCATION",
+      "title1": "",
+      "titleHighlight": "Education Industries",
+      "title2": "",
+      "description": "At Betopia Limited, we are transforming Our Education Industries by embedding intelligent, AI-driven solutions into modern learning ecosystems.",
+      "features": [
+        {
+          "icon": "Monitor",
+          "text": "Smarter Learning"
+        },
+        {
+          "icon": "LineChart",
+          "text": "Data-Driven Insights"
+        },
+        {
+          "icon": "Database",
+          "text": "Scalable Platforms"
+        },
+        {
+          "icon": "Users",
+          "text": "Future-Ready Education"
+        }
+      ],
+      "image": "/bankCoverImg/Education.png",
+      "titleHighlights": "Education Industries",
+      "heroTitle": "Built for Collaborative Learning Spaces"
+    },
+    "intro": {
+      "title1": "How Betopia is transforming",
+      "titleHighlight": "Education",
+      "title2": "through AI-driven solutions.",
+      "description": "We empower educational institutions, universities, EdTech platforms, and training organizations to deliver personalized learning, streamline operations, and improve outcomes through the power of AI, automation, and intelligent analytics.",
+      "tags": [
+        "AI & Automation",
+        "Predictive Analytics",
+        "Global Delivery",
+        "Enterprise Security",
+        "Data Intelligence"
+      ]
+    },
+    "approach": {
+      "title": "Designed for",
+      "titleHighlight": "Education",
+      "cards": [
+        {
+          "title": "Learning Driven by Tech Innovation",
+          "description": "We build intelligent learning platforms that personalize education for every learner. Our AI solutions analyze behavior, performance, and engagement to deliver adaptive content and real-time feedback that improves outcomes.",
+          "bullets": [
+            "Personalized learning paths",
+            "Smart content recommendations",
+            "Real-time performance tracking",
+            "AI-powered assessments"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Academic Advancement",
+          "description": "We empower educators and institutions with AI tools to enhance teaching effectiveness, simplify administration, and support data-driven decisions that elevate academic excellence.",
+          "bullets": [
+            "Automated grading & feedback",
+            "Curriculum & resource optimization",
+            "Faculty performance analytics",
+            "Student success prediction"
+          ],
+          "image": ""
+        }
+      ]
+    },
+    "valueChain": {
+      "title": "OUR CORE CAPABILITIES",
+      "steps": [],
+      "cards": [
+        {
+          "icon": "Crosshair",
+          "title": "AI-First Engineering",
+          "description": "Purpose-built AI pipelines that turn data into operational intelligence."
+        },
+        {
+          "icon": "BarChart",
+          "title": "Predictive Analytics",
+          "description": "Forecast student success and identify at-risk learners early."
+        },
+        {
+          "icon": "MonitorPlay",
+          "title": "Learning Experience Platforms",
+          "description": "Scalable platforms for engaging and interactive learning."
+        },
+        {
+          "icon": "Zap",
+          "title": "Rapid Deployment",
+          "description": "Agile sprints and pre-built accelerators cut deployment timelines by up to 60%."
+        },
+        {
+          "icon": "Globe",
+          "title": "Global Scale",
+          "description": "Delivering solutions across 4+ continents with 24/7 support and compliance."
+        },
+        {
+          "icon": "Shield",
+          "title": "Enterprise Security",
+          "description": "Built-in security, data privacy, and compliance with global standards."
+        }
+      ]
+    },
+    "impact": {
+      "subtitle": "OUR IMPACT",
+      "title1": "AI that drives",
+      "titleHighlight": "meaningful",
+      "title2": "learning outcomes",
+      "image": "/bankCoverImg/Education.png",
+      "items": [
+        {
+          "value": "250+",
+          "label": "Institutions Transformed"
+        },
+        {
+          "value": "40%",
+          "label": "Increase in Student Engagement"
+        },
+        {
+          "value": "35%",
+          "label": "Improvement in Learning Outcomes"
+        },
+        {
+          "value": "24/7",
+          "label": "Global Support & Monitoring"
+        }
+      ]
+    },
+    "cta": {
+      "theme": "light",
+      "subtitle": "LET'S BUILD TOGETHER",
+      "title1": "Ready to transform your",
+      "titleHighlight": "Education",
+      "title2": "operations?",
+      "description": "Partner with Betopia Limited to unlock intelligent, AI-driven solutions tailored specifically for the education sector.",
+      "benefitsTitle": "What you'll gain working with us",
+      "benefits": [
+        "AI-powered automation tailored to your workflows",
+        "Real-time data insights and predictive analytics",
+        "Enterprise-grade security and compliance",
+        "Global delivery with 24/7 expert support",
+        "Measurable improvement in outcomes & ROI"
+      ]
+    },
+    "solutions": {
+      "subtitle": "SOLUTIONS WE DELIVER",
+      "items": [
+        {
+          "icon": "LineChart",
+          "title": "Smart Learning Platforms",
+          "description": "Engaging, adaptive platforms that make learning personalized and effective."
+        },
+        {
+          "icon": "Users",
+          "title": "Student Success Analytics",
+          "description": "AI-driven insights to track progress, predict outcomes and reduce dropout rates."
+        },
+        {
+          "icon": "Monitor",
+          "title": "Virtual Classrooms & Collaboration",
+          "description": "Interactive tools that connect learners and educators seamlessly."
+        },
+        {
+          "icon": "Database",
+          "title": "Institutional Automation",
+          "description": "Streamline admissions, academics, exams and administration."
+        },
+        {
+          "icon": "BookOpen",
+          "title": "Content & Curriculum Management",
+          "description": "AI-assisted content creation, curation and curriculum alignment."
+        },
+        {
+          "icon": "Crosshair",
+          "title": "Research & Innovation Enablement",
+          "description": "Data and AI tools that enable better research, grants and collaboration."
+        }
+      ]
+    },
+    "trustedBy": [
+      "/trusted/iso27001.png",
+      "/trusted/iso9001.png",
+      "/trusted/iso20000.png",
+      "/trusted/gdpr.png"
+    ]
+  },
+  "energy": {
+    "title": "Energy, Resources & Utilities Industries",
+    "hero": {
+      "breadcrumb": "INDUSTRIES > ENERGY, RESOURCES & UTILITIES",
+      "title1": "",
+      "titleHighlight": "Energy, Resources & Utilities Industries",
+      "title2": "",
+      "description": "Betopia Limited is accelerating the transition toward a net-zero future by embedding AI into Our Energy, Resources & Utilities Industries. Our intelligent platforms analyze consumption patterns, forecast demand and enable cleaner energy distribution.",
+      "features": [
+        {
+          "icon": "Monitor",
+          "text": "Demand Forecasting"
+        },
+        {
+          "icon": "Zap",
+          "text": "Asset Performance"
+        },
+        {
+          "icon": "Network",
+          "text": "Grid Optimization"
+        },
+        {
+          "icon": "Leaf",
+          "text": "Carbon Management"
+        },
+        {
+          "icon": "LineChart",
+          "text": "Energy Trading"
+        }
+      ],
+      "image": "/bankCoverImg/Energy,-Resources,-and-Utilities.png",
+      "titleHighlights": "Energy, Resources & Utilities Industries",
+      "heroTitle": "Built for Sustainable Resource Management"
+    },
+    "intro": {
+      "title1": "How Betopia is transforming",
+      "titleHighlight": "Energy, Resources and Utilities",
+      "title2": "through AI-driven solutions.",
+      "description": "We help energy companies, utilities and resource providers unlock value through intelligent automation, advanced analytics and sustainable operations. Our solutions drive efficiency, improve reliability and support the global transition to a cleaner, smarter energy future.",
+      "tags": [
+        "AI & Automation",
+        "Predictive Analytics",
+        "Grid Intelligence",
+        "Asset Optimization",
+        "Carbon Management"
+      ]
+    },
+    "approach": {
+      "title": "Designed for",
+      "titleHighlight": "Energy, Resources and Utilities",
+      "cards": [
+        {
+          "title": "Net Zero Operations",
+          "description": "AI models to reduce emissions, optimize energy mix and accelerate your path to net-zero.",
+          "bullets": [
+            "Carbon footprint tracking",
+            "Renewable integration planning",
+            "Emissions forecasting",
+            "Sustainability reporting"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Intelligent Energy Management",
+          "description": "Real-time visibility and predictive intelligence to maximize asset performance and minimize downtime.",
+          "bullets": [
+            "Demand forecasting",
+            "Predictive maintenance",
+            "Grid & load optimization",
+            "Anomaly detection"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Future-Ready Infrastructure",
+          "description": "Modernize legacy systems and build resilient, adaptable infrastructure for changing energy landscapes.",
+          "bullets": [
+            "Smart grid enablement",
+            "Infrastructure monitoring",
+            "Digital twin modeling",
+            "Scalable cloud platforms"
+          ],
+          "image": ""
+        }
+      ]
+    },
+    "valueChain": {
+      "title": "POWERING THE ENTIRE ENERGY VALUE CHAIN",
+      "steps": [
+        "Resource Exploration",
+        "Generation",
+        "Transmission",
+        "Distribution",
+        "Consumption",
+        "Trading & Markets",
+        "Sustainability"
+      ],
+      "cards": [
+        {
+          "icon": "LineChart",
+          "title": "Predictive Analytics",
+          "description": "Anticipate demand and equipment failures."
+        },
+        {
+          "icon": "Zap",
+          "title": "Asset Performance",
+          "description": "Maximize uptime and extend asset life."
+        },
+        {
+          "icon": "Network",
+          "title": "Energy Trading AI",
+          "description": "Optimize bids, prices and market strategies."
+        },
+        {
+          "icon": "Activity",
+          "title": "Grid Optimization",
+          "description": "Balance loads and improve reliability."
+        },
+        {
+          "icon": "Leaf",
+          "title": "Carbon Management",
+          "description": "Track, reduce and report emissions."
+        },
+        {
+          "icon": "ShieldCheck",
+          "title": "Compliance & Safety",
+          "description": "Ensure regulatory adherence and workforce safety."
+        }
+      ]
+    },
+    "challenges": {
+      "title1": "The energy landscape is evolving.",
+      "title2": "We help you",
+      "titleHighlight": "stay ahead.",
+      "items": [
+        {
+          "icon": "TrendingUp",
+          "title": "Volatile Energy Markets",
+          "description": "Price fluctuations require smarter forecasting."
+        },
+        {
+          "icon": "Factory",
+          "title": "Aging Infrastructure",
+          "description": "Legacy systems face higher failure rates."
+        },
+        {
+          "icon": "DollarSign",
+          "title": "Rising Operational Costs",
+          "description": "Inefficient processes increase costs and downtime."
+        },
+        {
+          "icon": "Leaf",
+          "title": "Sustainability Pressure",
+          "description": "Regulations and ESG goals demand faster action."
+        },
+        {
+          "icon": "Database",
+          "title": "Data Complexity",
+          "description": "Siloed data limits visibility and insights."
+        },
+        {
+          "icon": "ShieldAlert",
+          "title": "Cyber & Physical Risks",
+          "description": "Threats to grids, assets and critical operations."
+        }
+      ],
+      "advantageTitle": "The Betopia Advantage",
+      "advantageItems": [
+        "AI-driven insights for faster, smarter decisions",
+        "Real-time monitoring and predictive intelligence",
+        "End-to-end automation for efficiency",
+        "Scalable, secure and future-ready platforms",
+        "Proven impact across energy ecosystems",
+        "Partner with experts in energy transformation"
+      ]
+    },
+    "cta": {
+      "theme": "light",
+      "subtitle": "LET'S BUILD TOGETHER",
+      "title1": "Ready to transform your",
+      "titleHighlight": "Energy, Resources and Utilities",
+      "title2": "operations?",
+      "description": "Partner with Betopia Limited to unlock the power of AI, drive sustainable growth and build a cleaner future.",
+      "benefitsTitle": "What you'll gain working with us",
+      "benefits": [
+        "AI-powered solutions tailored to your operations",
+        "Real-time visibility across assets and networks",
+        "Enterprise-grade security and compliance",
+        "Global delivery with 24/7 expert support"
+      ]
+    },
+    "trustedBy": [
+      "/trusted/exxon.png",
+      "/trusted/bp.png",
+      "/trusted/shell.png",
+      "/trusted/totalenergies.png",
+      "/trusted/enel.png",
+      "/trusted/siemens.png",
+      "/trusted/vedanta.png",
+      "/trusted/tatapower.png"
+    ]
+  },
+  "government": {
+    "title": "Government Industries",
+    "hero": {
+      "breadcrumb": "INDUSTRIES > GOVERNMENT",
+      "title1": "",
+      "titleHighlight": "Government Industries",
+      "title2": "",
+      "description": "Betopia Limited delivers advanced AI-driven solutions that empower Our Government Industries to improve transparency, efficiency and service delivery. Our innovative approach enables data-driven insights that strengthen decision-making and operational performance.",
+      "features": [
+        {
+          "icon": "MapPin",
+          "text": "Citizen Centricity"
+        },
+        {
+          "icon": "Cpu",
+          "text": "Operational Efficiency"
+        },
+        {
+          "icon": "ShieldCheck",
+          "text": "Transparency & Trust"
+        },
+        {
+          "icon": "BarChart",
+          "text": "Data-Driven Decisions"
+        },
+        {
+          "icon": "TrendingDown",
+          "text": "Cost Optimization"
+        },
+        {
+          "icon": "FileText",
+          "text": "Policy Impact"
+        }
+      ],
+      "image": "/bankCoverImg/Public-Services.png",
+      "titleHighlights": "Government Industries",
+      "heroTitle": "Built for Trusted Public Services"
+    },
+    "intro": {
+      "title1": "How Betopia is transforming",
+      "titleHighlight": "Government",
+      "title2": "through AI-driven solutions.",
+      "description": "We help government agencies modernize services, engage citizens and optimize operations with intelligent automation, predictive analytics and secure digital ecosystems.",
+      "tags": [
+        "AI & Automation",
+        "Predictive Analytics",
+        "Public Safety",
+        "Regulatory Intelligence",
+        "Data Security"
+      ]
+    },
+    "approach": {
+      "title": "Designed for",
+      "titleHighlight": "Government",
+      "cards": [
+        {
+          "title": "Citizen Services Transformation",
+          "description": "Enhance citizen experience with seamless, accessible and personalized digital services.",
+          "bullets": [
+            "Omnichannel service portals",
+            "AI-powered chatbots & assistants",
+            "Smart appointment scheduling",
+            "Grievance redressal automation"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Operational Excellence",
+          "description": "Automate processes and optimize resource utilization across departments.",
+          "bullets": [
+            "Workflow automation",
+            "Predictive demand forecasting",
+            "Asset & fleet management",
+            "Document intelligence"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Data-Driven Decision Making",
+          "description": "Turn data into actionable insights for smarter policies and real-time interventions.",
+          "bullets": [
+            "Advanced analytics & dashboards",
+            "Policy impact analysis",
+            "Real-time monitoring",
+            "Scenario planning"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Public Safety & Security",
+          "description": "Leverage AI and IoT to build safer communities and proactive response systems.",
+          "bullets": [
+            "Predictive policing",
+            "Surveillance analytics",
+            "Emergency response optimization",
+            "Threat detection"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Regulatory & Compliance",
+          "description": "Ensure compliance, reduce risk and improve accountability with intelligent systems.",
+          "bullets": [
+            "Regulatory monitoring",
+            "Risk & fraud detection",
+            "Audit trail & reporting",
+            "Policy compliance automation"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Digital Infrastructure & Security",
+          "description": "Build secure, scalable and resilient digital infrastructure for the future.",
+          "bullets": [
+            "Cloud modernization",
+            "Cybersecurity & privacy",
+            "Secure data management",
+            "Disaster recovery & resilience"
+          ],
+          "image": ""
+        }
+      ]
+    },
+    "valueChain": {
+      "title": "POWERING THE PUBLIC SERVICES VALUE CHAIN",
+      "steps": [
+        "Citizen Engagement",
+        "Service Request",
+        "Intelligent Processing",
+        "Departmental Action",
+        "Monitoring & Analytics",
+        "Outcome & Impact"
+      ],
+      "cards": []
+    },
+    "challenges": {
+      "title1": "Challenges are evolving.",
+      "title2": "We help you",
+      "titleHighlight": "stay ahead.",
+      "items": [
+        {
+          "icon": "Database",
+          "title": "Siloed Data & Legacy Systems",
+          "description": "Disconnected systems limit visibility and slow down decision-making."
+        },
+        {
+          "icon": "Users",
+          "title": "Resource Constraints",
+          "description": "Limited budgets and manpower make efficiency and automation critical."
+        },
+        {
+          "icon": "FileText",
+          "title": "Complex Compliance & Regulations",
+          "description": "Evolving regulations demand accurate reporting and strict compliance."
+        },
+        {
+          "icon": "ShieldAlert",
+          "title": "Cybersecurity Threats",
+          "description": "Growing digital ecosystems require stronger security and data protection."
+        },
+        {
+          "icon": "TrendingUp",
+          "title": "Rising Citizen Expectations",
+          "description": "Citizens expect faster, transparent and personalized services 24/7."
+        },
+        {
+          "icon": "Activity",
+          "title": "Data Overload",
+          "description": "Large volumes of data need intelligent analysis to drive meaningful outcomes."
+        }
+      ],
+      "advantageTitle": "The Betopia Advantage",
+      "advantageItems": [
+        "AI-driven insights for better governance",
+        "Real-time visibility across operations",
+        "Secure, scalable and interoperable platforms",
+        "Faster service delivery and cost optimization",
+        "Proven impact across government programs",
+        "Partner with experts in public sector transformation"
+      ]
+    },
+    "cta": {
+      "theme": "dark",
+      "subtitle": "LET'S BUILD TOGETHER",
+      "title1": "Ready to transform your",
+      "titleHighlight": "Government",
+      "title2": "operations?",
+      "description": "Partner with Betopia Limited to unlock intelligent, AI-driven solutions tailored specifically for the public sector.",
+      "benefitsTitle": "What you'll gain working with us",
+      "benefits": [
+        "AI-powered automation tailored to your workflows",
+        "Real-time data insights and predictive analytics",
+        "Enterprise-grade security and compliance",
+        "Global delivery with 24/7 expert support"
+      ]
+    },
+    "trustedBy": [
+      "/trusted/niti-aayog.png",
+      "/trusted/digital-india.png",
+      "/trusted/nic.png",
+      "/trusted/smart-city.png",
+      "/trusted/mygov.png",
+      "/trusted/ehealth.png"
+    ]
+  },
+  "healthcare": {
+    "title": "Healthcare Industries",
+    "hero": {
+      "breadcrumb": "INDUSTRIES > HEALTHCARE",
+      "title1": "",
+      "titleHighlight": "Healthcare Industries",
+      "title2": "",
+      "description": "At Betopia Limited, we empower Our Healthcare Industries with intelligent, AI-driven solutions that improve patient outcomes, optimize operations, and reduce costs—delivering proactive care for a healthier tomorrow.",
+      "features": [
+        {
+          "icon": "Activity",
+          "text": "Predictive Insights"
+        },
+        {
+          "icon": "Heart",
+          "text": "Personalized Care"
+        },
+        {
+          "icon": "Settings",
+          "text": "Operational Excellence"
+        },
+        {
+          "icon": "Shield",
+          "text": "Better Outcomes"
+        }
+      ],
+      "image": "/bankCoverImg/HealthCare.png",
+      "titleHighlights": "Our Healthcare Industries",
+      "heroTitle": "Built for Modern Patient Care"
+    },
+    "intro": {
+      "title1": "How Betopia is transforming",
+      "titleHighlight": "Healthcare",
+      "title2": "through AI-driven solutions.",
+      "description": "Betopia's AI-powered solutions help healthcare organizations anticipate patient needs, streamline clinical workflows, enhance decision-making, and improve health outcomes across the care continuum.",
+      "tags": [
+        "AI & Automation",
+        "Predictive Analytics",
+        "Medical Imaging",
+        "Enterprise Security",
+        "Data Intelligence"
+      ]
+    },
+    "approach": {
+      "title": "Designed for",
+      "titleHighlight": "Healthcare",
+      "cards": [
+        {
+          "title": "Smart Care",
+          "description": "Enhance patient care by predicting risks, personalizing treatment plans, and improving chronic disease management.",
+          "bullets": [
+            "Early risk detection",
+            "Personalized treatment pathways",
+            "Remote patient monitoring",
+            "Better patient outcomes"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Quality Services Using Technology",
+          "description": "Optimize hospital operations and clinical workflows with AI-driven automation, real-time insights, and intelligent resource management.",
+          "bullets": [
+            "Reduced wait times",
+            "Optimized staff scheduling",
+            "Automated documentation",
+            "Improved resource utilization"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Insights",
+          "description": "Leverage advanced analytics to uncover actionable insights, improve decision-making, and drive better population health outcomes.",
+          "bullets": [
+            "Population health analytics",
+            "Clinical & financial insights",
+            "Real-time dashboards",
+            "Data-driven decisions"
+          ],
+          "image": ""
+        }
+      ]
+    },
+    "valueChain": {
+      "title": "OUR CORE CAPABILITIES",
+      "steps": [],
+      "cards": [
+        {
+          "icon": "Cpu",
+          "title": "AI-First Engineering",
+          "description": "Build intelligent models that power clinical and operational excellence."
+        },
+        {
+          "icon": "LineChart",
+          "title": "Predictive Analytics",
+          "description": "Anticipate patient needs and reduce readmissions with predictive insights."
+        },
+        {
+          "icon": "Activity",
+          "title": "Medical Imaging AI",
+          "description": "Enhance accuracy and speed in diagnostics with AI-powered imaging."
+        },
+        {
+          "icon": "Settings",
+          "title": "Workflow Automation",
+          "description": "Automate repetitive tasks and streamline end-to-end clinical workflows."
+        },
+        {
+          "icon": "Network",
+          "title": "Interoperability",
+          "description": "Seamlessly integrate with EHR, HIS, LIS and other healthcare systems."
+        },
+        {
+          "icon": "ShieldCheck",
+          "title": "Security & Compliance",
+          "description": "Ensure HIPAA/GDPR compliance and protect sensitive health data."
+        }
+      ]
+    },
+    "challenges": {
+      "title1": "Healthcare is complex.",
+      "title2": "We help you solve what",
+      "titleHighlight": "matters most.",
+      "items": [
+        {
+          "icon": "TrendingUp",
+          "title": "Rising Operational Costs",
+          "description": "High administrative costs and inefficient workflows."
+        },
+        {
+          "icon": "Database",
+          "title": "Data Overload",
+          "description": "Siloed data makes it hard to derive actionable insights."
+        },
+        {
+          "icon": "Users",
+          "title": "Staff Shortages",
+          "description": "Burnout and shortages impact quality of care."
+        },
+        {
+          "icon": "Heart",
+          "title": "Patient Expectations",
+          "description": "Patients expect personalized, seamless experience."
+        },
+        {
+          "icon": "ShieldAlert",
+          "title": "Strict Regulations",
+          "description": "Complex compliance requirements slow down operations."
+        },
+        {
+          "icon": "Activity",
+          "title": "Clinical Variability",
+          "description": "Inconsistent care leads to unpredictable outcomes."
+        }
+      ],
+      "advantageTitle": "The Betopia Advantage",
+      "advantageItems": [
+        "AI that augments human expertise, not replaces it.",
+        "Solutions built for measurable impact and ROI.",
+        "End-to-end support from strategy to scale.",
+        "Trusted by healthcare leaders worldwide."
+      ]
+    },
+    "cta": {
+      "theme": "light",
+      "subtitle": "LET'S BUILD THE FUTURE OF CARE",
+      "title1": "Ready to transform your",
+      "titleHighlight": "Healthcare",
+      "title2": "operations?",
+      "description": "Partner with Betopia Limited to unlock the power of AI, improve outcomes, and deliver value-based care.",
+      "benefitsTitle": "What you'll gain working with us",
+      "benefits": [
+        "AI-powered solutions tailored to your workflows",
+        "Predictive insights that prevent and personalize care",
+        "Enterprise-grade security and compliance",
+        "Measurable improvement in outcomes & ROI"
+      ]
+    },
+    "trustedBy": [
+      "/trusted/mayo-clinic.png",
+      "/trusted/cleveland-clinic.png",
+      "/trusted/johns-hopkins.png",
+      "/trusted/hca-healthcare.png",
+      "/trusted/apollo.png",
+      "/trusted/nhs.png"
+    ]
+  },
+  "hospitality": {
+    "title": "Hospitality Industries",
+    "subtitle": "Elevating Guest Experiences with Intelligent Service",
+    "image": "/bankCoverImg/Travel-and-Logistics.png",
+    "description": "Artificial intelligence is significantly improving Our Hospitality Industries by personalizing guest experiences and optimizing service operations.",
+    "sections": [
+      {
+        "title": "Enhancing Guest Satisfaction",
+        "content": "Artificial intelligence is significantly improving the hospitality sector by personalizing guest experiences and optimizing service operations. AI-powered chatbots and virtual assistants provide instant support for booking, inquiries and customer service, ensuring 24/7 responsiveness. Through Betopia Limited’s intelligent solutions, hospitality businesses can enhance guest satisfaction, improve operational efficiency and build stronger brand loyalty in a highly competitive market."
+      },
+      {
+        "title": "Operational Excellence",
+        "content": "Predictive analytics helps hotels manage occupancy rates, pricing strategies and demand forecasting more effectively. Additionally, automation streamlines housekeeping, inventory management and maintenance scheduling. These innovations enable hospitality businesses to focus on delivering high-quality, memorable experiences for their guests while reducing overhead costs and improving bottom-line performance."
+      }
+    ],
+    "hero": {
+      "titleHighlight": "Hospitality Industries",
+      "description": "Artificial intelligence is significantly improving Our Hospitality Industries by personalizing guest experiences and optimizing service operations.",
+      "image": "/bankCoverImg/Travel-and-Logistics.png",
+      "titleHighlights": "Hospitality Industries",
+      "heroTitle": "Built for Seamless Guest Experiences"
+    }
+  },
+  "insurance": {
+    "title": "Insurance Industries",
+    "hero": {
+      "breadcrumb": "INDUSTRIES > INSURANCE",
+      "title1": "",
+      "titleHighlight": "Insurance Industries",
+      "title2": "",
+      "description": "At Betopia Limited, we help Our Insurance Industries harness the power of AI and data to anticipate risk, prevent fraud, enhance customer experience and drive new growth — in a rapidly changing world.",
+      "features": [
+        {
+          "icon": "Shield",
+          "text": "Smarter Underwriting"
+        },
+        {
+          "icon": "Search",
+          "text": "Fraud Detection"
+        },
+        {
+          "icon": "Activity",
+          "text": "Risk Prediction"
+        },
+        {
+          "icon": "FileText",
+          "text": "Claims Intelligence"
+        },
+        {
+          "icon": "User",
+          "text": "Customer Experience"
+        }
+      ],
+      "image": "/bankCoverImg/Insurance.png",
+      "titleHighlights": "Insurance Industries",
+      "heroTitle": "Built for Smart Risk Assessment"
+    },
+    "intro": {
+      "title1": "How Betopia is transforming",
+      "titleHighlight": "Insurance",
+      "title2": "through AI-driven solutions.",
+      "description": "Betopia Limited is revolutionizing the insurance industry with intelligent solutions that enhance risk assessment, automate operations and deliver personalized experiences across the policy lifecycle.",
+      "tags": [
+        "AI & Automation",
+        "Predictive Analytics",
+        "Fraud Detection",
+        "Claims Intelligence",
+        "Customer Analytics"
+      ]
+    },
+    "approach": {
+      "title": "Designed for",
+      "titleHighlight": "Insurance",
+      "cards": [
+        {
+          "title": "Smart Insurance",
+          "description": "Leverage AI and machine learning to assess risk accurately, price policies fairly and offer personalized products.",
+          "bullets": [
+            "AI-driven risk scoring & underwriting",
+            "Dynamic pricing & portfolio optimization",
+            "Customer segmentation & personalization",
+            "360° view of policyholder behavior"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Risk to Resolution",
+          "description": "From risk identification to claims settlement, our AI models streamline workflows, reduce fraud and improve operational efficiency.",
+          "bullets": [
+            "Real-time fraud detection",
+            "Automated claims triage & routing",
+            "Predictive loss reserving",
+            "Subrogation recovery optimization"
+          ],
+          "image": ""
+        }
+      ]
+    },
+    "valueChain": {
+      "title": "CORE CAPABILITIES",
+      "steps": [],
+      "cards": [
+        {
+          "icon": "Cpu",
+          "title": "AI-Powered Underwriting",
+          "description": "Make risk-faster and write data-backed underwriting decisions."
+        },
+        {
+          "icon": "LineChart",
+          "title": "Predictive Risk Modeling",
+          "description": "Forecast losses and mitigate risk with advanced analytics."
+        },
+        {
+          "icon": "ShieldAlert",
+          "title": "Fraud & Anomaly Detection",
+          "description": "Detect suspicious activities in real-time and prevent fraud."
+        },
+        {
+          "icon": "Settings",
+          "title": "Claims Automation",
+          "description": "Automate FNOL, triage, and claims processing for faster settlements."
+        },
+        {
+          "icon": "User",
+          "title": "Customer Intelligence",
+          "description": "360° customer insights to personalize offers and improve retention."
+        },
+        {
+          "icon": "ShieldCheck",
+          "title": "Regulatory Compliance",
+          "description": "Ensure compliance with built-in audit trails and governance frameworks."
+        }
+      ]
+    },
+    "challenges": {
+      "title1": "Insurance is evolving.",
+      "title2": "We help you",
+      "titleHighlight": "stay ahead.",
+      "items": [
+        {
+          "icon": "Database",
+          "title": "Complex Risk Assessment",
+          "description": "Legacy data and manual processes limit accuracy."
+        },
+        {
+          "icon": "Settings",
+          "title": "Operational Inefficiencies",
+          "description": "Siloed systems and manual tasks increase costs."
+        },
+        {
+          "icon": "User",
+          "title": "Customer Expectations",
+          "description": "Customers demand faster, seamless and personalized experiences."
+        },
+        {
+          "icon": "TrendingUp",
+          "title": "Regulatory Expectations",
+          "description": "Rising break-even claims impact profitability."
+        },
+        {
+          "icon": "FileText",
+          "title": "Regulatory Pressure",
+          "description": "Evolving regulations require strong compliance."
+        },
+        {
+          "icon": "Share2",
+          "title": "Data Fragmentation",
+          "description": "Siloed data makes insights hard to capture."
+        }
+      ],
+      "advantageTitle": "The Betopia Advantage",
+      "advantageItems": [
+        "AI models trained on industry-specific data",
+        "Proven frameworks for rapid ROI",
+        "End-to-end solution across the insurance value chain",
+        "Secure, scalable & compliant",
+        "Trusted by leading insurance brands worldwide"
+      ]
+    },
+    "cta": {
+      "theme": "dark",
+      "subtitle": "LET'S BUILD TOGETHER",
+      "title1": "Ready to transform your",
+      "titleHighlight": "Insurance",
+      "title2": "operations?",
+      "description": "Partner with Betopia Limited to unlock the power of AI, enhance decision-making and deliver value across the insurance value chain.",
+      "benefitsTitle": "What you'll gain working with us",
+      "benefits": [
+        "AI-powered decisioning across the insurance lifecycle",
+        "Real-time insights for risk, fraud & customer behavior",
+        "Enterprise-grade security and compliance",
+        "Scalable solutions with measurable ROI",
+        "Dedicated team with insurance domain expertise"
+      ]
+    },
+    "trustedBy": [
+      "/trusted/axa.png",
+      "/trusted/allianz.png",
+      "/trusted/icici.png",
+      "/trusted/tata-aig.png",
+      "/trusted/bajaj.png",
+      "/trusted/hdfc.png",
+      "/trusted/digit.png"
+    ]
+  },
+  "life-sciences": {
+    "title": "Life Sciences Industries",
+    "hero": {
+      "breadcrumb": "INDUSTRIES > LIFE SCIENCES",
+      "title1": "",
+      "titleHighlight": "Life Sciences Industries",
+      "title2": "",
+      "description": "Betopia Limited empowers Our Life Sciences Industries with AI-driven solutions that unlock the power of data, accelerate research and development, improve clinical outcomes and bring life-changing therapies to market faster.",
+      "features": [
+        {
+          "icon": "Search",
+          "text": "Faster Discovery"
+        },
+        {
+          "icon": "Activity",
+          "text": "Data-Driven Decisions"
+        },
+        {
+          "icon": "ShieldCheck",
+          "text": "Regulatory Excellence"
+        },
+        {
+          "icon": "User",
+          "text": "Patient-Centric Innovation"
+        }
+      ],
+      "image": "/bankCoverImg/Life-Sciences.png",
+      "titleHighlights": "Our Life Sciences Industries",
+      "heroTitle": "Built for Scientific Innovation"
+    },
+    "intro": {
+      "title1": "How Betopia is transforming",
+      "titleHighlight": "Life Sciences",
+      "title2": "through AI-driven solutions.",
+      "description": "Betopia Limited combines domain expertise with advanced AI, data engineering and cloud technologies to solve complex challenges across the life sciences value chain—driving innovation, ensuring compliance and improving patient outcomes.",
+      "tags": [
+        "AI & Automation",
+        "Predictive Analytics",
+        "Clinical Data Intelligence",
+        "Regulatory Intelligence",
+        "Data Security"
+      ]
+    },
+    "approach": {
+      "title": "Designed for",
+      "titleHighlight": "Life Sciences",
+      "cards": [
+        {
+          "title": "Intelligent Research & Discovery",
+          "description": "AI models analyze biological data to identify targets, predict molecular interactions and accelerate drug discovery.",
+          "bullets": [
+            "Target identification",
+            "Molecular docking & simulation",
+            "Omics data integration",
+            "Biomarker discovery"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Clinical Development Excellence",
+          "description": "Optimize trial design, patient recruitment and monitoring with real-time data and predictive insights.",
+          "bullets": [
+            "Patient identification",
+            "Protocol optimization",
+            "Site selection & monitoring",
+            "Trial risk prediction"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Regulatory & Compliance",
+          "description": "Ensure global regulatory compliance with AI-powered document processing, submission tracking and audit readiness.",
+          "bullets": [
+            "Regulatory document automation",
+            "Submission lifecycle management",
+            "Audit trail & compliance monitoring",
+            "Global regulatory intelligence"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Pharmacovigilance & Safety",
+          "description": "Detect safety signals early and monitor adverse events using advanced analytics and real-world data.",
+          "bullets": [
+            "Signal detection & triage",
+            "Case management",
+            "RWE & literature monitoring",
+            "Risk assessment"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Commercial & Market Intelligence",
+          "description": "Leverage market data, competitor insights and HCP analytics to drive better go-to-market strategies.",
+          "bullets": [
+            "Market forecasting",
+            "HCP segmentation",
+            "Brand performance tracking",
+            "Pricing & access analytics"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Data & Platform Modernization",
+          "description": "Build secure, scalable and interoperable data platforms that unify sources and power advanced analytics.",
+          "bullets": [
+            "Data lake & warehouse",
+            "Cloud & infrastructure modernization",
+            "Master data management",
+            "Data governance & security"
+          ],
+          "image": ""
+        }
+      ]
+    },
+    "valueChain": {
+      "title": "POWERING THE LIFE SCIENCES VALUE CHAIN",
+      "steps": [
+        "Target Discovery & Validation",
+        "Preclinical Development",
+        "Clinical Trials (Phases I - IV)",
+        "Regulatory Submission",
+        "Manufacturing & Supply Chain",
+        "Commercialization & Access",
+        "Patient Outcomes & Real World Data"
+      ],
+      "cards": []
+    },
+    "challenges": {
+      "title1": "Complex challenges.",
+      "title2": "solutions.",
+      "titleHighlight": "Smarter",
+      "items": [
+        {
+          "icon": "Share2",
+          "title": "Data Silos & Fragmentation",
+          "description": "Disconnected systems slow down research and decision-making."
+        },
+        {
+          "icon": "Clock",
+          "title": "Lengthy Development Cycles",
+          "description": "High costs and inefficiencies delay therapies from reaching patients."
+        },
+        {
+          "icon": "FileText",
+          "title": "Regulatory Complexity",
+          "description": "Evolving global regulations demand accuracy, traceability and speed."
+        },
+        {
+          "icon": "ShieldAlert",
+          "title": "Safety Risks & Signal Detection",
+          "description": "Late detection of safety issues can impact patients and brand trust."
+        },
+        {
+          "icon": "TrendingUp",
+          "title": "Market Access Pressure",
+          "description": "Pricing, reimbursement and access challenges impact revenue growth."
+        },
+        {
+          "icon": "ShieldCheck",
+          "title": "Data Security & Compliance",
+          "description": "Protecting sensitive data while ensuring global compliance."
+        }
+      ],
+      "advantageTitle": "The Betopia Advantage",
+      "advantageItems": [
+        "AI-powered insights for complex data",
+        "Real-time visibility across the value chain",
+        "Scalable, secure and compliant platforms",
+        "Faster innovation with measurable impact",
+        "Partner with experts who understand life sciences"
+      ]
+    },
+    "cta": {
+      "theme": "dark",
+      "subtitle": "LET'S BUILD THE FUTURE OF LIFE SCIENCES",
+      "title1": "Ready to transform your",
+      "titleHighlight": "Life Sciences",
+      "title2": "operations?",
+      "description": "Partner with Betopia Limited to unlock the power of AI, accelerate innovation and improve patient outcomes.",
+      "benefitsTitle": "What you'll gain working with us",
+      "benefits": [
+        "AI-powered automation tailored to your workflows",
+        "Real-time data insights and predictive analytics",
+        "Enterprise-grade security and compliance",
+        "Global delivery with 24/7 expert support"
+      ]
+    }
+  },
+  "manufacturing": {
+    "title": "Manufacturing Industries",
+    "hero": {
+      "breadcrumb": "INDUSTRIES > MANUFACTURING",
+      "title1": "",
+      "titleHighlight": "Manufacturing Industries",
+      "title2": "",
+      "description": "At Betopia Limited, we empower Our Manufacturing Industries to build smarter, more agile operations with AI-driven solutions that optimize every step of the production lifecycle.",
+      "features": [
+        {
+          "icon": "Zap",
+          "text": "Predictive Maintenance"
+        },
+        {
+          "icon": "Settings",
+          "text": "Production Optimization"
+        },
+        {
+          "icon": "CheckCircle",
+          "text": "Quality Intelligence"
+        },
+        {
+          "icon": "Copy",
+          "text": "Digital Twins"
+        },
+        {
+          "icon": "Eye",
+          "text": "Supply Chain Visibility"
+        },
+        {
+          "icon": "BarChart",
+          "text": "Smart Factory Analytics"
+        }
+      ],
+      "image": "/bankCoverImg/Manufacturing.png",
+      "titleHighlights": "Manufacturing Industries",
+      "heroTitle": "Built for Smart Factory Automation"
+    },
+    "intro": {
+      "title1": "How Betopia is transforming",
+      "titleHighlight": "Manufacturing",
+      "title2": "through AI-driven solutions.",
+      "description": "Betopia Limited drives operational excellence across the manufacturing value chain by combining AI, IoT and advanced analytics to improve output quality, reduce costs, and build resilient, future-ready factories.",
+      "tags": [
+        "AI & Automation",
+        "Predictive Analytics",
+        "Digital Twins",
+        "Quality Intelligence",
+        "Edge Analytics"
+      ]
+    },
+    "approach": {
+      "title": "Designed for",
+      "titleHighlight": "Manufacturing",
+      "cards": [
+        {
+          "title": "Intelligent Manufacturing",
+          "description": "We use AI and IoT to connect machines, humans and systems to optimize throughput, minimize downtime and ensure consistent product quality.",
+          "bullets": [
+            "Real-time machine monitoring",
+            "OEE improvement & downtime reduction",
+            "Process automation & control",
+            "Energy efficiency optimization"
+          ],
+          "image": ""
+        },
+        {
+          "title": "AI Optimization",
+          "description": "Our AI models continuously learn and adapt to find the best operating conditions for your equipment, processes and workforce.",
+          "bullets": [
+            "AI-driven process parameter tuning",
+            "Computer vision for defect detection",
+            "Predictive maintenance",
+            "Autonomous quality checks"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Insights",
+          "description": "Advanced analytics turn complex shop floor data into actionable insights that help you make better decisions and plan with confidence.",
+          "bullets": [
+            "Production performance analytics",
+            "Yield & scrap analysis",
+            "Demand forecasting",
+            "Root cause analysis"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Profound Impact",
+          "description": "Deliver measurable improvements across operations, quality, safety and sustainability—and accelerate your digital manufacturing journey.",
+          "bullets": [
+            "Lower operational costs",
+            "Higher productivity & throughput",
+            "Improved safety & compliance",
+            "Safer, smarter workplaces"
+          ],
+          "image": ""
+        }
+      ]
+    },
+    "valueChain": {
+      "title": "OUR CORE CAPABILITIES",
+      "steps": [],
+      "cards": [
+        {
+          "icon": "Zap",
+          "title": "Predictive Maintenance",
+          "description": "Anticipate equipment failures and schedule maintenance proactively to avoid unplanned downtime."
+        },
+        {
+          "icon": "Settings",
+          "title": "Production Optimization",
+          "description": "Balance resources, reduce waste and improve overall equipment effectiveness."
+        },
+        {
+          "icon": "CheckCircle",
+          "title": "Quality Intelligence",
+          "description": "Detect defects early, improve first-pass yield and ensure consistent quality."
+        },
+        {
+          "icon": "Copy",
+          "title": "Digital Twins",
+          "description": "Simulate and optimize processes in virtual environments before real-world execution."
+        },
+        {
+          "icon": "Eye",
+          "title": "Supply Chain Visibility",
+          "description": "Track materials, inventory and shipments in real-time for a resilient supply chain."
+        },
+        {
+          "icon": "Leaf",
+          "title": "Sustainability Monitoring",
+          "description": "Monitor energy, emissions and waste to build greener and efficient operations."
+        }
+      ]
+    },
+    "challenges": {
+      "title1": "Manufacturing is complex.",
+      "title2": "We help you",
+      "titleHighlight": "stay ahead.",
+      "items": [
+        {
+          "icon": "Clock",
+          "title": "Unplanned Downtime",
+          "description": "Equipment failures and delays shred production."
+        },
+        {
+          "icon": "Share2",
+          "title": "Supply Chain Disruptions",
+          "description": "Lack of visibility causes delays and bottlenecks."
+        },
+        {
+          "icon": "Activity",
+          "title": "Quality Variability",
+          "description": "Inconsistent quality leads to waste, rework and unhappy customers."
+        },
+        {
+          "icon": "Users",
+          "title": "Skilled Labor Shortage",
+          "description": "Finding and retaining skilled workers is getting harder."
+        },
+        {
+          "icon": "DollarSign",
+          "title": "High Operational Costs",
+          "description": "Inefficient processes and energy waste eat into margins."
+        },
+        {
+          "icon": "Database",
+          "title": "Data Silos",
+          "description": "Disconnected systems limit visibility and insights."
+        }
+      ],
+      "advantageTitle": "The Betopia Advantage",
+      "advantageItems": [
+        "AI-powered automation for smarter factories",
+        "Real-time visibility across machines and lines",
+        "Data-driven decisions that improve outcomes",
+        "Scalable solutions built for your environment",
+        "Faster ROI with measurable business impact",
+        "Partner with experts who understand manufacturing"
+      ]
+    },
+    "cta": {
+      "theme": "dark",
+      "subtitle": "LET'S BUILD THE FUTURE",
+      "title1": "Ready to transform your",
+      "titleHighlight": "Manufacturing",
+      "title2": "operations?",
+      "description": "Partner with Betopia Limited to unlock the power of AI, drive operational excellence and build the factory of tomorrow.",
+      "benefitsTitle": "What you'll gain working with us",
+      "benefits": [
+        "AI-driven automation tailored to your workflows",
+        "Real-time insights for production, quality & maintenance",
+        "Enterprise-grade security and compliance",
+        "Global delivery with 24/7 expert support"
+      ]
+    }
+  },
+  "retail": {
+    "title": "Retail Industries",
+    "hero": {
+      "breadcrumb": "INDUSTRIES > RETAIL",
+      "title1": "",
+      "titleHighlight": "Retail Industries",
+      "title2": "",
+      "description": "At Betopia Limited, we help Our Retail Industries harness the power of AI to understand every shopper, personalize every interaction, and drive measurable growth across every channel.",
+      "features": [
+        {
+          "icon": "User",
+          "text": "Personalized Experiences"
+        },
+        {
+          "icon": "Zap",
+          "text": "Smarter Operations"
+        },
+        {
+          "icon": "BarChart",
+          "text": "Data-Driven Decisions"
+        },
+        {
+          "icon": "Share2",
+          "text": "Omnichannel Excellence"
+        },
+        {
+          "icon": "Heart",
+          "text": "Higher Customer Loyalty"
+        }
+      ],
+      "image": "/bankCoverImg/Retail.png",
+      "titleHighlights": "Retail Industries",
+      "heroTitle": "Built for Seamless Omnichannel Commerce"
+    },
+    "intro": {
+      "title1": "How Betopia is transforming",
+      "titleHighlight": "Retail",
+      "title2": "through AI-driven solutions.",
+      "description": "Betopia Limited is driving a new era of transformation for retail businesses with AI-powered solutions that deliver personalized customer experiences, optimize operations and supply chains, and drive sustainable growth.",
+      "tags": [
+        "AI & Automation",
+        "Predictive Analytics",
+        "Unified Commerce",
+        "Demand Forecasting",
+        "Customer Intelligence"
+      ]
+    },
+    "approach": {
+      "title": "Designed for",
+      "titleHighlight": "Retail",
+      "cards": [
+        {
+          "title": "Insights into a Smarter Retail Ecosystem",
+          "description": "We combine AI and advanced analytics to unify customer, product and transaction data—giving retailers a single source of truth to understand behaviors, preferences and trends across every touchpoint.",
+          "bullets": [
+            "360° customer view",
+            "Real-time analytics dashboards",
+            "Behavior & sentiment analysis",
+            "Market & trend intelligence"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Retail Businesses Ready for Digital Innovation",
+          "description": "From AI-assisted merchandising to intelligent search and dynamic content, we help retailers deliver personalized experiences that boost engagement, conversion and customer lifetime value.",
+          "bullets": [
+            "Personalized recommendations",
+            "Intelligent product discovery",
+            "Dynamic pricing & promotions",
+            "AI-powered marketing automation"
+          ],
+          "image": ""
+        },
+        {
+          "title": "How AI is Transforming the Retail Sector",
+          "description": "AI is reshaping how retailers manage inventory, forecast demand, optimize assortments and streamline store operations—resulting in lower costs, fewer stockouts and happier customers.",
+          "bullets": [
+            "Demand forecasting",
+            "Inventory optimization",
+            "Assortment planning",
+            "Store operations optimization"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Driving the Future of Retail Excellence",
+          "description": "We help retailers build resilient, customer-centric businesses by integrating AI across the value chain—empowering teams to act faster, reduce waste and unlock new growth opportunities.",
+          "bullets": [
+            "Omnichannel orchestration",
+            "Customer lifetime value growth",
+            "Sustainable & efficient operations",
+            "Data-driven decision making"
+          ],
+          "image": ""
+        }
+      ]
+    },
+    "valueChain": {
+      "title": "OUR CORE CAPABILITIES",
+      "steps": [],
+      "cards": [
+        {
+          "icon": "User",
+          "title": "AI-Driven Personalization",
+          "description": "Deliver the right experience to the right customer."
+        },
+        {
+          "icon": "BarChart",
+          "title": "Predictive Demand & Forecasting",
+          "description": "Improve accuracy and reduce stockouts & overstock."
+        },
+        {
+          "icon": "Box",
+          "title": "Inventory & Supply Chain Optimization",
+          "description": "Minimize costs and ensure product availability."
+        },
+        {
+          "icon": "Search",
+          "title": "Customer Intelligence & Segmentation",
+          "description": "Understand customers deeply and act in real-time."
+        },
+        {
+          "icon": "Zap",
+          "title": "Dynamic Pricing & Promotions",
+          "description": "Maximize revenue with smart pricing strategies."
+        },
+        {
+          "icon": "ShieldCheck",
+          "title": "Fraud Detection & Risk Management",
+          "description": "Detect anomalies and prevent fraud before it happens."
+        }
+      ]
+    },
+    "challenges": {
+      "title1": "Retail is evolving fast.",
+      "title2": "We help you",
+      "titleHighlight": "stay ahead.",
+      "items": [
+        {
+          "icon": "User",
+          "title": "Rising Customer Expectations",
+          "description": "Shoppers expect personalized, seamless and instant experiences."
+        },
+        {
+          "icon": "Activity",
+          "title": "Demand Volatility",
+          "description": "Unpredictable demand impacts planning and profitability."
+        },
+        {
+          "icon": "Box",
+          "title": "Inventory Complexity",
+          "description": "Balancing stock levels across channels is increasingly difficult."
+        },
+        {
+          "icon": "Database",
+          "title": "Data Silos",
+          "description": "Disconnected data limits visibility and smarter decisions."
+        },
+        {
+          "icon": "DollarSign",
+          "title": "High Operational Costs",
+          "description": "Manual processes lead to inefficiencies and higher costs."
+        },
+        {
+          "icon": "Target",
+          "title": "Intense Competition",
+          "description": "Retailers need innovation and speed to differentiate."
+        }
+      ],
+      "advantageTitle": "The Betopia Advantage",
+      "advantageItems": [
+        "Industry-specific AI models",
+        "Proven frameworks for rapid ROI",
+        "Scalable, secure & future-ready solutions",
+        "End-to-end implementation & support",
+        "Trusted by leading retailers worldwide"
+      ]
+    },
+    "cta": {
+      "theme": "dark",
+      "subtitle": "LET'S BUILD THE FUTURE OF RETAIL",
+      "title1": "Ready to transform your",
+      "titleHighlight": "Retail",
+      "title2": "operations?",
+      "description": "Partner with Betopia Limited to unlock the power of AI, deliver exceptional experiences and drive sustainable growth.",
+      "benefitsTitle": "What you'll gain working with us",
+      "benefits": [
+        "AI-powered solutions tailored to your workflows",
+        "Real-time insights across every retail touchpoint",
+        "Enterprise-grade security and compliance",
+        "Measurable improvements in revenue & efficiency",
+        "Global delivery with 24/7 expert support"
+      ]
+    }
+  },
+  "telecommunications": {
+    "title": "High Tech Industries",
+    "hero": {
+      "breadcrumb": "INDUSTRIES > HIGH TECH",
+      "title1": "",
+      "titleHighlight": "High Tech Industries",
+      "title2": "",
+      "description": "At Betopia Limited, we empower Our High Tech Industries with intelligent, AI-driven solutions that enhance connectivity, automate workflows and deliver exceptional customer experiences.",
+      "features": [
+        {
+          "icon": "Cpu",
+          "text": "AI Powered Automation"
+        },
+        {
+          "icon": "Activity",
+          "text": "Real-time Data Intelligence"
+        },
+        {
+          "icon": "Network",
+          "text": "Seamless Connectivity"
+        },
+        {
+          "icon": "User",
+          "text": "Experience Personalization"
+        },
+        {
+          "icon": "ShieldCheck",
+          "text": "Secure & Compliant Operations"
+        }
+      ],
+      "image": "/bankCoverImg/High-Tech.png",
+      "titleHighlights": "High Tech Industries",
+      "heroTitle": "Built for Next-Gen Communication Networks"
+    },
+    "intro": {
+      "title1": "How Betopia is transforming",
+      "titleHighlight": "High Tech",
+      "title2": "through AI-driven solutions.",
+      "description": "Betopia Limited is reshaping the communications and technology landscape by delivering advanced AI-driven solutions that enhance connectivity, automate workflows and improve customer engagement across enterprises.",
+      "tags": [
+        "AI & Automation",
+        "Predictive Analytics",
+        "Cloud & DevOps",
+        "Cybersecurity",
+        "Data Intelligence"
+      ]
+    },
+    "approach": {
+      "title": "Designed for",
+      "titleHighlight": "High Tech",
+      "cards": [
+        {
+          "title": "Network Intelligence",
+          "description": "AI-driven monitoring and analytics to ensure high performance, reliability and scalability across complex networks.",
+          "bullets": [
+            "Real-time network monitoring",
+            "Traffic prediction & optimization",
+            "Fault detection & prevention",
+            "Capacity planning"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Customer Experience Excellence",
+          "description": "Create hyper-personalized experiences and proactive support with intelligent automation and insights.",
+          "bullets": [
+            "360° customer view",
+            "Intelligent chatbots & assistants",
+            "Churn prediction & retention",
+            "Omnichannel engagement"
+          ],
+          "image": ""
+        },
+        {
+          "title": "AI-Driven Operations",
+          "description": "Automate processes, reduce manual effort and improve operational efficiency with AI and ML.",
+          "bullets": [
+            "Workflow orchestration",
+            "Ticket classification & routing",
+            "Resource allocation",
+            "Process automation"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Data & Analytics",
+          "description": "Turn data into actionable intelligence to drive strategic decisions and uncover new revenue opportunities.",
+          "bullets": [
+            "Advanced data analytics",
+            "Real-time dashboards",
+            "Forecasting & trend analysis",
+            "Data monetization"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Cybersecurity & Compliance",
+          "description": "Protect digital assets and customer data with AI-powered threat detection and compliance management.",
+          "bullets": [
+            "Threat detection & response",
+            "Fraud prevention",
+            "Vulnerability management",
+            "Regulatory compliance"
+          ],
+          "image": ""
+        },
+        {
+          "title": "Cloud & IT Modernization",
+          "description": "Migrate, modernize and manage infrastructure for scalability, agility and cost efficiency.",
+          "bullets": [
+            "Cloud migration",
+            "DevOps automation",
+            "Infrastructure optimization",
+            "High availability & DR"
+          ],
+          "image": ""
+        }
+      ]
+    },
+    "valueChain": {
+      "title": "POWERING THE COMMUNICATIONS VALUE CHAIN",
+      "steps": [
+        {
+          "label": "Plan & Design",
+          "icon": "RiPencilRulerLine"
+        },
+        {
+          "label": "Build & Deploy",
+          "icon": "RiRocketLine"
+        },
+        {
+          "label": "Operate",
+          "icon": "RiSettings4Line"
+        },
+        {
+          "label": "Engage",
+          "icon": "RiUserHeartLine"
+        },
+        {
+          "label": "Analyze",
+          "icon": "RiBarChartLine"
+        },
+        {
+          "label": "Optimize",
+          "icon": "RiFlashlightLine"
+        }
+      ],
+      "cards": [
+        {
+          "icon": "Cpu",
+          "title": "AI & Machine Learning",
+          "description": "Predict, automate and optimize with intelligent models."
+        },
+        {
+          "icon": "LineChart",
+          "title": "Big Data Analytics",
+          "description": "Transform large data volumes into actionable business insights."
+        },
+        {
+          "icon": "Zap",
+          "title": "IoT Enablement",
+          "description": "Connect and manage billions of devices securely."
+        },
+        {
+          "icon": "Network",
+          "title": "5G & Edge Solutions",
+          "description": "Build ultra-low latency experiences with edge intelligence."
+        },
+        {
+          "icon": "Share2",
+          "title": "API & Integrations",
+          "description": "Seamless integration with legacy and modern systems."
+        },
+        {
+          "icon": "Cloud",
+          "title": "Scalable Architecture",
+          "description": "Cloud-native, scalable and future-ready platforms."
+        }
+      ]
+    },
+    "challenges": {
+      "title1": "The high-tech landscape is evolving.",
+      "title2": "We help you",
+      "titleHighlight": "stay ahead.",
+      "items": [
+        {
+          "icon": "Database",
+          "title": "Increasing Data Volumes",
+          "description": "Handling exponential data growth from multiple sources."
+        },
+        {
+          "icon": "Network",
+          "title": "Network Complexity",
+          "description": "Managing multi-vendor, multi-domain and hybrid environments."
+        },
+        {
+          "icon": "UserCheck",
+          "title": "High Customer Expectations",
+          "description": "Delivering instant, seamless and personalized experiences."
+        },
+        {
+          "icon": "ShieldAlert",
+          "title": "Security Threats",
+          "description": "Evolving cyber threats and sophisticated attacks."
+        },
+        {
+          "icon": "Settings",
+          "title": "Operational Inefficiency",
+          "description": "Manual processes leading to delays and high costs."
+        },
+        {
+          "icon": "TrendingDown",
+          "title": "Revenue Pressure",
+          "description": "Intense competition and need for new revenue streams."
+        }
+      ],
+      "advantageTitle": "The Betopia Advantage",
+      "advantageItems": [
+        "AI-driven insights for better decisions",
+        "Real-time monitoring & predictive intelligence",
+        "End-to-end automation for efficiency",
+        "Robust security & compliance framework",
+        "Scalable solutions that grow with your business",
+        "Partner with experts in high-tech transformation"
+      ]
+    },
+    "cta": {
+      "theme": "dark",
+      "subtitle": "LET'S BUILD CAPABILITIES TOGETHER",
+      "title1": "Ready to transform your",
+      "titleHighlight": "High Tech",
+      "title2": "operations?",
+      "description": "Partner with Betopia Limited to unlock intelligent, AI-driven solutions tailored specifically for the high-tech and communications sector.",
+      "benefitsTitle": "What you'll gain working with us",
+      "benefits": [
+        "AI-powered automation tailored to your workflows",
+        "Real-time data insights and predictive analytics",
+        "Enterprise-grade security and compliance",
+        "Global delivery with 24/7 expert support"
+      ]
+    }
+  },
+  "transportation": {
+    "title": "Transportation & Logistics Industries",
+    "hero": {
+      "breadcrumb": "INDUSTRIES > TRANSPORTATION & LOGISTICS",
+      "title1": "",
+      "titleHighlight": "Transportation & Logistics Industries",
+      "title2": "",
+      "description": "Betopia Limited is reshaping Our Transportation & Logistics Industries with advanced AI-driven solutions that enhance efficiency, visibility and customer experience across the global supply chain.",
+      "features": [
+        {
+          "icon": "CheckCircle",
+          "text": "14,280+ Projects Delivered"
+        },
+        {
+          "icon": "Globe",
+          "text": "13+ Countries"
+        },
+        {
+          "icon": "Users",
+          "text": "250+ Enterprise Clients"
+        },
+        {
+          "icon": "Layers",
+          "text": "20+ Industry Verticals"
+        },
+        {
+          "icon": "Headphones",
+          "text": "24/7 Global Support"
+        }
+      ],
+      "image": "/bankCoverImg/Travel-and-Logistics.png",
+      "titleHighlights": "Transportation & Logistics Industries",
+      "heroTitle": "Built for Optimized Global Logistics"
+    },
+    "intro": {
+      "title1": "How Betopia is transforming",
+      "titleHighlight": "Transportation and Logistics",
+      "title2": "through AI-driven solutions.",
+      "description": "Betopia Limited is reshaping the travel and logistics business sector with advanced AI-driven solutions that enhance efficiency, visibility and customer experience.",
+      "tags": [
+        "AI & Automation",
+        "Predictive Analytics",
+        "Global Delivery",
+        "Enterprise Security",
+        "Real-time Visibility"
+      ]
+    },
+    "approach": {
+      "title": "Designed for",
+      "titleHighlight": "Transportation and Logistics",
+      "cards": [
+        {
+          "title": "Operational Intelligence",
+          "description": "Leverage AI and advanced analytics to gain actionable insights across routes, fleets, warehouses, and deliveries for smarter decision-making and improved performance.",
+          "bullets": [],
+          "image": ""
+        },
+        {
+          "title": "Digital Transformation",
+          "description": "Modernize legacy systems with scalable digital platforms and automation to streamline operations, reduce manual work and enhance end-to-end customer experience.",
+          "bullets": [],
+          "image": ""
+        },
+        {
+          "title": "Connected Ecosystem",
+          "description": "Integrate people, processes, vehicles and systems into a unified digital ecosystem that ensures real-time collaboration, transparency and operational agility.",
+          "bullets": [],
+          "image": ""
+        },
+        {
+          "title": "Resilient & Secure Operations",
+          "description": "Build future-ready logistics operations with secure, compliant and highly-available systems that adapt to disruptions and ensure business continuity.",
+          "bullets": [],
+          "image": ""
+        }
+      ]
+    },
+    "valueChain": {
+      "title": "LOGISTICS VALUE CHAIN WE TRANSFORM",
+      "steps": [
+        "Planning & Scheduling",
+        "Fleet & Asset Management",
+        "Warehousing & Inventory",
+        "Transportation & Delivery",
+        "Monitoring & Analytics",
+        "Customer Experience & Feedback"
+      ],
+      "cards": [
+        {
+          "icon": "Navigation",
+          "title": "Route Optimization",
+          "description": "AI-powered routing for faster and cost-efficient deliveries."
+        },
+        {
+          "icon": "Truck",
+          "title": "Fleet Management",
+          "description": "Real-time tracking, performance monitoring & predictive maintenance."
+        },
+        {
+          "icon": "Home",
+          "title": "Warehouse Automation",
+          "description": "Smart inventory, picking, packing and fulfillment automation."
+        },
+        {
+          "icon": "Eye",
+          "title": "Supply Chain Visibility",
+          "description": "End-to-end visibility across shipments, locations and stakeholders."
+        },
+        {
+          "icon": "BarChart",
+          "title": "Demand Forecasting",
+          "description": "Predict demand and capacity to plan better and reduce disruptions."
+        },
+        {
+          "icon": "PieChart",
+          "title": "Logistics Analytics",
+          "description": "Advanced dashboards and analytics for performance and cost optimization."
+        }
+      ]
+    },
+    "cta": {
+      "theme": "dark",
+      "subtitle": "LET'S BUILD TOGETHER",
+      "title1": "Ready to transform your",
+      "titleHighlight": "Transportation and Logistics",
+      "title2": "operations?",
+      "description": "Partner with Betopia Limited to unlock intelligent, AI-driven solutions tailored specifically for the transportation and logistics sector.",
+      "benefitsTitle": "What you'll gain working with us",
+      "benefits": [
+        "AI-powered automation tailored to your workflows",
+        "Real-time data insights and predictive analytics",
+        "Enterprise-grade security and compliance",
+        "Global delivery with 24/7 expert support"
+      ]
+    },
+    "trustedBy": []
+  }
+}

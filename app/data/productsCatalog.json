@@ -1,0 +1,62 @@
+[
+  {
+    "icon": "Users",
+    "title": "Betopia HRM",
+    "desc": "A comprehensive Human Resource Management platform to automate, centralize and scale your workforce operations seamlessly.",
+    "href": "/products/human-resource-management",
+    "color": "from-blue-500 to-emerald-400",
+    "bgLight": "bg-blue-50",
+    "textColor": "text-blue-600",
+    "borderColor": "group-hover:border-blue-200"
+  },
+  {
+    "icon": "Grid",
+    "title": "Business Brain",
+    "desc": "Unify your people, processes and data across multi-branch and multi-location organizations with our enterprise-grade ERP system.",
+    "href": "/products/betopia-erp",
+    "color": "from-teal-500 to-cyan-500",
+    "bgLight": "bg-teal-50",
+    "textColor": "text-teal-600",
+    "borderColor": "group-hover:border-teal-200"
+  },
+  {
+    "icon": "ShieldCheck",
+    "title": "CountTrust",
+    "desc": "A highly secure, auditable and transparent online voting platform built for enterprises, organizations and sensitive elections.",
+    "href": "/products/count-trust",
+    "color": "from-indigo-500 to-blue-600",
+    "bgLight": "bg-indigo-50",
+    "textColor": "text-indigo-600",
+    "borderColor": "group-hover:border-indigo-200"
+  },
+  {
+    "icon": "Mail",
+    "title": "Betopia Emailing System",
+    "desc": "AI-Powered bulk email platform for enterprises to reach every employee instantly with smart internal communication and tracking.",
+    "href": "/products/betopia-emailing-system",
+    "color": "from-orange-500 to-amber-500",
+    "bgLight": "bg-orange-50",
+    "textColor": "text-orange-600",
+    "borderColor": "group-hover:border-orange-200"
+  },
+  {
+    "icon": "Bot",
+    "title": "Agentic AI",
+    "desc": "Intelligent autonomous agents designed to seamlessly integrate into your business, managing tasks and operations round the clock.",
+    "href": "/products/agentic-ai",
+    "color": "from-purple-500 to-indigo-500",
+    "bgLight": "bg-purple-50",
+    "textColor": "text-purple-600",
+    "borderColor": "group-hover:border-purple-200"
+  },
+  {
+    "icon": "Phone",
+    "title": "Talkora AI",
+    "desc": "Next-generation AI that intelligently answers, understands and manages all your business phone calls with zero human intervention.",
+    "href": "/products/talkora-ai",
+    "color": "from-fuchsia-500 to-pink-500",
+    "bgLight": "bg-fuchsia-50",
+    "textColor": "text-fuchsia-600",
+    "borderColor": "group-hover:border-fuchsia-200"
+  }
+]

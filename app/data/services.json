@@ -1,0 +1,754 @@
+{
+  "ai-analytics": {
+    "title": "AI & Analytics",
+    "tagline": "AI & Analytics Service",
+    "heroTitle": "Built for Intelligent Enterprise Insights",
+    "heroDesc": "In today’s fast-moving environment, data and AI have become essential for competitive advantage. But turning data into decisions—and decisions into real business impact—requires clear strategy, solid foundations and practical execution.",
+    "heroBg": "/servicesImg/coverImg/AI & Data analysis.png",
+    "overviewTitle": "AI & Data Analytics Driving Modern Enterprise Growth",
+    "overviewDesc": "At Betopia Limited, we empower organizations with advanced Artificial Intelligence and data analytics solutions to transform operations, accelerate decision-making and unlock measurable business growth. Our enterprise AI platforms build trusted data foundations, deliver predictive insights and enable intelligent automation helping businesses gain a competitive advantage in the digital era.",
+    "whatWeDo": [
+      {
+        "title": "Data Strategy & Governance",
+        "subtitle": "Trust the data. Control the outcome.",
+        "desc": "We help organizations define a clear data strategy aligned with business priorities, regulatory requirements and risk posture. This service establishes governance frameworks covering data ownership, quality, privacy, security and lifecycle management. By creating trusted and well-governed data assets, organizations gain confidence in analytics, AI models and decision-making at scale.",
+        "image": "/servicesImg/Data-Security-Solutions-for-Enterprises.jpg"
+      },
+      {
+        "title": "Data Engineering & Platforms",
+        "subtitle": "Strong pipelines. Scalable platforms.",
+        "desc": "We design and build modern data platforms that enable reliable data ingestion, processing and storage across hybrid and cloud environments. This includes data lakes, data warehouses, streaming pipelines and integration frameworks. The focus is on scalability, performance and reliability—ensuring data is always available, accurate and ready for analytics and AI workloads.",
+        "image": "/servicesImg/Cloud-Infrastructure-Solutions-for-Enterprises.jpg"
+      },
+      {
+        "title": "AI & Advanced Analytics",
+        "subtitle": "Predict faster. Act smarter.",
+        "desc": "We enable organizations to leverage AI and advanced analytics to uncover patterns, predict outcomes and automate insights. This service includes machine learning models, predictive analytics, intelligent automation and AI-driven decision support. By embedding intelligence into business processes, organizations move from reactive reporting to proactive and predictive operations.",
+        "image": "/servicesImg/AI-Security-Solutions-for-Enterprises.jpg"
+      },
+      {
+        "title": "BI & Decision Enablement",
+        "subtitle": "Insights that drive action.",
+        "desc": "We transform complex data into clear, actionable insights through modern business intelligence and analytics solutions. Interactive dashboards, reports and self-service analytics empower leaders and teams to make informed decisions in real time. The result is faster decision cycles, improved transparency and stronger business alignment.",
+        "image": "/servicesImg/Digital-Product-Engineering-Lifecycle.jpg"
+      }
+    ],
+    "whyBetopia": [
+      "Business-driven data and AI strategy",
+      "Governance and security by design",
+      "Scalable, modern data architectures",
+      "Practical AI use cases with measurable value",
+      "Enterprise and regulated-industry experience"
+    ],
+    "methodology": [
+      {
+        "step": "01",
+        "title": "Strategy & Assessment",
+        "desc": "Define data vision and readiness"
+      },
+      {
+        "step": "02",
+        "title": "Platform & Engineering",
+        "desc": "Build trusted data foundations"
+      },
+      {
+        "step": "03",
+        "title": "Analytics & AI Enablement",
+        "desc": "Deliver intelligence and prediction"
+      },
+      {
+        "step": "04",
+        "title": "Optimization & Adoption",
+        "desc": "Scale value across the business"
+      }
+    ],
+    "benefits": [
+      {
+        "title": "Access Specialized Expertise",
+        "desc": "Finding senior data scientists and AI engineers locally is challenging. We give you immediate access to niche talent, from deep learning specialists to data architects."
+      },
+      {
+        "title": "Accelerate Deployment",
+        "desc": "Our experienced AI teams have established frameworks and agile workflows in place. This drastically accelerates your model training and production deployment."
+      },
+      {
+        "title": "Maintain Compliance and Security",
+        "desc": "We ensure your AI models and data pipelines meet modern security standards and industry-specific regulatory requirements from day one."
+      },
+      {
+        "title": "Retain Full Oversight",
+        "desc": "Working with us doesn't mean losing control. You receive regular progress updates, model performance metrics and complete transparent oversight."
+      },
+      {
+        "title": "Achieve Flexible Scalability",
+        "desc": "AI initiatives rarely follow a linear path. With our team, you can instantly scale your engagement—from initial data processing to massive cloud infrastructure scaling as needed."
+      },
+      {
+        "title": "Focus on Business Impact",
+        "desc": "Outsourcing the heavy technical lifting allows your internal teams to focus on strategy and applying the AI-driven insights directly to operational growth."
+      }
+    ],
+    "bestPractices": [
+      {
+        "title": "Prioritize Data Quality",
+        "desc": "AI is only as good as the data feeding it. We conduct in-depth data audits, normalization and cleansing to build reliable, high-quality data pipelines before deploying any models."
+      },
+      {
+        "title": "Make Models Explainable",
+        "desc": "Black-box AI isn't adequate for enterprise compliance. We prioritize explainable AI (XAI), ensuring your teams and stakeholders clearly understand how algorithms arrive at their decisions."
+      },
+      {
+        "title": "Focus on Scalable Architecture",
+        "desc": "We follow modern ML guidelines, utilizing robust cloud architectures to build solutions that scale efficiently from prototype to thousands of concurrent live queries."
+      },
+      {
+        "title": "Iterative Testing & Validation",
+        "desc": "We employ rigorous, iterative testing cycles to evaluate model accuracy, minimize bias and prevent data drift over time, ensuring your AI retains its value."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How does outsourcing AI and Data Analytics work?",
+        "answer": "It involves partnering with a professional team of data scientists and AI engineers. We offer flexible engagement models, from augmenting your internal team with specialized talent to building an entire dedicated team to deliver an end-to-end AI platform autonomously."
+      },
+      {
+        "question": "Can I hire outsourced data scientists on a full-time basis?",
+        "answer": "Yes. In our staff augmentation and dedicated team models, you can hire AI specialists on a full-time basis who act as a seamless extension of your internal workforce."
+      },
+      {
+        "question": "What kind of AI solutions can you build?",
+        "answer": "We build predictive analytics models, NLP-powered conversational agents, computer vision systems, recommendation engines and enterprise-wide BI dashboards."
+      },
+      {
+        "question": "Will you do custom data engineering work?",
+        "answer": "Absolutely. A successful AI model requires a robust data foundation. We specialize in custom data engineering—designing scalable data lakes, warehouses and streaming pipelines tailored to your architecture."
+      },
+      {
+        "question": "How does the choice of technology affect AI development costs?",
+        "answer": "Leveraging managed cloud services (like AWS SageMaker or Azure ML) versus on-premise infrastructure heavily impacts timelines and costs. Utilizing pre-trained foundation models where appropriate can also speed up time-to-market compared to training from scratch."
+      }
+    ],
+    "titleHighlights": "AI & Analytics"
+  },
+  "cloud-modernization": {
+    "title": "Cloud Modernization",
+    "tagline": "Cloud Modernization Service",
+    "heroTitle": "Built for Agile & Resilient Operations",
+    "heroDesc": "Move away from legacy constraints and unlock the true potential of the cloud. We design, migrate and modernize enterprise software environments for maximum flexibility, security and operational efficiency.",
+    "heroBg": "/servicesImg/coverImg/cloud modernization.png",
+    "overviewTitle": "Empower Your Infrastructure. Scale Without Limits.",
+    "overviewDesc": "Betopia Limited enables organizations to move beyond rigid on-premise systems and outdated monolithic applications. We deliver advanced DevOps automation, scalable microservices architecture and hybrid cloud solutions that enhance performance, flexibility and reliability. Our cloud-native approach helps businesses innovate faster, reduce operational complexity and future-proof their infrastructure in a rapidly evolving digital landscape.",
+    "whatWeDo": [
+      {
+        "title": "Cloud Strategy & Migration",
+        "subtitle": "Move with confidence.",
+        "desc": "We assess your current environment, define the optimal cloud roadmap and execute secure migrations. Whether it's lift-and-shift, re-platforming, or complete architectural overhauls, we ensure minimal disruption and maximum performance.",
+        "image": "/servicesImg/cloud-migration-strategy-one.avif"
+      },
+      {
+        "title": "Cloud-Native Architecture",
+        "subtitle": "Built for scale.",
+        "desc": "Unlock the true potential of the cloud. We design, modernize and build resilient applications using microservices, serverless paradigms and containerization (Docker, Kubernetes) to ensure your enterprise can scale seamlessly.",
+        "image": "/servicesImg/Cloud-Native-Images-(1).jpg"
+      },
+      {
+        "title": "DevOps & Automation",
+        "subtitle": "Deploy faster. Fail less.",
+        "desc": "We bridge the gap between development and operations. By implementing CI/CD pipelines, Infrastructure as Code (IaC) and automated testing, we help your internal teams release software faster, more frequently and with absolute reliability.",
+        "image": "/servicesImg/devopsAutomation.jpg"
+      },
+      {
+        "title": "FinOps & Cost Optimization",
+        "subtitle": "Maximize your cloud ROI.",
+        "desc": "Cloud spend can easily spiral. Our FinOps experts analyze your architecture, right-size compute resources, identify waste and implement automated monitoring so you only pay for exactly the performance you need.",
+        "image": "/servicesImg/fin-ops-article-image-02.png"
+      }
+    ],
+    "whyBetopia": [
+      "Vendor-agnostic cloud advisory (AWS, Azure, GCP)",
+      "Zero-trust security models integrated globally",
+      "Automated IaC and DevOps delivery pipelines",
+      "Continuous FinOps optimization preventing waste",
+      "Extensive legacy enterprise migration experience"
+    ],
+    "methodology": [
+      {
+        "step": "01",
+        "title": "Audit & Discovery",
+        "desc": "Deep analysis of existing infrastructure and data."
+      },
+      {
+        "step": "02",
+        "title": "Architecture & Map",
+        "desc": "Design resilient multicloud or hybrid roadmaps."
+      },
+      {
+        "step": "03",
+        "title": "Migration & Build",
+        "desc": "Move workloads and modernize monolithic apps."
+      },
+      {
+        "step": "04",
+        "title": "Optimization & Ops",
+        "desc": "Ensure ongoing security, monitoring and FinOps."
+      }
+    ],
+    "benefits": [
+      {
+        "title": "Uncompromising Scalability",
+        "desc": "Modern cloud environments allow your infrastructure to dynamically align with user demand, automatically provisioning resources precisely when needed and scaling down during lulls."
+      },
+      {
+        "title": "Accelerated Time-to-Market",
+        "desc": "Leveraging cloud-native tools, microservices and aggressive DevOps automation dramatically reduces the time it takes to develop, launch and update your enterprise products."
+      },
+      {
+        "title": "Enterprise-Grade Security",
+        "desc": "We construct impenetrable zero-trust networks matching stringent compliance demands. Data is securely woven into cloud perimeters leveraging highly monitored modern standards."
+      },
+      {
+        "title": "Maximized Cost Efficiency",
+        "desc": "Transitioning from rigid CapEx hardware expenses to a highly optimized OpEx model. Our FinOps focus ensures resources are rigorously aligned to your actual software requirements."
+      },
+      {
+        "title": "Guaranteed Reliability",
+        "desc": "Monolithic downtimes disappear. By utilizing cloud-native deployment patterns across multiple availability zones, your critical ecosystem stays online, resilient to system failures."
+      },
+      {
+        "title": "Access Deep Expertise",
+        "desc": "Avoid the prolonged talent acquisition gaps. Working with our architects grants immediate access to experts deeply versed in intricate AWS, Azure and Google Cloud environments."
+      }
+    ],
+    "bestPractices": [
+      {
+        "title": "Implement Infrastructure as Code",
+        "desc": "We enforce IaC principles utilizing Terraform and Ansible, ensuring all your environments are version-controlled, repeatable, reliable and fundamentally immune to configuration drift."
+      },
+      {
+        "title": "Adopt Zero-Trust Security",
+        "desc": "Cloud perimeters are fluid. We ensure stringent Identity and Access Management (IAM), least-privilege policies and encryption to secure data moving anywhere globally."
+      },
+      {
+        "title": "Decouple Architecture",
+        "desc": "We systematically replace brittle monolith architectures with nimble, decoupled microservices or serverless functions so one system failure does not cripple the entire application layer."
+      },
+      {
+        "title": "Continuous Observability",
+        "desc": "Monitoring must exist at every tier. We deploy comprehensive observability tools that deliver proactive alerts and deep telemetry so we can act on anomalies before your users ever notice."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What exactly is Cloud Modernization?",
+        "answer": "Cloud modernization is the comprehensive process of migrating legacy, on-premise hardware applications or outdated cloud platforms to modern, scalable public or hybrid cloud architectures (like AWS, Azure, or GCP) to significantly improve speed, security and scalability."
+      },
+      {
+        "question": "Will modernization disrupt our existing operations?",
+        "answer": "No. We prioritize strategies like parallel deployments, strangler-fig patterns and extensive staging tests alongside rigorous cutover planning to ensure your business operations experience essentially zero downtime during the exact migration window."
+      },
+      {
+        "question": "Is our data truly secure in the public cloud?",
+        "answer": "Absolutely. When architected properly, public clouds provide stronger security layers and compliance certifications than most on-premises data centers. We implement Zero Trust architectures, deep encryption protocols and continuous vulnerability scanning to guarantee absolute protection."
+      },
+      {
+        "question": "Which cloud providers do you specialize in?",
+        "answer": "We are platform-agnostic and possess deep architectural expertise in building resilient solutions across Amazon Web Services (AWS), Microsoft Azure and Google Cloud Platform (GCP). We also support multi-cloud and complex hybrid ecosystems."
+      },
+      {
+        "question": "How do you control runaway cloud costs after migration?",
+        "answer": "We implement dedicated FinOps and cost-optimization governance from day one. By rightsizing instances, managing auto-scaling meticulously, utilizing spot/reserved computing and preventing orphaned resources, your ROI is aggressively guarded."
+      }
+    ],
+    "titleHighlights": "Cloud Modernization"
+  },
+  "cybersecurity": {
+    "title": "Cybersecurity",
+    "tagline": "Cybersecurity Service",
+    "heroTitle": "Built for Comprehensive Threat Defense",
+    "heroDesc": "We build impenetrable defenses, integrate proactive threat intelligence, and deliver 24/7 security monitoring to guard your proprietary data, preserve brand trust, and shield operations globally.",
+    "heroBg": "/servicesImg/coverImg/Cyber security services.png",
+    "overviewTitle": "Securing the Digital Boundaries of Your Enterprise",
+    "overviewDesc": "In a world of evolving digital threats, standard defenses are no longer enough. We build custom Zero-Trust perimeters, audit existing vulnerabilities, and run aggressive penetration tests to guarantee total data containment and compliance.",
+    "whatWeDo": [
+      {
+        "title": "Cyber Risk & Governance Services",
+        "subtitle": "Know your risk. Control your exposure.",
+        "desc": "We help organizations identify, assess and manage cyber risk in alignment with business objectives and regulatory requirements. This service establishes security governance frameworks, policies and risk management practices that provide visibility, accountability and control. The result is a structured and defensible security posture that supports informed decision-making.",
+        "image": "/servicesImg/Infrastructure-Security.jpg"
+      },
+      {
+        "title": "Threat Detection, Response & Resilience",
+        "subtitle": "Detect early. Respond fast. Recover stronger.",
+        "desc": "We design and implement capabilities to detect threats, respond to incidents and build cyber resilience. This includes security monitoring, threat intelligence, incident response and recovery planning. By improving visibility and response readiness, organizations minimize impact, reduce downtime and maintain operational continuity.",
+        "image": "/servicesImg/Cyber-Security-Operations-&-SOC-Solutions.jpg"
+      },
+      {
+        "title": "Identity, Endpoint & Infrastructure Security",
+        "subtitle": "Secure access. Protect every layer.",
+        "desc": "We secure identities, endpoints and core infrastructure to reduce attack surfaces and prevent unauthorized access. This service focuses on identity-centric security, endpoint protection and infrastructure hardening across hybrid environments. Strong access control and continuous protection ensure users, devices and systems remain secure.",
+        "image": "/servicesImg/Identity-Security-Solutions-for-Enterprises.jpg"
+      },
+      {
+        "title": "Data & Application Security Services",
+        "subtitle": "Protect what matters most.",
+        "desc": "We help organizations safeguard sensitive data and critical applications throughout their lifecycle. This includes data protection, application security, encryption and secure access controls. By embedding security into data and application layers, organizations reduce breach risk and maintain trust.",
+        "image": "/servicesImg/Application-Security-Solutions-for-Enterprises.jpg"
+      },
+      {
+        "title": "Managed Security Services",
+        "subtitle": "Security that never sleeps.",
+        "desc": "We provide continuous security monitoring, management and support to strengthen protection and reduce operational burden. Managed Security Services deliver round-the-clock visibility, threat detection and incident support. Organizations gain consistent, expert-led security operations without the complexity of building and managing everything in-house.",
+        "image": "/servicesImg/mssp-slide3.png"
+      }
+    ],
+    "whyBetopia": [
+      "Business-aligned cybersecurity strategy",
+      "Governance, risk and compliance by design",
+      "Identity-centric and zero-trust approach",
+      "Scalable security architectures",
+      "Enterprise and regulated-industry experience"
+    ],
+    "methodology": [
+      {
+        "step": "01",
+        "title": "Risk & Readiness Assessment",
+        "desc": "Understand exposure and priorities."
+      },
+      {
+        "step": "02",
+        "title": "Security Architecture & Implementation",
+        "desc": "Build strong defenses."
+      },
+      {
+        "step": "03",
+        "title": "Detection & Response Enablement",
+        "desc": "Improve visibility and resilience."
+      },
+      {
+        "step": "04",
+        "title": "Managed Security & Continuous Improvement",
+        "desc": "Sustain protection over time."
+      }
+    ],
+    "benefits": [
+      {
+        "title": "Protect Critical Assets",
+        "desc": "Safeguard your Intellectual Property (IP) and Personally Identifiable Information (PII) from unauthorized access and sophisticated data exfiltration attempts."
+      },
+      {
+        "title": "Ensure Regulatory Compliance",
+        "desc": "Stay effortlessly aligned with strict data governance mandates including GDPR, HIPAA, SOC 2 and localized industry data protection regulations."
+      },
+      {
+        "title": "Maintain Business Continuity",
+        "desc": "Minimize potential downtime and prevent a complete operational halt during cyber attacks through rigorous incident response plans and resilient architectures."
+      },
+      {
+        "title": "Preserve Brand Trust",
+        "desc": "Protect your hard-earned reputation by keeping customer data unconditionally safe from public breaches, preserving your market position."
+      },
+      {
+        "title": "Optimize Security Spend",
+        "desc": "Right-size your security infrastructure to avoid unnecessary overhead while prioritizing investments on the most critical threat vectors."
+      },
+      {
+        "title": "Proactive Threat Hunting",
+        "desc": "Stop waiting for alerts. Our external SOC teams actively seek out and neutralize dormant threats hiding deep within your network."
+      }
+    ],
+    "bestPractices": [
+      {
+        "title": "Implement Zero-Trust Architectures",
+        "desc": "Never trust, always verify. We apply strict, continuous identity verification and least-privilege access controls across your entire network, regardless of the user's location."
+      },
+      {
+        "title": "Multi-Factor Authentication (MFA) Everywhere",
+        "desc": "Compromised credentials are the leading cause of breaches. We universally enforce MFA alongside hardened single sign-on (SSO) ecosystems."
+      },
+      {
+        "title": "Continuous Vulnerability Scanning",
+        "desc": "Security is a continuous state. We run automated penetration tests, code scans and cloud configuration audits to catch vulnerabilities before exploitation."
+      },
+      {
+        "title": "Shift-Left Application Security",
+        "desc": "For your internal development, we integrate static and dynamic application security testing directly into your CI/CD pipelines to catch flaws pre-production."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Is my current infrastructure secure enough?",
+        "answer": "A comprehensive security audit is the only definitive way to know. We deploy advanced external and internal penetration testing to map your exact vulnerability footprint."
+      },
+      {
+        "question": "What exactly is Zero Trust?",
+        "answer": "Zero Trust is a modern security model based on strict identity verification for every person and device attempting to access resources, regardless of whether they are sitting within the network perimeter or accessing remotely."
+      },
+      {
+        "question": "How quickly do you respond to a cyber breach?",
+        "answer": "Our Managed Security Operations Center (SOC) operates 24/7/365. Incidents are detected in real-time, triaged structurally and rapidly contained according to bespoke incident response playbooks."
+      },
+      {
+        "question": "Do you assist with compliance framework implementation?",
+        "answer": "Yes. We regularly guide enterprises through the rigorous architectural and operational changes required to achieve ISO 27001, SOC 2 Type II, HIPAA and PCI-DSS compliance."
+      },
+      {
+        "question": "Can you manage our security completely?",
+        "answer": "Yes. Our Managed Security Services (MSSP) offering entirely unburdens your IT teams. We handle the 24/7 monitoring, threat intelligence, firewall management and endpoint detection autonomously."
+      }
+    ],
+    "titleHighlights": "Cybersecurity"
+  },
+  "managed-services": {
+    "title": "Managed Services",
+    "tagline": "Managed IT Services",
+    "heroTitle": "Built for Frictionless IT Management",
+    "heroDesc": "Modern IT operations must be reliable, secure and continuously improving. Betopia Limited delivers Managed Services that ensure day-to-day operations run smoothly while enabling your organization to focus on core priorities.",
+    "heroBg": "/servicesImg/coverImg/managed services.png",
+    "overviewTitle": "Operational Excellence. Zero Distractions.",
+    "overviewDesc": "Our services combine rigorous automation, best-in-class SLA enforcement and proactive infrastructure management across on-premises, cloud and hybrid environments. We provide the technical bedrock required for modern enterprise resilience.",
+    "whatWeDo": [
+      {
+        "title": "Fully Managed IT Services",
+        "subtitle": "We run IT. You run the business.",
+        "desc": "We take full responsibility for managing and operating your IT environment end to end. This includes infrastructure, applications, security, monitoring and support under defined SLAs. With proactive management and continuous optimization, organizations gain stability, predictability and reduced operational risk without maintaining large in-house teams.",
+        "image": "/servicesImg/Infrastructure-Management-Solutions-for-Enterprises.jpg"
+      },
+      {
+        "title": "Co-Managed IT Services",
+        "subtitle": "Your team. Our expertise. One outcome.",
+        "desc": "We work alongside internal IT teams to strengthen operations, close skill gaps and accelerate improvements. This collaborative model provides access to specialized expertise, tools and best practices while retaining internal control. Co-managed services enhance efficiency and resilience without disrupting existing structures.",
+        "image": "/servicesImg/Co-managed-IT-services-og_cover_1.jpg"
+      },
+      {
+        "title": "Project-Managed Transition Services",
+        "subtitle": "Deliver the project. Sustain the value.",
+        "desc": "We transition successfully delivered IT projects into stable, managed operational services. This ensures knowledge transfer, operational readiness and ongoing support from day one. Organizations benefit from continuity, reduced post-project risk and predictable service performance after go-live.",
+        "image": "/servicesImg/service_transition_process_framework_Slide01.jpg"
+      },
+      {
+        "title": "Build-Operate-Transfer (BOT) Services",
+        "subtitle": "Scale fast. Take control when ready.",
+        "desc": "We design, build and operate IT teams, platforms, or services on your behalf, then transfer ownership when the operation matures. This model reduces upfront risk, accelerates capability building and ensures a smooth transition to internal ownership. BOT enables rapid scaling with long-term sustainability.",
+        "image": "/servicesImg/What-is-the-Build-Operate-Transfer-Model.webp"
+      }
+    ],
+    "whyBetopia": [
+      "Proactive, SLA-driven service delivery",
+      "Automation and best-practice operations",
+      "Flexible engagement models",
+      "Security and compliance embedded",
+      "Enterprise and regulated-industry experience"
+    ],
+    "methodology": [
+      {
+        "step": "01",
+        "title": "Assessment & Onboarding",
+        "desc": "Understand environment and objectives."
+      },
+      {
+        "step": "02",
+        "title": "Service Transition & Stabilization",
+        "desc": "Ensure smooth handover."
+      },
+      {
+        "step": "03",
+        "title": "Managed Operations",
+        "desc": "Deliver reliable, proactive services."
+      },
+      {
+        "step": "04",
+        "title": "Optimization & Continuous Improvement",
+        "desc": "Drive efficiency and value."
+      }
+    ],
+    "benefits": [
+      {
+        "title": "Predictable Operational Costs",
+        "desc": "Transition from volatile, unpredictable IT expenses into a structured, easily forecasted monthly operational expenditure (OpEx) model."
+      },
+      {
+        "title": "Focus on Strategic Growth",
+        "desc": "Eliminate the distraction of daily system maintenance and firefighting so your leadership and internal teams can focus entirely on high-impact business strategy."
+      },
+      {
+        "title": "24/7/365 Proactive Monitoring",
+        "desc": "Systems rarely fail during business hours. We provide continuous round-the-clock monitoring to intercept anomalies and prevent downtime before it occurs."
+      },
+      {
+        "title": "Mitigate Tech Attrition",
+        "desc": "Never worry about critical engineers leaving your firm. By relying on our broad talent pool, organizational knowledge and capability remain unconditionally stable."
+      },
+      {
+        "title": "Instant Access to Expertise",
+        "desc": "Technology shifts rapidly. Leveraging managed services instantly connects your infrastructure to elite engineers specializing in the newest cloud and security standards."
+      },
+      {
+        "title": "Guaranteed Response SLAs",
+        "desc": "When incidents do happen, you aren't waiting in line. We operate under stringent, contractually bound Service Level Agreements (SLAs) for rapid remediation."
+      }
+    ],
+    "bestPractices": [
+      {
+        "title": "ITIL-Aligned Service Management",
+        "desc": "We utilize rigorous IT Infrastructure Library (ITIL) frameworks to comprehensively govern incident, problem, change and release management."
+      },
+      {
+        "title": "Automation-First Approach",
+        "desc": "Human error is reduced by scripting repeatable tasks. We heavily automate server patching, backup verifications, deployment routines and Tier-1 ticket resolutions."
+      },
+      {
+        "title": "Comprehensive Documentation",
+        "desc": "Institutional knowledge shouldn't exist in silos. We build exhaustive runbooks, standard operating procedures and dynamic architecture diagrams for total transparency."
+      },
+      {
+        "title": "Continuous Optimization",
+        "desc": "Operations aren't static. We conduct monthly Business Reviews to analyze ticket trends, right-size cloud infrastructure and identify proactive systemic improvements."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What exactly do your Managed IT Services cover?",
+        "answer": "Our Managed IT Services are highly customizable, covering end-to-end cloud infrastructure management, server administration, continuous security monitoring, patch management, Tier 1-3 helpdesk support and vendor relationship management."
+      },
+      {
+        "question": "How is 'Co-Managed' different from 'Fully Managed'?",
+        "answer": "A Fully Managed model implies we take complete ownership of your entire IT environment. In a Co-Managed model, your internal IT team remains in charge and we plug in specifically to fill critical skill gaps, handle after-hours monitoring, or execute complex architecture escalations."
+      },
+      {
+        "question": "How quickly can you onboard our existing infrastructure?",
+        "answer": "A standard onboarding and stabilization phase typically requires 30 to 60 days, depending on environmental complexity. During this period we conduct deep audits, document runbooks and configure our automated deployment monitors."
+      },
+      {
+        "question": "Do you support hybrid and multi-cloud environments?",
+        "answer": "Yes. Our engineering teams are platform-agnostic and hold deep expertise managing sophisticated deployments across on-premises data centers, AWS, Microsoft Azure and GCP simultaneously."
+      },
+      {
+        "question": "How do you handle rapid escalation emergencies?",
+        "answer": "Escalations are handled through our strict SLA matrix. Critical 'Sev-1' completely down scenarios trigger immediate intervention from Senior Site Reliability Engineers (SREs) who work continuously until operations are restored."
+      }
+    ],
+    "titleHighlights": "Managed Services"
+  },
+  "software-development": {
+    "title": "Software Development",
+    "tagline": "Custom Software Development",
+    "heroTitle": "Built for Dynamic Product Engineering",
+    "heroDesc": "Betopia Limited helps organizations design, develop, modernize, and scale custom software applications that drive efficiency, innovation and competitive advantage. From web and mobile apps to enterprise systems, we deliver secure, scalable and future-ready digital solutions.",
+    "heroBg": "/servicesImg/coverImg/Software development.png",
+    "overviewTitle": "Architecting the Future of Your Enterprise",
+    "overviewDesc": "Our software development services combine engineering excellence with deep business insight. Whether you're launching a web platform, building a mobile app, or modernizing legacy systems, we deliver high-performance, resilient and scalable solutions designed for real business outcomes.",
+    "whatWeDo": [
+      {
+        "title": "Custom Software & Mobile Apps Development",
+        "subtitle": "Built for your business. Not for everyone.",
+        "desc": "We design and develop custom software and mobile applications tailored to specific business needs and user experiences. From enterprise systems to customer-facing mobile apps, our solutions are secure, scalable and aligned with operational goals. The focus is on usability, performance and long-term maintainability. Custom-built applications enable differentiation and faster business growth.",
+        "image": "/servicesImg/Custom-Application-Development.jpg"
+      },
+      {
+        "title": "Application Modernization & Enhancement",
+        "subtitle": "Upgrade what works. Reinvent what doesn’t.",
+        "desc": "We modernize existing applications to improve performance, security and scalability without disrupting business operations. This includes re-architecting legacy systems, enhancing functionality and aligning applications with modern platforms and technologies. By reducing technical debt and improving agility, organizations extend application life and unlock new capabilities.",
+        "image": "/servicesImg/Secure-Business-Productivity.jpg"
+      },
+      {
+        "title": "Agile Development, DevOps & Automation",
+        "subtitle": "Release faster. Operate smarter.",
+        "desc": "We implement agile development practices combined with DevOps and automation to accelerate delivery and improve quality. This service focuses on CI/CD pipelines, automated testing, infrastructure automation and collaboration across teams. Faster release cycles, improved reliability and continuous improvement become part of the development culture.",
+        "image": "/servicesImg/Agile-vs-DevOps_1.jpg"
+      },
+      {
+        "title": "Product Engineering & Digital Innovation",
+        "subtitle": "From idea to impact.",
+        "desc": "We help organizations design and engineer digital products from concept to market readiness. This includes product architecture, rapid prototyping, MVP development and continuous enhancement. By combining engineering expertise with innovation frameworks, we turn ideas into scalable digital products that create real business value.",
+        "image": "/servicesImg/Digital-Product-Engineering-Lifecycle.jpg"
+      }
+    ],
+    "whyBetopia": [
+      "Business-aligned software solutions",
+      "Secure, scalable and future-ready architectures",
+      "Agile and DevOps-driven delivery",
+      "Strong focus on quality and maintainability",
+      "Enterprise and regulated-industry experience"
+    ],
+    "methodology": [
+      {
+        "step": "01",
+        "title": "Discovery & Requirements",
+        "desc": "Understand business goals and user needs."
+      },
+      {
+        "step": "02",
+        "title": "Architecture & Design",
+        "desc": "Define scalable and secure foundations."
+      },
+      {
+        "step": "03",
+        "title": "Development & Delivery",
+        "desc": "Build with agility and automation."
+      },
+      {
+        "step": "04",
+        "title": "Enhancement & Optimization",
+        "desc": "Continuously improve performance and value."
+      }
+    ],
+    "benefits": [
+      {
+        "title": "Accelerated Delivery",
+        "desc": "Avoid the prolonged talent acquisition gaps. Working with our teams grants immediate access to experts who accelerate product timelines."
+      },
+      {
+        "title": "Lower Overall Cost",
+        "desc": "Our scalable teams provide the exact talent you need, when you need it, avoiding the rigid overhead of retaining unused internal engineering capacity."
+      },
+      {
+        "title": "Enhanced Code Quality",
+        "desc": "We adhere strictly to Test-Driven Development (TDD) and CI/CD, guaranteeing that each release is fundamentally stable, tested and secure."
+      },
+      {
+        "title": "Domain Expertise",
+        "desc": "We bring multifaceted industry experience from hundreds of successful software rollouts to strategically shape your custom products."
+      },
+      {
+        "title": "Seamless Scalability",
+        "desc": "Dynamically adjust the size and composition of your development teams across different stages of the application lifecycle from prototype to production."
+      },
+      {
+        "title": "Focus on Core Business",
+        "desc": "Outsourcing your heavy technical lifting allows your internal teams to remain focused completely on vision, sales and strategy. Let the experts build."
+      }
+    ],
+    "bestPractices": [
+      {
+        "title": "Continuous Integration & Delivery (CI/CD)",
+        "desc": "We automate all testing and deployment phases. This eliminates human error, ensures rapid iterations and delivers verified code reliably into production environments."
+      },
+      {
+        "title": "Microservices Architecture",
+        "desc": "By designing modular components, we ensure that parts of your application can be scaled, updated and deployed entirely independently of the rest of the ecosystem."
+      },
+      {
+        "title": "Secure by Design",
+        "desc": "Security isn't an afterthought. We bake vulnerability scanning, static code analysis and Zero-Trust principles deeply into the earliest stages of the build cycle."
+      },
+      {
+        "title": "Test-Driven Development (TDD)",
+        "desc": "Extensive unit, integration and end-to-end tests are written in parallel with the codebase. This guarantees functional stability and entirely prevents regression bugs."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Do you design custom software from scratch?",
+        "answer": "Yes, we handle the entire lifecycle. From initial strategic conceptualization, UX/UI design, to robust architectural engineering, all the way to final deployment, hosting and maintenance."
+      },
+      {
+        "question": "How do you modernize legacy applications?",
+        "answer": "We use a combination of re-platforming and full architectural refactoring. We typically employ a strangler-pattern strategy to slowly replace legacy components with modern microservices with zero downtime."
+      },
+      {
+        "question": "Will I retain full ownership of the source code?",
+        "answer": "Absolutely. All custom software, Intellectual Property (IP) and associated codebases developed during the project are completely owned by your organization from day one."
+      },
+      {
+        "question": "What agile methodologies do you follow?",
+        "answer": "We employ flexible, sprint-based Agile frameworks (Scrum and Kanban) ensuring extreme transparency, continuous feedback loops and highly adaptive delivery."
+      },
+      {
+        "question": "Can you augment our existing internal dev team?",
+        "answer": "Yes. Our senior engineers can be onboarded seamlessly to integrate directly with your workflows, repositories and culture for staff augmentation."
+      }
+    ],
+    "titleHighlights": "Software Development"
+  },
+  "team-augmentation": {
+    "title": "Resource Augmentation",
+    "tagline": "Resource Augmentation Service",
+    "heroTitle": "Built for Rapid Engineering Scale",
+    "heroDesc": "Betopia Limited provides resource augmentation services that help enterprises scale faster with skilled developers, engineers and technology experts. Build high-performing teams, reduce hiring time and deliver projects efficiently with flexible and cost-effective talent solutions.",
+    "heroBg": "/servicesImg/coverImg/Resource Argumentation.png",
+    "overviewTitle": "Team Augmentation Services for Scalable Growth",
+    "overviewDesc": "Scale your business faster with Betopia Limited’s team augmentation services. Access skilled developers, engineers and IT professionals to boost productivity and accelerate project delivery.",
+    "whatWeDo": [
+      {
+        "title": "Dedicated Developer Teams",
+        "subtitle": "The top 1% of engineering talent.",
+        "desc": "We build custom engineering squads aligned perfectly to your technical ecosystem. Our specialists integrate seamlessly into your workflows, standups, and release schedules under your direct management, completely unburdening your hiring overhead.",
+        "image": "/aboutImg.jpg"
+      },
+      {
+        "title": "On-Demand Niche Experts",
+        "subtitle": "Plug talent gaps instantly.",
+        "desc": "Need a senior cloud architect, deep learning expert, or cybersecurity audit specialist? We allocate certified veterans within 2 weeks, ensuring your high-priority projects never stall.",
+        "image": "/servicesImg/Identity-Security-Solutions-for-Enterprises.jpg"
+      }
+    ],
+    "whyBetopia": [
+      "Top 1% pre-vetted senior technical talent",
+      "Seamless integration with in-house squads",
+      "No hiring, payroll, or operational overhead",
+      "Flexible contracts matching project cycles",
+      "Rapid allocation (onboarded in 2-4 weeks)"
+    ],
+    "methodology": [
+      {
+        "step": "01",
+        "title": "Requirement Discovery",
+        "desc": "Map exact tech stack and level of expertise needed."
+      },
+      {
+        "step": "02",
+        "title": "Talent Matching",
+        "desc": "Handpick and interview elite specialists from our pool."
+      },
+      {
+        "step": "03",
+        "title": "Onboarding & Access",
+        "desc": "Secure integration into your repos and Slack environments."
+      },
+      {
+        "step": "04",
+        "title": "Scale & Deliver",
+        "desc": "Launch continuous development with high-fidelity velocity."
+      }
+    ],
+    "benefits": [
+      {
+        "title": "Interact with Top 1% Talent",
+        "desc": "We've already done the rigorous testing for technical, logical and soft-skill abilities so you don't have to worry at all."
+      },
+      {
+        "title": "Smooth Communication",
+        "desc": "With our streamlined communication solutions, we offer efficient information flow and seamless collaboration."
+      },
+      {
+        "title": "Quick Recruitment Process",
+        "desc": "The hiring process is not time consuming with us. Our seamless and efficient recruitment process is designed to assemble the perfect team."
+      },
+      {
+        "title": "Seamless Integration",
+        "desc": "Experience the seamless integration, where talents align together effortlessly, creating a symphony of efficiency and innovation."
+      }
+    ],
+    "bestPractices": [
+      {
+        "title": "Establish Shared Workflows",
+        "desc": "We align our developers to your tooling, using shared Slack channels, Git repositories, Jira boards, and regular standups to maintain unified communication."
+      },
+      {
+        "title": "Rigorous Continuous Testing",
+        "desc": "Our augmented team implements comprehensive testing to ensure all commits are verified, stable, and ready to merge."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How quickly can you onboard augmented talent?",
+        "answer": "We typically matching and allocate pre-vetted engineers to your project within 2 to 4 weeks, with zero onboarding friction."
+      },
+      {
+        "question": "How do you ensure data confidentiality and IP security?",
+        "answer": "All engineers sign strict, comprehensive Non-Disclosure Agreements (NDAs). We also comply with your local code containment, VPC, and data residency policies."
+      }
+    ],
+    "titleHighlights": "Resource Augmentation"
+  }
+}
