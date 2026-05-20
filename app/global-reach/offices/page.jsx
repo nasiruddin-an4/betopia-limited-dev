@@ -45,21 +45,6 @@ const GLOBE_LOCATIONS = [
     flag: "🇦🇪",
   },
   {
-    id: 3,
-    lat: 15.1441,
-    lng: 120.5887,
-    country: "Philippines",
-    label: "Angeles City Office",
-    type: "Country Head",
-    repName: "Christopher French",
-    repImage: "/country_representive/Christopher-French-2.png",
-    address:
-      "Pulo Amsic Dr., Blk 1 Lot 13 Pulo Amsic Subd., Amsic, Angeles City, Pampanga, 2009",
-    email: "chris@betopialimited.com",
-    phone: "+63 919 077 1059",
-    flag: "🇵🇭",
-  },
-  {
     id: 4,
     lat: 15.1441,
     lng: 120.5887,
@@ -73,21 +58,6 @@ const GLOBE_LOCATIONS = [
     email: "ron@betopialimited.com",
     phone: "+61 406 560 146",
     flag: "🇵🇭",
-  },
-  {
-    id: 5,
-    lat: 23.8103,
-    lng: 90.4125,
-    country: "Bangladesh",
-    label: "Dhaka Office",
-    type: "Country Head",
-    repName: "Shahed Iqbal",
-    repImage: "/country_representive/Shahed-Iqbal-2.png",
-    address:
-      "C/A, Ak Khandaker Road Kaderia Tower J-28/8-B, Mohakhali, Dhaka 1213",
-    email: "shahed@betopialimited.com",
-    phone: "+880 1321-231828",
-    flag: "🇧🇩",
   },
   {
     id: 6,

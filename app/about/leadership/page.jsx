@@ -156,7 +156,7 @@ export default function LeadershipPage() {
 
   // Departmental Heads (Finance, HR, Admin)
   const [fbHeadName, setFbHeadName] = useState("Md. Saiful Islam");
-  const [fbHeadTitle, setFbHeadTitle] = useState("Director, Finance");
+  const [fbHeadTitle, setFbHeadTitle] = useState("Director,Accounts & Finance");
   const [fbHeadImage, setFbHeadImage] = useState("/C_suite/saiful-2.png");
 
   const [hrHeadName, setHrHeadName] = useState("Md. Sajedul Islam");
@@ -165,7 +165,7 @@ export default function LeadershipPage() {
 
   const [adminHeadName, setAdminHeadName] = useState("Md. Rezaul Karim");
   const [adminHeadTitle, setAdminHeadTitle] = useState(
-    "Head of Administration & Legal",
+    "Head of Administration & Legal Affairs",
   );
   const [adminHeadImage, setAdminHeadImage] = useState("/C_suite/reja-2.png");
 
@@ -433,7 +433,7 @@ export default function LeadershipPage() {
             {/* Slot 1: Betopia Group Management */}
             <div className="max-w-7xl mx-auto px-4">
               <h3 className="text-xl font-bold text-gray-400 mb-10 uppercase tracking-[0.2em] border-b border-gray-100 pb-4 text-center">
-                Betopia Group Management
+                Executive Management
               </h3>
               {/* Row 1: Executive Management (COO & CMO) */}
               <div className="flex flex-wrap justify-center gap-x-12 gap-y-16 mb-20 max-w-4xl mx-auto">
@@ -543,7 +543,7 @@ export default function LeadershipPage() {
         <div className="container mx-auto px-6 max-w-4xl relative z-10 text-center">
 
           <h2 className="text-3xl md:text-5xl font-semibold text-gray-900 mb-2 tracking-tight leading-tight">
-            Want to build the <span className="text-orange-500">future</span> with us?
+            Want to build your <span className="text-orange-500">future</span> with us?
           </h2>
           <p className="text-gray-600 text-base md:text-lg leading-relaxed max-w-2xl mx-auto mb-10">
             We are always looking for passionate engineers, digital innovators, and tech visionaries to join our growing global team. Discover open positions and start your journey at Betopia.
