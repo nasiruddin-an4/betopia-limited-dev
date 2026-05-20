@@ -214,7 +214,7 @@ export default function Footer() {
             {/* Link Column */}
             <div className="col-span-1 lg:col-span-1">
               <h4 className="text-lg md:text-xl font-bold mb-6 md:mb-8 text-white">
-                Links
+                Contact
               </h4>
               <ul className="flex flex-col gap-3 md:gap-4">
                 {reviewsLinks.map((link, idx) => (
